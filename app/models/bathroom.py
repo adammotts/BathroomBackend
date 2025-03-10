@@ -2,7 +2,7 @@ from datetime import datetime
 from bson import ObjectId
 from typing import List, Optional
 from fastapi import UploadFile, HTTPException
-from app.schemas.bathroom import Bathroom, BathroomRaw
+from app.schemas.bathroom import Bathroom
 from app.schemas.user import User
 from app.database.mongodb import db
 import json
