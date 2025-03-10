@@ -1,4 +1,4 @@
-from fastapi import APIRouter, HTTPException, status, Depends, Body
+from fastapi import APIRouter, HTTPException, status, Depends, Body, UploadFile, File
 from typing import List, Optional
 from datetime import datetime
 from pydantic import EmailStr
@@ -12,8 +12,8 @@ from app.database.mongodb import db
 router = APIRouter()
 
 @router.post("/from-json", response_model=List[Bathroom])
-async def populate_bathrooms():
-    return await bathroom_model.create_from_json("/Users/ma/Documents/GitHub/BathroomBackend/data.json")
+async def populate_bathrooms(file: UploadFile = File(...)):
+    return await bathroom_model.create_from_json(file)
 
 @router.get("/all", response_model=List[Bathroom])
 async def get_bathrooms():
