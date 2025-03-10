@@ -2,7 +2,7 @@
     "build": {
         "nixpacks": {
             "plan": {
-                "start": "python run.py"
+                "start": "uvicorn app.main:app --host 0.0.0.0 --port 8000"
             }
         }
     }
