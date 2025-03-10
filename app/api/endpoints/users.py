@@ -75,18 +75,6 @@ async def create_user(
             detail=detail
         )
 
-    # Process avatar image
-    avatar_image_data = None
-    if avatar_image:
-        try:
-            avatar_image_data = await avatar_image.read()
-        except Exception as e:
-            logger.error(f"Error processing avatar image: {e}")
-            raise HTTPException(
-                status_code=status.HTTP_400_BAD_REQUEST,
-                detail="Error processing avatar image"
-            )
-
     # Create user document
     user_id = str(ObjectId())
     hashed_password = hash_password(password)
@@ -97,9 +85,8 @@ async def create_user(
         "email": email.lower(),
         "username": username.lower(),
         "hashed_password": hashed_password,
-        "firstName": firstName,
-        "lastName": lastName,
-        "avatarImage": avatar_image_data
+        "first_name": first_name,
+        "last_name": last_name,
     }
 
     # Save user to database
@@ -127,9 +114,8 @@ async def create_user(
             id=user_id,
             email=email.lower(),
             username=username.lower(),
-            firstName=firstName,
-            lastName=lastName,
-            avatarImage=avatar_image_data
+            first_name=first_name,
+            last_name=last_name,
         )
     )
 
@@ -177,9 +163,8 @@ async def login_for_access_token(form_data: OAuth2PasswordRequestForm = Depends(
             id=user["id"],
             email=user["email"],
             username=user["username"],
-            firstName=user.get("firstName"),
-            lastName=user.get("lastName"),
-            avatarImage=user.get("avatarImage")
+            first_name=user.get("first_name"),
+            last_name=user.get("last_name")
         )
     )
 
@@ -222,12 +207,3 @@ async def get_user(user_id: str):
     print(user_id)
     user = await user_model.get_by_id(user_id)
     return user
-
-@router.post("/interests/update", response_model=User)
-async def update_interests(
-    current_user: User = Depends(get_current_user),
-    interests: List[Tuple[str, int]] = Body(...)
-):
-    """update user interests"""
-    await user_model.update_interests(current_user.id, interests)
-    return await user_model.get_by_id(current_user.id)

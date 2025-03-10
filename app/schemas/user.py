@@ -3,13 +3,8 @@ from typing import List, Optional, Tuple
 
 class UserBase(BaseModel):
     email: EmailStr
-    firstName: Optional[str] = None
-    lastName: Optional[str] = None
-    avatarImage: Optional[str] = None
-    bio: Optional[str] = None
-    interests: Optional[List[Tuple[str, int]]] = []
-    users_met_online: Optional[List[str]] = []
-    users_met_in_person: Optional[List[str]] = []
+    first_name: Optional[str] = None
+    last_name: Optional[str] = None
 
     class Config:
         from_attributes = True
