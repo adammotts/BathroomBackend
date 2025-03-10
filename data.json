@@ -1,0 +1,4132 @@
+[
+    {
+        "name": "Capuano Field (Glen Field)",
+        "address": "150 Glen Street, Somerville MA",
+        "zip": "02145",
+        "latitude": 42.382584,
+        "longitude": -71.086931,
+        "hours": "8 AM - 10 PM",
+        "remarks": "Seasonal portapotty",
+        "dist": 5260.7037099185045
+    },
+    {
+        "name": "Lincoln Field",
+        "address": "290 Washington St, Somerville MA",
+        "zip": "02143",
+        "latitude": 42.378878,
+        "longitude": -71.098853,
+        "hours": "8 AM - 10 PM",
+        "remarks": "Seasonal portapotty",
+        "dist": 5261.241655535534
+    },
+    {
+        "name": "Hodgkins-Curtin Park",
+        "address": "113 Holland St, Somerville MA",
+        "zip": "02144",
+        "latitude": 42.39937,
+        "longitude": -71.124718,
+        "hours": "7 AM - 6 PM",
+        "remarks": "Seasonal portapotty",
+        "dist": 5262.846191403777
+    },
+    {
+        "name": "Nuziato Field",
+        "address": "4 Putnam St, Somerville MA",
+        "zip": "02143",
+        "latitude": 42.383227,
+        "longitude": -71.099043,
+        "hours": "8 AM - 10 PM",
+        "remarks": "Seasonal portapotty",
+        "dist": 5261.3178511227115
+    },
+    {
+        "name": "Foss Field",
+        "address": "49 Fellsway W, Somerville MA",
+        "zip": "02145",
+        "latitude": 42.391091,
+        "longitude": -71.089775,
+        "hours": "TBD",
+        "remarks": "Seasonal portapotty",
+        "dist": 5260.976178731856
+    },
+    {
+        "name": "Trum Field",
+        "address": "1 Franey Road, Somerville MA",
+        "zip": "02415",
+        "latitude": 42.397119,
+        "longitude": -71.107499,
+        "hours": "8 AM - 11 PM",
+        "remarks": "Seasonal portapotty",
+        "dist": 5261.95278210333
+    },
+    {
+        "name": "Tufts Triangle Field",
+        "address": "138 College Ave, Somerville MA",
+        "zip": "02144",
+        "latitude": 42.404129,
+        "longitude": -71.117327,
+        "hours": "TBD",
+        "remarks": "Seasonal portapotty",
+        "dist": 5262.550483656256
+    },
+    {
+        "name": "Dilboy Auxiliary",
+        "address": "300 Alewife Parkway, Somerville MA",
+        "zip": "02144",
+        "latitude": 42.40798,
+        "longitude": -71.132304,
+        "hours": "TBD",
+        "remarks": "Seasonal portapotty",
+        "dist": 5263.35649026626
+    },
+    {
+        "name": "Corbett McKenna Park",
+        "address": "35 Munroe St, Somerville MA",
+        "zip": "02143",
+        "latitude": 42.381109,
+        "longitude": -71.092531,
+        "hours": "TBD",
+        "remarks": "Seasonal portapotty",
+        "dist": 5260.96046007126
+    },
+    {
+        "name": "Florence Playground",
+        "address": "13 Florence St, Somerville MA",
+        "zip": "02145",
+        "latitude": 42.382307,
+        "longitude": -71.082998,
+        "hours": "8 AM - 10 PM",
+        "remarks": "Seasonal portapotty",
+        "dist": 5260.503240870333
+    },
+    {
+        "name": "Osgood Playground",
+        "address": "6 Osgood St, Somerville MA",
+        "zip": "02143",
+        "latitude": 42.383358,
+        "longitude": -71.10238,
+        "hours": "TBD",
+        "remarks": "Seasonal portapotty",
+        "dist": 5261.48634778037
+    },
+    {
+        "name": "Albion Park",
+        "address": "108 Albion Street, Somerville MA",
+        "zip": "02144",
+        "latitude": 42.391641,
+        "longitude": -71.1081,
+        "hours": "TBD",
+        "remarks": "Seasonal portapotty",
+        "dist": 5261.898746308941
+    },
+    {
+        "name": "Fire Station Headquarters",
+        "address": "266 Broadway, Somerville MA",
+        "zip": "02145",
+        "latitude": 42.390846,
+        "longitude": -71.091237,
+        "hours": "24/7",
+        "remarks": "",
+        "dist": 5261.045347371167
+    },
+    {
+        "name": "Somerville Fire Department",
+        "address": "265 Highland Ave, Somerville MA",
+        "zip": "02143",
+        "latitude": 42.391681,
+        "longitude": -71.110834,
+        "hours": "24/7",
+        "remarks": "",
+        "dist": 5262.035746611867
+    },
+    {
+        "name": "Somerville Police Department",
+        "address": "255 Somerville Ave, Somerville MA",
+        "zip": "02143",
+        "latitude": 42.378902,
+        "longitude": -71.092559,
+        "hours": "24/7",
+        "remarks": "",
+        "dist": 5260.9279893326975
+    },
+    {
+        "name": "Somerville Fire Department",
+        "address": "651 Somerville Ave, Somerville MA",
+        "zip": "02143",
+        "latitude": 42.384665,
+        "longitude": -71.111334,
+        "hours": "24/7",
+        "remarks": "",
+        "dist": 5261.95311907712
+    },
+    {
+        "name": "Somerville Fire Department, Engine 6 \u0026 Ladder 3",
+        "address": "238 Holland St, Somerville MA",
+        "zip": "02215",
+        "latitude": 42.402546,
+        "longitude": -71.126962,
+        "hours": "24/7",
+        "remarks": "",
+        "dist": 5263.006789907848
+    },
+    {
+        "name": "Public Safety Building",
+        "address": "220 Washington St, Somerville MA",
+        "zip": "02143",
+        "latitude": 42.379032,
+        "longitude": -71.092388,
+        "hours": "TBD",
+        "remarks": "",
+        "dist": 5260.921452402327
+    },
+    {
+        "name": "Somerville City Hall",
+        "address": "93 Highland Ave, Somerville MA",
+        "zip": "02143",
+        "latitude": 42.387194,
+        "longitude": -71.098162,
+        "hours": "Monday - Wednesday: 8:30 AM - 4:30 PM\r\nThursday: 8:30 AM - 7:30 PM\r\nFriday: 8:30 AM - 12:30 PM",
+        "remarks": "",
+        "dist": 5261.33476029961
+    },
+    {
+        "name": "Somerville City Hall Annex Building",
+        "address": "50 Evergreen Ave, Somerville MA",
+        "zip": "02145",
+        "latitude": 42.391786,
+        "longitude": -71.097246,
+        "hours": "TBD",
+        "remarks": "",
+        "dist": 5261.359524560414
+    },
+    {
+        "name": "Somerville Public Library - Central Library",
+        "address": "79 Highland Ave, Somerville MA",
+        "zip": "02143",
+        "latitude": 42.385788,
+        "longitude": -71.094405,
+        "hours": "Monday - Friday: 9:00 AM - 6:00 PM\r\nSaturday: 9:00 AM - 5:00 PM\r\nSunday: Closed",
+        "remarks": "",
+        "dist": 5261.125757157973
+    },
+    {
+        "name": "Somerville Public Library - East Branch",
+        "address": "115 Broadway, Somerville MA",
+        "zip": "02145",
+        "latitude": 42.387928,
+        "longitude": -71.083558,
+        "hours": "Monday - Friday: 9:00 AM - 6:00 PM\r\nSaturday: 9:00 AM - 1:00 PM\r\nSunday: Closed",
+        "remarks": "",
+        "dist": 5260.617487259949
+    },
+    {
+        "name": "Somerville Public Library - West Branch",
+        "address": "40 College Ave, Somerville MA",
+        "zip": "02144",
+        "latitude": 42.398148,
+        "longitude": -71.121714,
+        "hours": "Monday - Friday: 9:00 AM - 6:00 PM\r\nSaturday: 9:00 AM - 1:00 PM\r\nSunday: Closed",
+        "remarks": "",
+        "dist": 5262.677620075113
+    },
+    {
+        "name": "Somerville Police East Station",
+        "address": "81 Broadway, Somerville MA",
+        "zip": "02145",
+        "latitude": 42.387431,
+        "longitude": -71.081934,
+        "hours": "24/7",
+        "remarks": "",
+        "dist": 5260.5288420258585
+    },
+    {
+        "name": "Somerville Police West Station",
+        "address": "1114 Broadway, Somerville MA",
+        "zip": "02144",
+        "latitude": 42.402817,
+        "longitude": -71.126662,
+        "hours": "24/7",
+        "remarks": "",
+        "dist": 5262.995978910314
+    },
+    {
+        "name": "CHA Windsor Street Health Center",
+        "address": "119 Windsor St, Cambridge MA",
+        "zip": "02139",
+        "latitude": 42.364698,
+        "longitude": -71.096645,
+        "hours": "7 a.m. to 9 p.m. weekdays; 9 a.m. to 3 p.m. Saturdays",
+        "remarks": "",
+        "dist": 5260.91396972671
+    },
+    {
+        "name": "Rindge Field",
+        "address": "114 Pemberton Street, Cambridge MA",
+        "zip": "02140",
+        "latitude": 42.390739,
+        "longitude": -71.129539,
+        "hours": "24/7",
+        "remarks": "Seasonal Portapotty",
+        "dist": 5262.954453397538
+    },
+    {
+        "name": "Firehouse, Taylor Square Engine 8",
+        "address": "113 Garden Street, Cambridge MA",
+        "zip": "02138",
+        "latitude": 42.384236,
+        "longitude": -71.129853,
+        "hours": "6 AM - 10 PM",
+        "remarks": "Bathrooms are inaccessible when firefighters are out",
+        "dist": 5262.870515947514
+    },
+    {
+        "name": "Hoyt Field",
+        "address": "10 Montague Street, Cambridge MA",
+        "zip": "02139",
+        "latitude": 42.362726,
+        "longitude": -71.112503,
+        "hours": "7 AM - 8 PM",
+        "remarks": "Seasonal Portapotty",
+        "dist": 5261.675182250274
+    },
+    {
+        "name": "Magazine Pool",
+        "address": "719 Memorial Drive, Cambridge MA",
+        "zip": "02139",
+        "latitude": 42.356934,
+        "longitude": -71.115223,
+        "hours": "10 AM - 7 PM",
+        "remarks": "Seasonal Summer",
+        "dist": 5261.722200285449
+    },
+    {
+        "name": "Firehouse, Inman Square Engine 5",
+        "address": "1384 Cambridge St, Cambridge MA",
+        "zip": "02139",
+        "latitude": 42.373679,
+        "longitude": -71.101024,
+        "hours": "6 a.m. to 10 p.m",
+        "remarks": "Bathrooms are inaccessible when firefighters are out",
+        "dist": 5261.27023802446
+    },
+    {
+        "name": "CHA Cambridge Hospital Campus",
+        "address": "1493 Cambridge St, Cambridge MA",
+        "zip": "02139",
+        "latitude": 42.375173,
+        "longitude": -71.104773,
+        "hours": "6 a.m. to 8 p.m. in the reception area; \r\n24 hours in the emergency room",
+        "remarks": "",
+        "dist": 5261.480220419172
+    },
+    {
+        "name": "Cambridge Common",
+        "address": "1500 Massachusetts Ave, Cambridge MA",
+        "zip": "02139",
+        "latitude": 42.364437,
+        "longitude": -71.102067,
+        "hours": "24/7",
+        "remarks": "",
+        "dist": 5261.180561780442
+    },
+    {
+        "name": "CHA East Cambridge Health Center",
+        "address": "163 Gore St, Cambridge MA",
+        "zip": "02139",
+        "latitude": 42.373121,
+        "longitude": -71.085365,
+        "hours": "8 a.m. to 5 p.m. Mondays, Wednesdays and Fridays; 8 a.m. to 8 p.m. Tuesdays and Thursdays",
+        "remarks": "",
+        "dist": 5260.4803158600125
+    },
+    {
+        "name": "Firehouse, West Cambridge Engine 9",
+        "address": "166 Lexington Ave, Cambridge MA",
+        "zip": "02138",
+        "latitude": 42.380194,
+        "longitude": -71.141202,
+        "hours": "6 a.m. to 10 p.m. daily",
+        "remarks": "Bathrooms are inaccessible when firefighters are out",
+        "dist": 5263.374914555094
+    },
+    {
+        "name": "Sennott Park",
+        "address": "305 Broadway, Cambridge MA",
+        "zip": "02139",
+        "latitude": 42.36915,
+        "longitude": -71.100008,
+        "hours": "6 AM - 10 PM",
+        "remarks": "Seasonal Portapotty",
+        "dist": 5261.150079549325
+    },
+    {
+        "name": "Firehouse, South Side Engine 6",
+        "address": "176 River St, Cambridge MA",
+        "zip": "02139",
+        "latitude": 42.363259,
+        "longitude": -71.110012,
+        "hours": "6 a.m. to 10 p.m.",
+        "remarks": "Bathrooms are inaccessible when firefighters are out",
+        "dist": 5261.559025195207
+    },
+    {
+        "name": "Firehouse, North Cambridge Engine 4",
+        "address": "2029 Massachusetts Ave, Cambridge MA",
+        "zip": "02139",
+        "latitude": 42.368734,
+        "longitude": -71.109571,
+        "hours": "6 a.m. to 10 p.m.",
+        "remarks": "Bathrooms are inaccessible when firefighters are out",
+        "dist": 5261.62093226205
+    },
+    {
+        "name": "CHA Cambridge Family Health North",
+        "address": "2067 Massachusetts Ave, Cambridge MA",
+        "zip": "02139",
+        "latitude": 42.368734,
+        "longitude": -71.109571,
+        "hours": "8:30 a.m. to 5 p.m. Mondays, Tuesdays, Thursdays, and Fridays",
+        "remarks": "",
+        "dist": 5261.62093226205
+    },
+    {
+        "name": "CHA Cambridge Family Health",
+        "address": "237 Hampshire St, Cambridge MA",
+        "zip": "02139",
+        "latitude": 42.373997,
+        "longitude": -71.100879,
+        "hours": "8:30 a.m. to 8 p.m. Mondays; 8:30 a.m. to 5 p.m. Tuesdays through Fridays",
+        "remarks": "",
+        "dist": 5261.267879733913
+    },
+    {
+        "name": "Boudreau Branch Library",
+        "address": "245 Concord Ave, Cambridge MA",
+        "zip": "02139",
+        "latitude": 42.383374,
+        "longitude": -71.132576,
+        "hours": "10 a.m. to 6 p.m. Monday, Wednesday, and Friday",
+        "remarks": "",
+        "dist": 5262.993179607056
+    },
+    {
+        "name": "Walter Sullivan Water Treatment Plant",
+        "address": "250 Fresh Pond Pkwy, Cambridge, MA",
+        "zip": "02138",
+        "latitude": 42.375184,
+        "longitude": -71.139412,
+        "hours": "Dawn to dusk",
+        "remarks": "At the rangers station under the clock tower",
+        "dist": 5263.208913400146
+    },
+    {
+        "name": "Ahern Field",
+        "address": "259 Charles St, Cambridge MA",
+        "zip": "02139",
+        "latitude": 42.368367,
+        "longitude": -71.085861,
+        "hours": "TBD",
+        "remarks": "Seasonal Portapotty",
+        "dist": 5260.432097987616
+    },
+    {
+        "name": "Cambridge City Hall Annex",
+        "address": "345 Broadway, Cambridge MA",
+        "zip": "02139",
+        "latitude": 42.370236,
+        "longitude": -71.103097,
+        "hours": "8:30 a.m. to 8 p.m. Monday; 8:30 a.m. to 5 p.m. Tuesdays through Thursdays; 8:30 a.m. to 12 p.m. Fridays",
+        "remarks": "",
+        "dist": 5261.32088322373
+    },
+    {
+        "name": "Francis J. McCrehan Pool",
+        "address": "359 Rindge Ave, Cambridge MA",
+        "zip": "02139",
+        "latitude": 42.394474,
+        "longitude": -71.137128,
+        "hours": "10 a.m. to 7 p.m.",
+        "remarks": "Seasonal summer program",
+        "dist": 5263.3902553027865
+    },
+    {
+        "name": "Donnelly Field",
+        "address": "37 Berkshire St, Cambridge MA",
+        "zip": "02139",
+        "latitude": 42.369086,
+        "longitude": -71.091762,
+        "hours": "8:30 a.m. - 8 p.m. Monday; 8:30 a.m. - 5 p.m. Tuesday, Wednesday, Thursday; 8:30 a.m. - 12 p.m. Friday",
+        "remarks": "Seasonal Portapotty",
+        "dist": 5260.737601964588
+    },
+    {
+        "name": "Firehouse, Lafayette Square Engine 2",
+        "address": "378 Massachusetts Ave, Cambridge MA",
+        "zip": "02139",
+        "latitude": 42.362976,
+        "longitude": -71.10016,
+        "hours": "6 a.m. to 10 p.m.",
+        "remarks": "Bathrooms are inaccessible when firefighters are out",
+        "dist": 5261.0629850422665
+    },
+    {
+        "name": "Raymond Field",
+        "address": "106 Raymond St, Cambridge, MA",
+        "zip": "02140",
+        "latitude": 42.386138,
+        "longitude": -71.127017,
+        "hours": "24/7",
+        "remarks": "Seasonal Portapotty",
+        "dist": 5262.758150517795
+    },
+    {
+        "name": "Danehy Park",
+        "address": "99 Sherman St, Cambridge MA",
+        "zip": "02138",
+        "latitude": 42.38854,
+        "longitude": -71.132661,
+        "hours": "24/7",
+        "remarks": "Two seasonal portapotties in the park, and two seasonal bathrooms by the enterance",
+        "dist": 5263.076530912
+    },
+    {
+        "name": "Lombardi Building",
+        "address": "831 Massachusetts Ave, Cambridge MA",
+        "zip": "02139",
+        "latitude": 42.367282,
+        "longitude": -71.106387,
+        "hours": "8:30 a.m. to 5 p.m. weekdays and from 6 to 10 p.m. on hearing (?) nights",
+        "remarks": "",
+        "dist": 5261.439776297056
+    },
+    {
+        "name": "Firehouse, East Cambridge Engine 3",
+        "address": "826 Cambridge St, Cambridge MA",
+        "zip": "02139",
+        "latitude": 42.372155,
+        "longitude": -71.090247,
+        "hours": "6 a.m. to 10 p.m. daily",
+        "remarks": "Bathrooms are inaccessible when firefighters are out",
+        "dist": 5260.709094080593
+    },
+    {
+        "name": "Russell Field",
+        "address": "82 Clifton St, Cambridge MA",
+        "zip": "02139",
+        "latitude": 42.396023,
+        "longitude": -71.136536,
+        "hours": "",
+        "remarks": "Seasonal",
+        "dist": 5263.384442048565
+    },
+    {
+        "name": "Cambridge City Hall",
+        "address": "795 Massachusetts Ave, Cambridge MA",
+        "zip": "02138",
+        "latitude": 42.366859,
+        "longitude": -71.105962,
+        "hours": "8:30 a.m. to 8 p.m. Monday; 8:30 a.m. to 5 p.m. Tuesdays through Thursdays; 8:30 a.m. to noon Fridays",
+        "remarks": "",
+        "dist": 5261.412081600179
+    },
+    {
+        "name": "Portland Loo",
+        "address": "1 Western Ave, Cambridge, MA",
+        "zip": "02139",
+        "latitude": 42.364437,
+        "longitude": -71.102067,
+        "hours": "24/7",
+        "remarks": "",
+        "dist": 5261.180561780442
+    },
+    {
+        "name": "Weston Town Hall",
+        "address": "11 Town House Rd, Weston, MA",
+        "zip": "02493",
+        "latitude": 42.369324,
+        "longitude": -71.298849,
+        "hours": "Weekdays: 8:30AM-5PM\r\nWeekends: Closed",
+        "remarks": "",
+        "dist": 5271.078281025032
+    },
+    {
+        "name": "Weston Public Library",
+        "address": "87 School St, Weston, MA",
+        "zip": "02493",
+        "latitude": 42.362099,
+        "longitude": -71.294638,
+        "hours": "Mon-Thurs: 9AM-9PM\r\nFriday: 9AM-6PM\r\nSaturday: 10AM-5PM\r\nSunday: 12PM-5PM",
+        "remarks": "",
+        "dist": 5270.758405474862
+    },
+    {
+        "name": "Weston Police Department",
+        "address": "180 Boston Post Rd Bypass, Weston, MA",
+        "zip": "02493",
+        "latitude": 42.363562,
+        "longitude": -71.307103,
+        "hours": "24/7",
+        "remarks": "",
+        "dist": 5271.403053584414
+    },
+    {
+        "name": "Weston Fire Department",
+        "address": "394 Boston Post Rd, Weston, MA",
+        "zip": "02493",
+        "latitude": 42.367105,
+        "longitude": -71.300031,
+        "hours": "24/7",
+        "remarks": "",
+        "dist": 5271.103641272943
+    },
+    {
+        "name": "Wayland Town Hall",
+        "address": "41 Cochituate Road, Wayland, MA",
+        "zip": "01778",
+        "latitude": 42.361369,
+        "longitude": -71.361341,
+        "hours": "Monday: 8:00 am to 7:00 pm\r\nTuesday - Thursday: 8:00 am to 4:00 pm\r\nFriday: 8:00 am to 12:30 pm",
+        "remarks": "",
+        "dist": 5274.078589711026
+    },
+    {
+        "name": "Wayland Free Public Library",
+        "address": "5 Concord Road Wayland, MA",
+        "zip": "01778",
+        "latitude": 42.365153,
+        "longitude": -71.360895,
+        "hours": "Monday \u2013 Thursday 9 a.m. \u2013 9 p.m.\r\nFriday 9 a.m. \u2013 6 p.m.\r\nSaturdays 10 a.m. \u2013 5 p.m.\r\nSundays 2 p.m. \u2013 5 p.m.",
+        "remarks": "https://waylandlibrary.org/aboutus/about-wpl/location-hours/\r\n\r\nuse the above link for more details about holiday closures",
+        "dist": 5274.113511675348
+    },
+    {
+        "name": "Boston Fire Department District 11 Engine 29 and Ladder 11",
+        "address": "138 Chestnut Hill Ave, Boston, MA",
+        "zip": "02135",
+        "latitude": 42.342701,
+        "longitude": -71.153445,
+        "hours": "24/7",
+        "remarks": "One unisex, wheelchair-accessible stall\r\nNo family bathroom\r\nDon't need to use stairs to enter building or bathroom",
+        "dist": 5263.412607311301
+    },
+    {
+        "name": "Boston Fire Department District 11 Engine 51",
+        "address": "425 Faneuil St, Brighton, MA",
+        "zip": "02135",
+        "latitude": 42.351334,
+        "longitude": -71.168186,
+        "hours": "24/7",
+        "remarks": "One unisex, wheelchair-accessible stall\r\nNo family bathroom\r\nDon't need to use stairs to enter building or bathroom",
+        "dist": 5264.280531631479
+    },
+    {
+        "name": "Boston Public Library - Brighton",
+        "address": "40 Academy Hill Rd, Brighton, MA",
+        "zip": "02135",
+        "latitude": 42.347559,
+        "longitude": -71.152718,
+        "hours": "Monday: 12 P.M. \u2013 8 P.M.\r\nTuesday, Wednesday: 10 A.M. \u2013 6 P.M.\r\nThursday: 12 P.M. \u2013 8 P.M.\r\nFriday, Saturday: 9 A.M. \u2013 5 P.M.\r\nSunday: Closed",
+        "remarks": "Wheelchair-accessible stalls\r\nTwo gender-specific bathrooms (one male, one female)\r\nBoth bathrooms are family-friendly (they have changing tables)\r\nDon't need to use stairs to enter building or bathroom",
+        "dist": 5263.450561689314
+    },
+    {
+        "name": "Boston Police Department District D-14",
+        "address": "301 Washington St, Boston, MA",
+        "zip": "02135",
+        "latitude": 42.349361,
+        "longitude": -71.15059,
+        "hours": "24/7",
+        "remarks": "One unisex, wheelchair-accessible stall\r\nNo family bathroom\r\nDon't need to use stairs to enter the building or bathroom",
+        "dist": 5263.371862764357
+    },
+    {
+        "name": "Boston Public Library - Faneuil",
+        "address": "419 Faneuil Street, Boston, MA",
+        "zip": "02135",
+        "latitude": 42.351329,
+        "longitude": -71.167872,
+        "hours": "Monday: 10 A.M. \u2013 6 P.M.\r\nTuesday: 12 P.M. \u2013 8 P.M.\r\nWednesday And Thursday: 10 A.M. \u2013 6 P.M.\r\nFriday: 9 A.M. \u2013 5 P.M.\r\nSaturday: 9 A.M. \u2013 2 P.M.\r\nSunday: Closed",
+        "remarks": "One Unisex Bathroom Stall (It's Not Wheelchair-accessible)\r\nNo Family Bathroom\r\nNeed To Use Stairs To Enter Building, Bathroom",
+        "dist": 5264.26477799109
+    },
+    {
+        "name": "Boston Public Library - Honan-Allston",
+        "address": "300 North Harvard St, Allston, MA",
+        "zip": "02134",
+        "latitude": 42.360192,
+        "longitude": -71.128493,
+        "hours": "Monday: 12 P.M. \u2013 8 P.M.\r\nTuesday: 10 A.M. \u2013 6 P.M.\r\nWednesday: 12 P.M. \u2013 8 P.M.\r\nThursday: 10 A.M. \u2013 6 P.M.\r\nFriday And Saturday: 9 A.M. \u2013 5 P.M.\r\nSunday: Closed",
+        "remarks": "Wheelchair-Accessible Stalls\r\nThree Gender-Specific Bathrooms (One Male, Two Female)\r\nThree Unisex Stalls (They Each Feature Changing Tables For Families)\r\nDon't Need To Use Stairs To Enter Building, Bathroom",
+        "dist": 5262.434468501016
+    },
+    {
+        "name": "Boston Fire Department District 4 Engine 7 And Tower 17",
+        "address": "200 Columbus Avenue, Boston, MA",
+        "zip": "02116",
+        "latitude": 42.34893,
+        "longitude": -71.070935,
+        "hours": "24/7",
+        "remarks": "One unisex, wheelchair-accessible stall\r\nNo family bathroom\r\nDon't need to use stairs to enter the building or bathroom",
+        "dist": 5259.388774555827
+    },
+    {
+        "name": "Boston Fire Department District 4 Engine 33 And Ladder 15",
+        "address": "941 Boylston Street, Boston, MA",
+        "zip": "02116",
+        "latitude": 42.350403,
+        "longitude": -71.076194,
+        "hours": "24/7",
+        "remarks": "One unisex, wheelchair-accessible stall\r\nNo family bathroom\r\nDon't need to use stairs to enter the building or bathroom",
+        "dist": 5259.673895669112
+    },
+    {
+        "name": "Boston Public Library - Central",
+        "address": "700 Boylston St, Boston, MA",
+        "zip": "02116",
+        "latitude": 42.34933,
+        "longitude": -71.078655,
+        "hours": "Monday - Thursday: 9 A.M. - 9 P.M.\r\nFriday - Saturday: 9 A.M. - 5 P.M.\r\nSunday: 1 P.M. - 5 P.M.",
+        "remarks": "Wheelchair-Accessible Stalls\r\nSix Gender-Specific Bathrooms (Three Male Stalls, Three Female Stalls)\r\nOne Unisex Stall\r\nFamily Bathrooms With Changing Stations\r\nDon't Need To Use Stairs To Enter Building, Bathroom",
+        "dist": 5259.780268747452
+    },
+    {
+        "name": "BCYF Clougherty Pool",
+        "address": "331 Bunker Hill St, Boston, MA",
+        "zip": "02129",
+        "latitude": 42.381378,
+        "longitude": -71.06712,
+        "hours": "ONLY OPEN DURING THE SUMMER, WEATHER PERMITTING\r\n\r\nMonday Through Friday, 11 A.M. - 7 P.M.",
+        "remarks": "Wheelchair-Accessible Stalls\r\nThere Is One Female Stall And One Unisex Stall\r\nThere Is No Family Bathroom\r\nDon't Need To Use Stairs To Enter Building, Bathroom\r\nVisitors Must Sign In At Front Desk",
+        "dist": 5259.696835637257
+    },
+    {
+        "name": "BCYF Golden Age",
+        "address": "382 Main St, Charlestown, MA",
+        "zip": "02129",
+        "latitude": 42.379766,
+        "longitude": -71.069902,
+        "hours": "Monday Through Friday, 9 A.M. - 5 P.M.",
+        "remarks": "Don't Need To Use Stairs To Enter Building Or Bathroom\r\nVisitors Must Sign In At Front Desk",
+        "dist": 5259.810856889771
+    },
+    {
+        "name": "Boston Fire Department District 3 Engine 50",
+        "address": "34 Winthrop St, Boston, MA",
+        "zip": "02129",
+        "latitude": 42.37432,
+        "longitude": -71.061054,
+        "hours": "24/7",
+        "remarks": "One Unisex, Wheelchair-Accessible Stall\r\nNo Family Bathroom\r\nDon't Need To Use Stairs To Enter The Building Or Bathroom",
+        "dist": 5259.285725536613
+    },
+    {
+        "name": "Boston Public Library - Charlestown",
+        "address": "179 Main St, Charlestown, MA",
+        "zip": "02129",
+        "latitude": 42.37453,
+        "longitude": -71.063585,
+        "hours": "Monday: 12 \u2013 8 P.M.\r\nTuesday And Wednesday: 10 A.M. \u2013 6 P.M.\r\nThursday: 12 P.M. \u2013 8 P.M.\r\nFriday: 9 A.M. \u2013 5 P.M.\r\nSaturday: 9 A.M.\u20132 P.M.\r\nSunday: Closed",
+        "remarks": "Gender-Specific Bathrooms (Two Male Stalls, Two Female Stalls)\r\nNo Family Bathroom\r\nDon't Need To Use Stairs To Enter Building, Bathroom",
+        "dist": 5259.415232944737
+    },
+    {
+        "name": "Charlestown Marina 1 Pier 8",
+        "address": "103 Thirteenth St, Charlestown, MA",
+        "zip": "02129",
+        "latitude": 42.377008,
+        "longitude": -71.05075,
+        "hours": "9 A.M. - 5 P.M. Every Day",
+        "remarks": "No Wheelchair Accessible Stalls Or Family Bathrooms\r\nGender-Specific Bathrooms (Two Male Stalls And Four Female Stalls)\r\nNeed To Use Stairs To Enter Building Or Bathroom",
+        "dist": 5258.812973837727
+    },
+    {
+        "name": "City Toilet",
+        "address": "197 Eighth St, Boston, MA",
+        "zip": "02129",
+        "latitude": 42.373422,
+        "longitude": -71.051964,
+        "hours": "24/7",
+        "remarks": "One Wheelchair-Accessible, Unisex Stall\r\nNo Family Bathroom\r\nCosts 25 Cents Per Use",
+        "dist": 5258.81839315475
+    },
+    {
+        "name": "Harborview At The Navy Yard",
+        "address": "250 First Ave, Charlestown, MA",
+        "zip": "02129",
+        "latitude": 42.377351,
+        "longitude": -71.050018,
+        "hours": "6 A.M. - 12 A.M.",
+        "remarks": "One Unisex, Wheelchair Accessible Stall\r\nNo Gender-Specific Or Family Bathrooms\r\nDon't Need To Use Stairs To Enter Building Or Bathroom",
+        "dist": 5258.781730310288
+    },
+    {
+        "name": "One Constitution Center",
+        "address": "1 Constitution Plaza, Charlestown, MA",
+        "zip": "02129",
+        "latitude": 42.371464,
+        "longitude": -71.059925,
+        "hours": "Monday Through Friday, 7 A.M. - 7 P.M.",
+        "remarks": "Wheelchair Accessible Stalls\r\nGender-Specific Bathrooms (Four Male Stalls And Four Female Stalls)\r\nNo Family Bathroom\r\nDon't Need To Use Stairs To Enter Building Or Bathroom (Located On Ground Floor)",
+        "dist": 5259.185496800949
+    },
+    {
+        "name": "Residence Inn By Marriott Boston Harbor",
+        "address": "34-44 Charles River Ave, Boston, MA",
+        "zip": "02129",
+        "latitude": 42.370837,
+        "longitude": -71.060566,
+        "hours": "24/7",
+        "remarks": "Wheelchair Accessible Stalls\r\nGender-Specific Bathrooms (Two Male Stalls And Two Female Stalls)\r\nNo Family Bathroom\r\nDon't Need To Use Stairs To Enter Building Or Bathroom",
+        "dist": 5259.207842845486
+    },
+    {
+        "name": "Spaulding Rehabilitation Hospital Boston",
+        "address": "300 First Ave, Charlestown, MA",
+        "zip": "02129",
+        "latitude": 42.378586,
+        "longitude": -71.04909,
+        "hours": "1 A.M. - 8 P.M.",
+        "remarks": "Wheelchair Accessible Stalls \r\nGender-Specific Bathroom (Six Male And Six Female Stalls)\r\nBathrooms On Main Floor And Additional Bathrooms On Other Floors\r\nPrivate Bathroom On Main Floor Is Unisex And Can Be Used As Family Bathroom\r\nDon't Need To Use Stairs To Enter Building Or Bathrooms",
+        "dist": 5258.754429476938
+    },
+    {
+        "name": "Boston Public Library - Chinatown",
+        "address": "2 Boylston St, Boston, MA",
+        "zip": "02111",
+        "latitude": 42.352084,
+        "longitude": -71.063134,
+        "hours": "Monday Through Thursday, 10 A.M. - 6 P.M.\r\nFriday, 9 A.M. - 5 P.M.",
+        "remarks": "Wheelchair-Accessible Stalls\r\nGender-Specific Bathrooms (Two Male Stalls, Four Female Stalls)\r\nNo Family Bathroom\r\nDon't Need To Use Stairs To Enter Building, Bathroom\r\nRestroom Door Must Be Buzzed Open By Person At Desk",
+        "dist": 5259.047836468412
+    },
+    {
+        "name": "Boston Public Library - West End",
+        "address": "151 Cambridge St, Boston, MA",
+        "zip": "02114",
+        "latitude": 42.361544,
+        "longitude": -71.065004,
+        "hours": "Monday Through Wednesday: 10 A.M. \u2013 6 P.M.\r\nThursday: 12 P.M. \u2013 8 P.M.\r\nFriday: 9 A.M. \u2013 5 P.M.\r\nSaturday: 9 A.M. \u2013 2 P.M.",
+        "remarks": "Wheelchair-Accessible Stalls\r\nGender-Specific Bathrooms (One Male Stall, One Female Stall)\r\nUnisex Bathroom\r\nFamily Bathroom (Wheelchair Accessible And Has A Changing Table)\r\nDon't Need To Use Stairs To Enter Building, Bathroom",
+        "dist": 5259.286497898884
+    },
+    {
+        "name": "Newton City Hall",
+        "address": "1000 Commonwealth Avenue, Newton Centre, MA",
+        "zip": "02459",
+        "latitude": 42.337384,
+        "longitude": -71.208733,
+        "hours": "8:30AM\u20135PM Weekdays",
+        "remarks": "",
+        "dist": 5266.092493119764
+    },
+    {
+        "name": "Newton Free Library",
+        "address": "330 Homer St, Newton, MA",
+        "zip": "02459",
+        "latitude": 42.336821,
+        "longitude": -71.209526,
+        "hours": "Mon-Thurs: 9AM-9PM\r\nFri: 9AM-6PM\r\nSat: 9AM-5PM\r\nSun: 1-5PM",
+        "remarks": "",
+        "dist": 5266.1235221221605
+    },
+    {
+        "name": "BCYF Grove Hall",
+        "address": "51 Geneva Avenue, Dorchester MA",
+        "zip": "02121",
+        "latitude": 42.308344,
+        "longitude": -71.082208,
+        "hours": "Monday Through Friday: 10 A.M. - 6 P.M.\r\nSaturday And Sunday: Closed",
+        "remarks": "One Unisex, Wheelchair-Accessible Stall\r\nNo Family Bathroom\r\nDon't Need To Use Stairs To Enter The Building Or Bathroom\r\nMust ring doorbell to enter\r\nVisitors Must Sign In At Front Desk",
+        "dist": 5259.3289107389
+    },
+    {
+        "name": "Wellesley Free Library -- Hills Branch",
+        "address": "210 Washington St, Wellesley MA",
+        "zip": "02482",
+        "latitude": 42.315276,
+        "longitude": -71.270475,
+        "hours": "Tuesday, Thursday: 10 AM - 8 PM\r\nWednesday, Friday, Saturday: 10 AM - 5 PM\r\nSunday, Monday: Closed",
+        "remarks": "Closed on Saturdays: July and August",
+        "dist": 5268.840843462802
+    },
+    {
+        "name": "Wellesley Free Library -- Fells Branch",
+        "address": "308 Weston Road, Wellesley, MA",
+        "zip": "02482",
+        "latitude": 42.304607,
+        "longitude": -71.312387,
+        "hours": "Tuesday - Saturday: 10 AM - 5 PM\r\nSunday: Closed",
+        "remarks": "Closed on Saturdays: July and August",
+        "dist": 5270.773859905531
+    },
+    {
+        "name": "Wellesley Free Library -- Main Branch",
+        "address": "530 Washington Street, Wellesley, MA",
+        "zip": "02482",
+        "latitude": 42.296844,
+        "longitude": -71.290658,
+        "hours": "Monday - Thursday: 9 AM - 9 PM\r\nFriday: 9 AM - 6 PM\r\nSaturday: 9 AM - 5 PM\r\nSunday: 1 PM - 5 PM",
+        "remarks": "",
+        "dist": 5269.570060383707
+    },
+    {
+        "name": "Wellesley City Hall",
+        "address": "525 Washington St, Wellesley, MA",
+        "zip": "02482",
+        "latitude": 42.29795,
+        "longitude": -71.291711,
+        "hours": "Weekdays: 8 AM - 5 PM\r\nWeekends: Closed",
+        "remarks": "",
+        "dist": 5269.639462104506
+    },
+    {
+        "name": "Wellesley Fire Department",
+        "address": "457 Worcester St, Wellesley MA",
+        "zip": "02482",
+        "latitude": 42.311518,
+        "longitude": -71.277811,
+        "hours": "TBD",
+        "remarks": "",
+        "dist": 5269.150429768371
+    },
+    {
+        "name": "Wellesley Police Department",
+        "address": "485 Washington St, Wellesley MA",
+        "zip": "02482",
+        "latitude": 42.30052,
+        "longitude": -71.288181,
+        "hours": "TBD",
+        "remarks": "",
+        "dist": 5269.50195692736
+    },
+    {
+        "name": "Hunnewell Field",
+        "address": "438 Washington Street, Wellesley, MA",
+        "zip": "02481",
+        "latitude": 42.303585,
+        "longitude": -71.283114,
+        "hours": "TBD",
+        "remarks": "Men's, Women's, and Handicap restroom",
+        "dist": 5269.295150837395
+    },
+    {
+        "name": "Waltham City Hall",
+        "address": "610 Main St, Waltham, MA",
+        "zip": "02452",
+        "latitude": 42.376064,
+        "longitude": -71.23534,
+        "hours": "Weekdays: 8:30 AM - 4:30 PM\r\nWeekends: Closed",
+        "remarks": "",
+        "dist": 5268.010108974465
+    },
+    {
+        "name": "Waltham Public Library",
+        "address": "735 Main St, Waltham, MA",
+        "zip": "02452",
+        "latitude": 42.376267,
+        "longitude": -71.239807,
+        "hours": "Monday - Thursday: 9 AM - 9 PM\r\nFriday, Saturday: 9 AM - 5 PM\r\nSunday: 1 PM - 5 PM",
+        "remarks": "",
+        "dist": 5268.236176564466
+    },
+    {
+        "name": "Arlington Town Hall",
+        "address": "730 Massachusetts Avenue Arlington, MA",
+        "zip": "02476",
+        "latitude": 42.416263,
+        "longitude": -71.157286,
+        "hours": "TBD",
+        "remarks": "",
+        "dist": 5264.729245222183
+    },
+    {
+        "name": "Robbins Library",
+        "address": "700 Massachusetts Avenue, Arlington, MA",
+        "zip": "02476",
+        "latitude": 42.41623,
+        "longitude": -71.157052,
+        "hours": "Monday - Wednesday: 9 AM - 9 PM\r\nThursday: 1 PM - 9 PM\r\nFriday - Saturday: 9 AM - 5 PM\r\nSunday: Closed",
+        "remarks": "",
+        "dist": 5264.717070313768
+    },
+    {
+        "name": "Lazazzero Playground",
+        "address": "910 Moody Street, Waltham MA",
+        "zip": "02452",
+        "latitude": 42.360751,
+        "longitude": -71.239103,
+        "hours": "10AM - 7PM",
+        "remarks": "Seasonal",
+        "dist": 5267.9648914913905
+    },
+    {
+        "name": "Braintree Station (MBTA)",
+        "address": "197 Ivory St, Braintree, MA .",
+        "zip": "02184",
+        "latitude": 42.207571,
+        "longitude": -71.001629,
+        "hours": "24/7",
+        "remarks": "Fare Control (inside fare gates)\r\nLayout: single stall, men/women\r\nCleanliness Rating: 1/3 for men, 2/3 for women\r\nBathrooms are located to the left as you head toward the faregates to exit. The men's room was a grim affair, with scuffed-up, cracked walls and some residue in the toilet from the previous person's visit. There was liquid everywhere, and the door didn't lock. The women's room had the same grim aesthetic, but was not nearly as gross.\r\n\r\nSource: www.milesintransit.com/2019/09/01/the-unofficial-mbta-bathroom-map/",
+        "dist": 5253.753736198116
+    },
+    {
+        "name": "Quincy Adams Station (MBTA)",
+        "address": "480 Centre St, Quincy, MA",
+        "zip": "02169",
+        "latitude": 42.233491,
+        "longitude": -71.010392,
+        "hours": "24/7",
+        "remarks": "Fare Control (inside fare gates)\r\nLayout: multiple stalls, men/women\r\nCleanliness Rating: 1/3 for men, 2/3 for women\r\nBathrooms are located to the right as you head toward the faregates to exit. The women's room had all of the required amenities, and aside from toilet paper on the floor, was not particularly disgusting. The men's room, on the other hand, was smelly, had no soap, and featured a scuffed-up mirror.\r\nSource: www.milesintransit.com/2019/09/01/the-unofficial-mbta-bathroom-map/",
+        "dist": 5254.5904687196635
+    },
+    {
+        "name": "Wollaston Station (MBTA)",
+        "address": "90 Woodbine St, Quincy, MA",
+        "zip": "02171",
+        "latitude": 42.266963,
+        "longitude": -71.019912,
+        "hours": "24/7",
+        "remarks": "Fare Control (inside fare gates)\r\nLayout: single stall, men/women\r\nCleanliness Rating: 3/3 (for now)\r\nBathrooms are located to the right as you walk from the staircase from the station's footbridge towards the fare gates. These were visited on the day of the station's opening, and may have changed since. The men's and women's rooms were both quite clean; the doors didn't lock at the time, but they apparently do now. The women's room has a tampon dispenser that was empty at the time.\r\nSource: www.milesintransit.com/2019/09/01/the-unofficial-mbta-bathroom-map/",
+        "dist": 5255.5809599405575
+    },
+    {
+        "name": "North Quincy Station (MBTA)",
+        "address": "26 W Squantum St, Quincy MA",
+        "zip": "02171",
+        "latitude": 42.275282,
+        "longitude": -71.028358,
+        "hours": "24/7",
+        "remarks": "Fare Control (inside fare gates)\r\nLayout: single stall, all genders\r\nCleanliness Rating: 2/3\r\nBathroom is located at the Hancock Street entrance, on the left as you're heading up the stairs to exit. The door is basically unmarked; the station inspector said it doesn't lock, but it seemed to lock fine. Inside, there was some toilet paper on the floor and a bit of a grim atmosphere, but it wasn't bad otherwise.\r\nSource: www.milesintransit.com/2019/09/01/the-unofficial-mbta-bathroom-map/",
+        "dist": 5256.130923110412
+    },
+    {
+        "name": "Ashmont Station (MBTA)",
+        "address": "1914 Dorchester Ave, Boston, MA",
+        "zip": "02124",
+        "latitude": 42.284085,
+        "longitude": -71.064618,
+        "hours": "24/7",
+        "remarks": "Fare Control (inside fare gates)\r\nLayout: single stall, all genders\r\nCleanliness Rating: 1/3\r\nProbably the hardest bathroom to find on the entire MBTA. Bathroom is located to the right when you enter the faregates from the Mattapan High Speed Line or busway. The door says \"T Personnel Only,\" but a piece of paper taped on says \"Unlocked, Open Door.\" Enter through, and you'll find a door on the left with another piece of paper taped on that says \"Mens and Womans Bathroom.\" Despite being so hard to find, it was still disgusting, from the smell to the aesthetic to the residue liquid inside the toilet.\r\nSource: www.milesintransit.com/2019/09/01/the-unofficial-mbta-bathroom-map/",
+        "dist": 5258.078027846114
+    },
+    {
+        "name": "JFK/UMass Station (MBTA)",
+        "address": "599 Old Colony Ave, Boston, MA",
+        "zip": "02127",
+        "latitude": 42.32158,
+        "longitude": -71.052226,
+        "hours": "24/7",
+        "remarks": "Fare Control (inside fare gates)\r\nLayout: single stall, all genders\r\nCleanliness Rating: 1/3\r\nBathroom is located to the left as you head toward the faregates to exit. It is a single stall; when we were here, it was a fairly long wait, causing the first person in line to give up. Inside, the bathroom was smelly, with toilet paper and liquid on the floor. The door was covered in graffiti.\r\nSource: www.milesintransit.com/2019/09/01/the-unofficial-mbta-bathroom-map/",
+        "dist": 5258.034644740017
+    },
+    {
+        "name": "Forest Hills Station (MBTA)",
+        "address": "3802 Washington St, Boston, MA",
+        "zip": "02130",
+        "latitude": 42.298081,
+        "longitude": -71.115852,
+        "hours": "24/7",
+        "remarks": "Fare Control (inside fare gates)\r\nLayout: multiple stalls, men/women\r\nCleanliness Rating: 1/3 for men, 2/3 for women\r\nThe men's room is located to the right as you enter the faregates from outside, while the women's room is located to the left. The only problems with the women's room were less-than-ideal aesthetics and a tiny bit of liquid on the floor, but it was otherwise fine. The men's room, on the other hand, was disgusting in nearly every way. Both toilets had residue from past users, there was no soap, and it smelled.\r\nSource: www.milesintransit.com/2019/09/01/the-unofficial-mbta-bathroom-map/",
+        "dist": 5260.852492906843
+    },
+    {
+        "name": "BCYF Mason Pool",
+        "address": "159 Norfolk Avenue, Dorchester MA",
+        "zip": "02119",
+        "latitude": 42.325783,
+        "longitude": -71.070853,
+        "hours": "Tuesday and Friday, 12 - 8 P.M.\r\nWednesday and Thursday, 10 A.M. - 6 P.M.\r\nSaturday, 9 A.M. - 5 P.M.",
+        "remarks": "Schedule may change in summer\r\nVisitors must sign in at front desk",
+        "dist": 5259.0293368539305
+    },
+    {
+        "name": "Boston Fire Department District 7, Engine 17, And Ladder 7",
+        "address": "7 Parish Street, Dorchester MA",
+        "zip": "02119",
+        "latitude": 42.307896,
+        "longitude": -71.062392,
+        "hours": "24/7",
+        "remarks": "One Unisex, Wheelchair-accessible Stall\r\nNo Family Bathrooms\r\nDon't Need To Use Stairs To Enter Building, Bathroom",
+        "dist": 5258.332222358773
+    },
+    {
+        "name": "Boston Fire Department District 8, Engine 20",
+        "address": "301 Neponset Avenue, Dorchester MA",
+        "zip": "02119",
+        "latitude": 42.288774,
+        "longitude": -71.047527,
+        "hours": "24/7",
+        "remarks": "One Unisex, Wheelchair-accessible Stall\r\nNo Family Bathrooms\r\nDon't Need To Use Stairs To Enter Building, Bathroom",
+        "dist": 5257.296029713703
+    },
+    {
+        "name": "Boston Police Department District C-11",
+        "address": "40 Gibson Street, Dorchester MA",
+        "zip": "02119",
+        "latitude": 42.297768,
+        "longitude": -71.059218,
+        "hours": "24/7",
+        "remarks": "Wheelchair-accessible stalls\r\nGender-specific bathrooms (one male stall, one female stall)\r\nNo family bathrooms\r\nDon't need to use stairs to enter building, bathroom\r\nVisitors must be buzzed in",
+        "dist": 5258.018204164867
+    },
+    {
+        "name": "Boston Public Library - Adams Street",
+        "address": "690 Adams Street, Dorchester, MA",
+        "zip": "02119",
+        "latitude": 42.28636,
+        "longitude": -71.054533,
+        "hours": "Monday: 12 \u2013 8 P.M.\r\nTuesday: 10 A.M. \u2013 6 P.M.\r\nWednesday: 12 \u2013 8 P.M.\r\nThursday: 10 A.M. \u2013 6 P.M.\r\nFriday and Saturday: 9 A.M. \u2013 5 P.M.\r\nSunday: CLOSED",
+        "remarks": "Wheelchair-accessible stalls\r\nTwo gender-specific bathrooms (one male, one female)\r\nNo family bathrooms\r\nDon't need to use stairs to enter building, bathroom",
+        "dist": 5257.609016375133
+    },
+    {
+        "name": "Boston Public Library - Codman Square",
+        "address": "690 Washington Street, Dorchester, MA",
+        "zip": "02119",
+        "latitude": 42.287608,
+        "longitude": -71.071094,
+        "hours": "Monday: 12 \u2013 8 P.M.\r\nTuesday and Wednesday: 10 A.M. \u2013 6 P.M.\r\nThursday: 12 \u2013 8 P.M.\r\nFriday and Saturday: 9 A.M. \u2013 5 P.M.\r\nSunday: CLOSED",
+        "remarks": "Wheelchair-accessible stalls\r\nTwo gender-specific bathrooms (two male, three female)\r\nNo family bathrooms (women's bathrooms have changing tables)\r\nDon't need to use stairs to enter building, bathroom",
+        "dist": 5258.455663739292
+    },
+    {
+        "name": "Boston Public Library - Fields Corner",
+        "address": "1520 Dorchester Avenue, Dorchester, MA",
+        "zip": "02119",
+        "latitude": 42.298746,
+        "longitude": -71.060505,
+        "hours": "Monday: 10 A.M. \u2013 6 P.M.\r\nTuesday: 12  \u2013 8 P.M.\r\nWedneday and Thursday: 10 A.M. \u2013 6 P.M.\r\nFriday: 9 A.M. \u2013 5 P.M.\r\nSaturday: 9 A.M. \u2013 2 P.M.\r\nSunday: CLOSED",
+        "remarks": "One unisex, wheelchair-accessible stall\r\nNo family bathrooms\r\nDon't need to use stairs to enter building, bathroom",
+        "dist": 5258.097510583141
+    },
+    {
+        "name": "Boston Public Library - Grove Hall",
+        "address": "41 Geneva Avenue, Dorchester, MA",
+        "zip": "02121",
+        "latitude": 42.304075,
+        "longitude": -71.07346,
+        "hours": "Monday through Wedneday: 10 A.M. \u2013 6 P.M.\r\nThursday: 12 \u2013 8 P.M.\r\nFriday and Saturday: 9 A.M. \u2013 5 P.M.\r\nSunday: CLOSED",
+        "remarks": "Wheelchair-accessible stalls\r\nGender-specific bathrooms (one male stall, three female stalls)\r\nFamily bathroom (for children, has a changing table)\r\nDon't need to use stairs to enter building, bathroom",
+        "dist": 5258.826451377373
+    },
+    {
+        "name": "Boston Public Library - Lower Mills",
+        "address": "27 Richmond Street, Dorchester, MA",
+        "zip": "02121",
+        "latitude": 42.273704,
+        "longitude": -71.06845,
+        "hours": "Monday: 12 P.M. \u2013 8 P.M.\r\nTuesday, Wednesday: 10 A.M. \u2013 6 P.M.\r\nThursday: 12 \u2013 8 P.M.\r\nFriday: 9 A.M. \u2013 5 P.M.\r\nSaturday: 9 A.M. \u2013 2 P.M.\r\nSunday: Closed",
+        "remarks": "Wheelchair-accessible Stalls\r\nGender-specific Bathrooms (Two Male Stalls, Two Female Stalls)\r\nNo Family Bathroom, But There Are Changing Tables In All Bathrooms\r\nDon't Need To Use Stairs To Enter Building, Bathroom",
+        "dist": 5258.110298279513
+    },
+    {
+        "name": "Boston Public Library - Uphams Corner",
+        "address": "500 Columbia Road, Dorchester, MA",
+        "zip": "02121",
+        "latitude": 42.314751,
+        "longitude": -71.067448,
+        "hours": "Monday Through Wednesday: 10AM \u2013 6PM\r\nThursday: 12PM \u2013 8PM\r\nFriday: 9AM \u2013 5PM\r\nSaturday: 9AM - 2PM\r\nSunday: Closed",
+        "remarks": "No Wheelchair-accessible Stalls\r\nOne Unisex Bathroom\r\nNo Family Bathrooms\r\nNeed To Use Stairs To Enter Building, Bathroom",
+        "dist": 5258.689970935071
+    },
+    {
+        "name": "Edward M. Kennedy Institute for the United State Senate",
+        "address": "210 Morrissey Boulevard, Dorchester, MA",
+        "zip": "02121",
+        "latitude": 42.312618,
+        "longitude": -71.046143,
+        "hours": "Tuesday - Sunday: 10 AM - 5PM",
+        "remarks": "Wheelchair Accessible Stalls\r\nGender-specific Bathroom (Nine Male And Female Stalls)\r\nNo Family Bathrooms\r\nDon't Need To Use Stairs To Enter Building Or Bathroom",
+        "dist": 5257.593170308129
+    },
+    {
+        "name": "Savin Hill and Malibu Beach",
+        "address": "68 Denny Street, Dorchester, MA",
+        "zip": "02121",
+        "latitude": 42.308882,
+        "longitude": -71.051047,
+        "hours": "Dawn to Dusk",
+        "remarks": "SEASONAL: MEMORIAL DAY WEEKEND TO LABOR DAY\r\n\r\nWheelchair Accessible Stalls\r\nTwo Unisex Bathrooms (No Gender-specific Bathrooms Or Family Bathrooms)\r\nDon't Need To Use Stairs To Enter Building Or Bathroom",
+        "dist": 5257.780704128127
+    },
+    {
+        "name": "Tenean Beach",
+        "address": "164 Tenean St, Boston, MA",
+        "zip": "02122",
+        "latitude": 42.292169,
+        "longitude": -71.043034,
+        "hours": "Monday-Sunday: Dawn to Dusk",
+        "remarks": "SEASONAL: MEMORIAL DAY WEEKEND TO LABOR DAY\r\n\r\nWheelchair Accessible Stalls\r\nTwo Unisex Bathrooms (No Gender-specific Bathrooms Or Family Bathrooms)\r\nDon't Need To Use Stairs To Enter Building Or Bathroom",
+        "dist": 5257.123699981501
+    },
+    {
+        "name": "UMass Boston East Building Residential Hall",
+        "address": "240 Morrissey Blvd, Boston, MA",
+        "zip": "02125",
+        "latitude": 42.316337,
+        "longitude": -71.039666,
+        "hours": "7AM - 12AM",
+        "remarks": "Wheelchair Accessible Stalls\r\nGender-specific Bathrooms (Three Male Stalls, Nine Female Stalls, Two Unisex Stalls)\r\nNo Family Bathroom\r\nDon't Need To Use Stairs To Enter Building, Bathroom",
+        "dist": 5257.326859454918
+    },
+    {
+        "name": "Brookline Town hall",
+        "address": "333 Washington Street, Brookline, MA",
+        "zip": "02445",
+        "latitude": 42.33402,
+        "longitude": -71.120639,
+        "hours": "Weekdays: 8AM-5PM",
+        "remarks": "2-6 Public Bathrooms, plus basement\r\nGender Specific\r\nHandicap Access\r\nVisible Signs",
+        "dist": 5261.641680652047
+    },
+    {
+        "name": "Brookline Main Library",
+        "address": "361 Washington Street, Brookline, MA",
+        "zip": "02445",
+        "latitude": 42.334638,
+        "longitude": -71.121384,
+        "hours": "Closed weekends in summer\r\n\r\nMonday-Thursday: 10AM\u20139PM\r\nFriday: 10AM\u20135PM",
+        "remarks": "Main + Basement\r\nGender Specific\r\nHandicap Access\r\nVisible Signs",
+        "dist": 5261.688343181003
+    },
+    {
+        "name": "Coolidge Corner Branch Library",
+        "address": "31 Pleasant Street, Brookline, MA",
+        "zip": "02445",
+        "latitude": 42.343305,
+        "longitude": -71.119613,
+        "hours": "Closed Sundays in summer",
+        "remarks": "Monday, Wednesday: 10AM\u20136PM\r\nTuesday, Thursday: 10AM\u20139PM\r\nFriday: 10AM\u20135PM\r\nSaturday: 10AM\u20135PM\r\nSunday: 1\u20135PM",
+        "dist": 5261.732610742297
+    },
+    {
+        "name": "Brookline Public Safety Building",
+        "address": "350 Washington Street, Brookline, MA",
+        "zip": "02445",
+        "latitude": 42.333826,
+        "longitude": -71.121453,
+        "hours": "24/7",
+        "remarks": "Gender Specific\r\nHandicap Access\r\nVisible Signs",
+        "dist": 5261.679358343157
+    },
+    {
+        "name": "Putterham Branch Library",
+        "address": "959 West Roxbury Pkwy, Brookline, MA",
+        "zip": "02445",
+        "latitude": 42.301627,
+        "longitude": -71.149499,
+        "hours": "Closed weekends in summer\r\n\r\nMonday, Wednesday: 10AM\u20139PM\r\nTuesday, Thursday: 10AM\u20136PM\r\nFriday: 10AM\u20135PM",
+        "remarks": "Gender Specific\r\nHandicap Access\r\nVisible Signs",
+        "dist": 5262.58790666651
+    },
+    {
+        "name": "Amory Park",
+        "address": "45 Amory St, Brookline, MA",
+        "zip": "02445",
+        "latitude": 42.344631,
+        "longitude": -71.113486,
+        "hours": "Dawn-Dusk",
+        "remarks": "Seasonal: mid-April to mid-November\r\n\r\nGender Specific\r\nVisible Signs",
+        "dist": 5261.447018980892
+    },
+    {
+        "name": "Harry Downes Field",
+        "address": "67 Highland Road, Brookline, MA",
+        "zip": "02445",
+        "latitude": 42.32584,
+        "longitude": -71.118932,
+        "hours": "Dawn-Dusk",
+        "remarks": "Seasonal: mid-April to mid-November\r\n\r\nNear Olmsted Park - off Pond Ave.\r\n\r\nGender Specific\r\nVisible Signs",
+        "dist": 5261.431211753885
+    },
+    {
+        "name": "Larz Anderson Park",
+        "address": "358 Goddard Ave, Brookline, MA",
+        "zip": "02445",
+        "latitude": 42.312051,
+        "longitude": -71.138855,
+        "hours": "Dawn-Dusk",
+        "remarks": "Seasonal: May-October\r\n\r\nNext to the playground and picnic area by the Goddard Avenue parking lot\r\n\r\nGender Specific\r\nVisible Signs",
+        "dist": 5262.2154100379275
+    },
+    {
+        "name": "Environmental Center at Soule Recreation Center",
+        "address": "652 Hammond St, Chestnut Hill, MA",
+        "zip": "02467",
+        "latitude": 42.324776,
+        "longitude": -71.164593,
+        "hours": "7AM-8PM",
+        "remarks": "Seasonal: mid-April to mid-November",
+        "dist": 5263.69551619676
+    },
+    {
+        "name": "Jean B. Waldstein Playground",
+        "address": "1 Strathmore Rd, Brookline, MA",
+        "zip": "02445",
+        "latitude": 42.336333,
+        "longitude": -71.145027,
+        "hours": "Noon-Dusk",
+        "remarks": "Seasonal: mid-April to mid-November\r\n\r\nGender Specific\r\nVisible Signs",
+        "dist": 5262.894911050128
+    },
+    {
+        "name": "Kiranne Aquatics Center",
+        "address": "60 Tappan Street, Brookline, MA",
+        "zip": "02445",
+        "latitude": 42.331868,
+        "longitude": -71.128752,
+        "hours": "6AM-10PM",
+        "remarks": "",
+        "dist": 5262.013881921918
+    },
+    {
+        "name": "Tappan Gym",
+        "address": "66 Tappan Street, Brookline, MA",
+        "zip": "02445",
+        "latitude": 42.331868,
+        "longitude": -71.128752,
+        "hours": "Weeknights",
+        "remarks": "Seasonal: September to May",
+        "dist": 5262.013881921918
+    },
+    {
+        "name": "Lynch Municipal Golf Course",
+        "address": "1281 West Roxbury Pkwy, Brookline, MA",
+        "zip": "02445",
+        "latitude": 42.310165,
+        "longitude": -71.162307,
+        "hours": "Dawn to Dusk",
+        "remarks": "Seasonal: April through November",
+        "dist": 5263.358232530631
+    },
+    {
+        "name": "Jack Kirrane Ice Skating Rink",
+        "address": "25 Newton Street, Brookline, MA",
+        "zip": "02445",
+        "latitude": 42.311733,
+        "longitude": -71.134282,
+        "hours": "Tuesday, Thursday: 9:30AM-12PM\r\nFriday: 12PM-2PM, 7PM-10PM\r\nSaturday, Sunday: 12-5PM",
+        "remarks": "Seasonal: December through February",
+        "dist": 5261.98209816926
+    },
+    {
+        "name": "Eliot Administration Building",
+        "address": "133 Eliot Street, Brookline, MA",
+        "zip": "02445",
+        "latitude": 42.328949,
+        "longitude": -71.149068,
+        "hours": "Weekdays: 8:30AM-5PM\r\nWeekends: Closed",
+        "remarks": "near Heath School",
+        "dist": 5262.983845095894
+    },
+    {
+        "name": "Brookline Senior Center",
+        "address": "93 Winchester Street, Brookline, MA",
+        "zip": "02445",
+        "latitude": 42.343547,
+        "longitude": -71.128047,
+        "hours": "TBD",
+        "remarks": "",
+        "dist": 5262.157408206261
+    },
+    {
+        "name": "Boston Fire Department Division One Headquarters",
+        "address": "125 Purchase Street, Boston, MA",
+        "zip": "02201",
+        "latitude": 42.354859,
+        "longitude": -71.052786,
+        "hours": "24/7",
+        "remarks": "One unisex, wheelchair-accessible stall\r\nNo family bathrooms\r\nDon't need to use stairs to enter building, bathroom",
+        "dist": 5258.574009068472
+    },
+    {
+        "name": "Boston Police Department District A-15",
+        "address": "40 Sudbury St, Boston, MA",
+        "zip": "02114",
+        "latitude": 42.36268,
+        "longitude": -71.058023,
+        "hours": "24/7",
+        "remarks": "One Unisex, Wheelchair-accessible Stall\r\nGender-specific Bathrooms (One Male Stall, One Female Stall)\r\nNo Family Bathrooms\r\nDon't Need to Use Stairs to Enter Building, Bathroom\r\nVisitors Must Be Buzzed in",
+        "dist": 5258.955578111238
+    },
+    {
+        "name": "Chart House",
+        "address": "60 Long Wharf, Boston, MA",
+        "zip": "02214",
+        "latitude": 42.360152,
+        "longitude": -71.049392,
+        "hours": "11 AM - 11 PM",
+        "remarks": "One wheelchair accessible stall\r\nGender-specific bathrooms (two male, four female)\r\nDon't need to use stairs to enter building, bathroom",
+        "dist": 5258.486003041756
+    },
+    {
+        "name": "Boston City Toilet",
+        "address": "206 Atlantic Avenue, Boston, MA",
+        "zip": "02210",
+        "latitude": 42.360429,
+        "longitude": -71.048072,
+        "hours": "24/7",
+        "remarks": "Wheelchair-accessible, unisex stall\r\nNo family bathroom\r\nFare Control: Costs 25 cents per use\r\nDon't need to use stairs to enter building, bathroom",
+        "dist": 5258.424390191412
+    },
+    {
+        "name": "Boston City Toilet",
+        "address": "2 Long Wharf, Boston, MA",
+        "zip": "02210",
+        "latitude": 42.35997,
+        "longitude": -71.049694,
+        "hours": "24/7",
+        "remarks": "Wheelchair-accessible, unisex stall\r\nNo family bathroom\r\nFare Control: Costs 25 cents per use\r\nDon't need to use stairs to enter building, bathroom",
+        "dist": 5258.498275465091
+    },
+    {
+        "name": "Faneuil Hall",
+        "address": "4 S Market St, Boston, MA",
+        "zip": "02109",
+        "latitude": 42.359706,
+        "longitude": -71.055068,
+        "hours": "Monday through Saturday: 10AM - 9PM\r\nSunday: 11AM - 7PM",
+        "remarks": "Wheelchair-accessible stalls\r\nGender specific bathrooms (two male stalls, two female stalls)\r\nNo family bathrooms (changing stations in all restrooms)\r\nRestrooms accessible by elevator",
+        "dist": 5258.76240141649
+    },
+    {
+        "name": "Long Wharf Marriott",
+        "address": "296 State St, Boston, MA",
+        "zip": "02109",
+        "latitude": 42.3602,
+        "longitude": -71.050852,
+        "hours": "24/7",
+        "remarks": "Wheelchair accessible stalls\r\nGender-specific bathrooms (changing tables located in bathrooms)\r\nBathrooms located outside the ground floor space on the starbucks-side, facing christopher columbus park. Also found in the second-floor lobby of the hotel.\r\nDon't need to use stairs to enter building, bathroom",
+        "dist": 5258.559600154252
+    },
+    {
+        "name": "BCYF Paris Street",
+        "address": "112 Paris St, Boston, MA",
+        "zip": "02128",
+        "latitude": 42.372899,
+        "longitude": -71.037545,
+        "hours": "Monday through Saturday: 6:30 AM - 9 PM\r\nSunday: 9 AM - 5 PM",
+        "remarks": "Wheelchair-accessible stalls\r\nGender specific bathrooms (three male stalls, three female stalls)\r\nUnisex bathroom\r\nFamily bathroom\r\nDon't need to use stairs to enter building, bathroom\r\nVisitors must sign in at front desk",
+        "dist": 5258.09095726486
+    },
+    {
+        "name": "BCYF Paris Street Pool",
+        "address": "113 Paris St, Boston, MA",
+        "zip": "02128",
+        "latitude": 42.372417,
+        "longitude": -71.036872,
+        "hours": "Weekdays: 6:30 AM - 8:30 PM\r\nWeekends: Closed",
+        "remarks": "Wheelchair-accessible stalls\r\nGender specific bathrooms (two male stalls, three female stalls)\r\nUnisex bathroom\r\nFamily bathroom\r\nDon't need to use stairs to enter building, bathroom\r\nVisitors must sign in at front desk",
+        "dist": 5258.049962549926
+    },
+    {
+        "name": "BCYF Pino",
+        "address": "86 Boardman St, Boston, MA",
+        "zip": "02128",
+        "latitude": 42.389762,
+        "longitude": -71.011259,
+        "hours": "Monday through Friday: 6:30 AM - 9 PM\r\nSaturday: 9 AM - 5 PM\r\nSunday: CLOSED",
+        "remarks": "Wheelchair-accessible stalls\r\nGender-specific bathrooms (three male stalls, three female stall)\r\nNo family bathrooms\r\nDon't need to use stairs to enter building, bathroom\r\nVisitors must sign in at front desk",
+        "dist": 5257.039501160092
+    },
+    {
+        "name": "Boston East Apartments",
+        "address": "126 Border St, Boston, MA",
+        "zip": "02128",
+        "latitude": 42.373569,
+        "longitude": -71.040992,
+        "hours": "10AM - 6PM",
+        "remarks": "Wheelchair accessible stalls\r\nTwo unisex stalls; no gender-specific or family bathrooms\r\nDon't need to use stairs to enter building or bathroom\r\nUse the kiosk to register and enter",
+        "dist": 5258.273241692086
+    },
+    {
+        "name": "Boston Fire Department District 1, Engine 5",
+        "address": "360 Saratoga St, Boston, MA",
+        "zip": "02128",
+        "latitude": 42.3791,
+        "longitude": -71.030221,
+        "hours": "24/7",
+        "remarks": "One unisex, wheelchair-accessible stall\r\nNo family bathrooms\r\nDon't need to use stairs to enter building, bathroom",
+        "dist": 5257.821034677612
+    },
+    {
+        "name": "Boston Fire Department District 1, Engine 9, and Ladder 2",
+        "address": "239 Sumner St, Boston, MA",
+        "zip": "02128",
+        "latitude": 42.368167,
+        "longitude": -71.038642,
+        "hours": "24/7",
+        "remarks": "One unisex, wheelchair-accessible stall\r\nNo family bathrooms\r\nDon't need to use stairs to enter building, bathroom",
+        "dist": 5258.072871098943
+    },
+    {
+        "name": "Boston Fire Department District 1, Engine 56, and Ladder 21",
+        "address": "1 Ashley St, Boston, MA",
+        "zip": "02128",
+        "latitude": 42.387914,
+        "longitude": -71.003919,
+        "hours": "24/7",
+        "remarks": "One unisex, wheelchair-accessible stall\r\nNo family bathrooms\r\nDon't need to use stairs to enter building, bathroom",
+        "dist": 5256.644935534152
+    },
+    {
+        "name": "Boston Police Department District A-7",
+        "address": "69 Paris Street, Boston, MA",
+        "zip": "02128",
+        "latitude": 42.371244,
+        "longitude": -71.038747,
+        "hours": "24/7",
+        "remarks": "One unisex, wheelchair-accessible stall\r\nNo family bathrooms\r\nDon't need to use stairs to enter building, bathroom",
+        "dist": 5258.125458409567
+    },
+    {
+        "name": "Boston Public Library - East Boston",
+        "address": "365 S Bremen St, Boston, MA",
+        "zip": "02128",
+        "latitude": 42.375375,
+        "longitude": -71.031354,
+        "hours": "Monday, Thursday: 12PM - 8PM\r\nTuesday, Wednesday: 10AM - 6PM\r\nFriday, Saturday: 9AM - 5PM\r\nSunday: CLOSED",
+        "remarks": "Wheelchair-accessible stalls\r\nGender-specific bathrooms (four male stalls, four female stalls)\r\nUnisex bathroom\r\nFamily bathroom (there are changing tables in all bathrooms)\r\nDon't need to use stairs to enter building, bathroom",
+        "dist": 5257.820203455514
+    },
+    {
+        "name": "Constitution Beach",
+        "address": "0 Barnes Avenue, Boston, MA",
+        "zip": "02128",
+        "latitude": 42.385791,
+        "longitude": -71.006407,
+        "hours": "Dawn to Dusk",
+        "remarks": "SEASONAL (MEMORIAL DAY TO COLUMBUS DAY)\r\n\r\nWheelchair Accessible Stalls\r\nGender-specific Bathrooms (One Male Stall, Three Female Stalls)\r\nNo Family Bathrooms\r\nDon't Need to Use Stairs to Enter Building or Bathroom",
+        "dist": 5256.736285154295
+    },
+    {
+        "name": "Eddy Apartments",
+        "address": "10 New St, Boston, MA",
+        "zip": "02128",
+        "latitude": 42.370909,
+        "longitude": -71.043852,
+        "hours": "24/7",
+        "remarks": "Wheelchair accessible stalls \r\nTwo unisex stalls; no gender-specific or family bathrooms\r\nDon't need to use stairs to enter building or bathroom\r\nWait for concierge to open door",
+        "dist": 5258.375008248535
+    },
+    {
+        "name": "Piers Park",
+        "address": "233 Marginal Street, Boston, MA",
+        "zip": "02128",
+        "latitude": 42.363545,
+        "longitude": -71.03323,
+        "hours": "6AM-11PM",
+        "remarks": "Wheelchair accessible stalls\r\nGender-specific bathrooms (two male stalls, two female stalls)\r\nFamily bathroom\r\nDon't need to use stairs to enter building or bathroom",
+        "dist": 5257.731701843842
+    },
+    {
+        "name": "Portside at East Pier",
+        "address": "40 E Pier Dr, East Boston, MA",
+        "zip": "02128",
+        "latitude": 42.36638,
+        "longitude": -71.040132,
+        "hours": "10AM - 7PM",
+        "remarks": "Wheelchair accessible stalls\r\nGender-specific bathrooms (one male stall, two female stalls)\r\nNo family bathroom\r\nDon't need to use stairs to enter building or bathroom\r\nRing bell for concierge to buzz in visitors",
+        "dist": 5258.119720306011
+    },
+    {
+        "name": "313 Congress St",
+        "address": "313 Congress St, Boston, MA",
+        "zip": "02210",
+        "latitude": 42.351115,
+        "longitude": -71.050194,
+        "hours": "Weekdays: 8AM - 6PM",
+        "remarks": "Wheelchair accessible stalls\r\nGender-specific bathrooms (two male stalls and two female stalls)\r\nNo family bathroom\r\nLocated on first floor; don't need to use stairs to enter building or bathroom",
+        "dist": 5258.387089010118
+    },
+    {
+        "name": "51 Sleeper Street",
+        "address": "51 Sleeper Street, Boston, MA",
+        "zip": "02210",
+        "latitude": 42.352525,
+        "longitude": -71.048493,
+        "hours": "Weekdays: 8AM - 6PM\r\nSaturday: 7AM - 12PM",
+        "remarks": "One wheelchair, unisex accessible stall\r\nNo gender-specific or family bathrooms\r\n\r\nLocated in lobby; don't need to use stairs to enter building or bathroom\r\n\r\nAdditional bathroom in restaurant open until 1AM six days a week\r\n\r\nSecurity available until 10PM, Monday through Friday; after hours, you need a card to access the bathroom",
+        "dist": 5258.323868532815
+    },
+    {
+        "name": "Artist Building at 300 Summer",
+        "address": "300 Summer St, Boston, MA",
+        "zip": "02210",
+        "latitude": 42.349906,
+        "longitude": -71.049141,
+        "hours": "Weekdays: 6AM - 5PM",
+        "remarks": "Three Wheelchair Accessible, Unisex Stalls\r\nNo Gender-specific or Family Bathrooms\r\nPick Up Key at Cafe Counter on Mezzanine\r\nDon't Need to Use Stairs to Enter Building or Bathroom",
+        "dist": 5258.3159460009
+    },
+    {
+        "name": "Boston Children's Museum",
+        "address": "308 Congress St, Boston, MA",
+        "zip": "02210",
+        "latitude": 42.351472,
+        "longitude": -71.049897,
+        "hours": "Saturday through Thursday: 10AM - 5PM\r\nFriday: 10AM - 9PM",
+        "remarks": "Wheelchair accessible stalls\r\nGender-specific bathrooms (three male stalls and three female stalls)\r\nChanging tables in men and women's bathrooms; bathrooms located on first floor near entrance \r\nDon't need to use stairs to enter building or bathroom",
+        "dist": 5258.377753655033
+    },
+    {
+        "name": "Boston Tea Party Ship",
+        "address": "306 Congress St, Boston, MA",
+        "zip": "02210",
+        "latitude": 42.352199,
+        "longitude": -71.051304,
+        "hours": "9AM - 6PM",
+        "remarks": "Wheelchair accessible stalls\r\nGender-specific bathrooms (six male stalls and six female stalls)\r\nNo family bathroom; changing table located in bathrooms\r\nLocated on the upper level; don't need to use stairs to enter building or bathroom",
+        "dist": 5258.459153803574
+    },
+    {
+        "name": "Envoy Hotel",
+        "address": "70 Sleeper St, Boston, MA",
+        "zip": "02210",
+        "latitude": 42.353879,
+        "longitude": -71.048257,
+        "hours": "Sunday through Tuesday: 6AM - 11PM\r\nWednesday through Saturday: 6AM - 12AM",
+        "remarks": "Wheelchair accessible stalls\r\nGender-specific bathrooms (three male stalls and three female stalls)\r\nNo family bathroom; changing table in men's and women's bathroom \r\nDon't need to use stairs to enter building or bathroom; afer hours, hotel only accessible by guestroom key access",
+        "dist": 5258.332907775833
+    },
+    {
+        "name": "Independence Wharf",
+        "address": "470 Atlantic Avenue, Boston, MA",
+        "zip": "02210",
+        "latitude": 42.354432,
+        "longitude": -71.051729,
+        "hours": "7AM - 6PM",
+        "remarks": "Wheelchair accessible stalls\r\nGender-specific bathrooms (one male stall and one female stall)\r\nUnisex bathroom doubles as family bathroom\r\nDon't need to use stairs to enter building or bathroom\r\nLocated on ground floor; need to be buzzed in by security after hours",
+        "dist": 5258.514691938185
+    },
+    {
+        "name": "Intercontinental Hotel",
+        "address": "510 Atlantic Ave, Boston, MA",
+        "zip": "02210",
+        "latitude": 42.353792,
+        "longitude": -71.052006,
+        "hours": "24/7",
+        "remarks": "Wheelchair accessible stalls\r\nGender-specific bathrooms (nine male stalls and three female stalls)\r\nNo family bathrooms\r\nDon't need to use stairs to enter building or bathroom; first floor lobby restrooms are for general public",
+        "dist": 5258.518678373001
+    },
+    {
+        "name": "BCYF Hyde Park",
+        "address": "1179 River St, Hyde Park, MA",
+        "zip": "02136",
+        "latitude": 42.256421,
+        "longitude": -71.120995,
+        "hours": "Weekdays: 6:30AM - 9PM\r\nSaturday: 9AM - 5PM\r\nSunday: CLOSED",
+        "remarks": "Wheelchair-accessible stalls\r\nGender-specific bathrooms (two male stalls, three female stalls)\r\nNo family bathrooms\r\nDon't need to use stairs to enter building, bathroom\r\nMain entrance has stairs (accessible entrance not always open)\r\nVisitors must sign in at front desk",
+        "dist": 5260.472379426065
+    },
+    {
+        "name": "Boston Fire Department District 12, Engine 48, and Ladder 28",
+        "address": "60 Fairmount Ave, Hyde Park, MA",
+        "zip": "02136",
+        "latitude": 42.255142,
+        "longitude": -71.119838,
+        "hours": "24/7",
+        "remarks": "One unisex, wheelchair-accessible stall\r\nNo family bathrooms\r\nDon't need to use stairs to enter building, bathroom",
+        "dist": 5260.394976421543
+    },
+    {
+        "name": "Boston Fire Department District 12, Engine 49",
+        "address": "209 Neponset Valley Pkwy, Hyde Park, MA",
+        "zip": "02136",
+        "latitude": 42.236764,
+        "longitude": -71.131252,
+        "hours": "24/7",
+        "remarks": "One unisex, wheelchair-accessible stall\r\nNo family bathrooms\r\nDon't need to use stairs to enter building, bathroom",
+        "dist": 5260.684978394236
+    },
+    {
+        "name": "Boston Police Department District E-18",
+        "address": "1249 Hyde Park Ave, Hyde Park, MA",
+        "zip": "02136",
+        "latitude": 42.256429,
+        "longitude": -71.124278,
+        "hours": "24/7",
+        "remarks": "One unisex, wheelchair-accessible stall\r\nNo family bathrooms\r\nDon't need to use stairs to enter building, bathroom",
+        "dist": 5260.636654156332
+    },
+    {
+        "name": "Boston Public Library - Hyde Park",
+        "address": "35 Harvard Avenue, Hyde Park, MA",
+        "zip": "02136",
+        "latitude": 42.25687,
+        "longitude": -71.122235,
+        "hours": "Monday and Thursday: 12PM - 8PM\r\nTuesday and Wednesday: 10AM - 6PM\r\nFriday and Saturday: 9 AM - 5 PM\r\nSunday: CLOSED",
+        "remarks": "Wheelchair-accessible stalls\r\nGender-specific bathrooms (one male stall, one female stall)\r\nFamily bathroom\r\nDon't need to use stairs to enter building, bathroom\r\nWheelchair accessible upstairs, changing table downstairs",
+        "dist": 5260.541243398391
+    },
+    {
+        "name": "BCYF Curtis Hall",
+        "address": "20 South Street, Boston, MA",
+        "zip": "02130",
+        "latitude": 42.308836,
+        "longitude": -71.114945,
+        "hours": "Montay through Saturday: 6:30AM - 9PM\r\nSunday: 9AM - 5PM",
+        "remarks": "Wheelchair-accessible stalls\r\nGender-specific bathrooms (five male stalls, five female stalls)\r\nNo family bathrooms\r\nDon't need to use stairs to enter building, bathroom\r\nVisitors must sign in at front desk",
+        "dist": 5260.9717802522855
+    },
+    {
+        "name": "Boston Fire Department Division 2 Headquarters",
+        "address": "746 Centre St, Boston, MA",
+        "zip": "02130",
+        "latitude": 42.310542,
+        "longitude": -71.114418,
+        "hours": "24/7",
+        "remarks": "One unisex, wheelchair-accessible stall\r\nNo family bathrooms\r\nDon't need to use stairs to enter building, bathroom",
+        "dist": 5260.971567732536
+    },
+    {
+        "name": "Boston Police Department District E-13",
+        "address": "3347 Washington St, Boston, MA",
+        "zip": "02130",
+        "latitude": 42.309583,
+        "longitude": -71.104553,
+        "hours": "24/7",
+        "remarks": "One unisex, wheelchair-accessible stall\r\nNo family bathrooms\r\nDon't need to use stairs to enter building, bathroom\r\nVisitors must be buzzed in",
+        "dist": 5260.464088408228
+    },
+    {
+        "name": "Boston Public Library - Connolly",
+        "address": "433 Centre St, Jamaica Plain, MA",
+        "zip": "02130",
+        "latitude": 42.320652,
+        "longitude": -71.111086,
+        "hours": "Monday: 12PM - 8PM\r\nTuesday through Thursday: 10AM - 6PM\r\nFriday: 9AM - 5PM\r\nSaturday: 9AM - 2PM\r\nSunday: CLOSED",
+        "remarks": "One unisex, wheelchair-accessible stall\r\nNo family bathrooms (changing table in unisex bathroom)\r\nThere is a ramp and elevator for wheelchair access",
+        "dist": 5260.959922358346
+    },
+    {
+        "name": "Boston Public Library - Jamaica Plain",
+        "address": "12 Sedgwick St, Jamaica Plain, MA",
+        "zip": "02130",
+        "latitude": 42.308586,
+        "longitude": -71.115042,
+        "hours": "Monday through Wednesday: 10AM - 6PM\r\nThursday: 12PM - 8PM\r\nFriday and Saturday: 9AM - 5PM\r\nSunday: CLOSED",
+        "remarks": "Wheelchair-accessible stalls\r\nGender-specific bathrooms (one male stall, four female stalls)\r\nOne unisex bathroom\r\nNo family bathrooms\r\nDon't need to use stairs to enter building, bathroom",
+        "dist": 5260.972799352479
+    },
+    {
+        "name": "Jamaica Pond Boat House",
+        "address": "507 Jamaicaway, Jamaica Plain, MA",
+        "zip": "02130",
+        "latitude": 42.315828,
+        "longitude": -71.117459,
+        "hours": "Dawn to Dusk",
+        "remarks": "One wheelchair-accessible stall\r\nGender-specific bathrooms (one male stall, four female stalls)\r\nNo family bathrooms\r\nDon't need to use stairs to enter building, bathroom",
+        "dist": 5261.204385029611
+    },
+    {
+        "name": "BCYF Gallivan",
+        "address": "61 Woodruff Way, Boston, MA",
+        "zip": "02126",
+        "latitude": 42.275221,
+        "longitude": -71.082406,
+        "hours": "Weekdays: 6:30AM - 9PM\r\nSaturday: 9AM - 5PM\r\nSunday: CLOSED",
+        "remarks": "Wheelchair-accessible stalls\r\nGender-specific bathrooms (three male stalls, three female stalls)\r\nNo family bathrooms\r\nDon't need to use stairs to enter building, bathroom\r\nVisitors must sign in at front desk",
+        "dist": 5258.831059963306
+    },
+    {
+        "name": "Boston Police Department District B-3",
+        "address": "1165 Blue Hill Avenue, Boston, MA",
+        "zip": "02124",
+        "latitude": 42.284683,
+        "longitude": -71.09169,
+        "hours": "24/7",
+        "remarks": "Wheelchair-accessible stalls\r\nGender-specific bathrooms (one male stall, two female stalls)\r\nNo family bathrooms\r\nDon't need to use stairs to enter building, bathroom\r\nVisitors must be buzzed in",
+        "dist": 5259.440011036866
+    },
+    {
+        "name": "Boston Public Library - Mattapan",
+        "address": "1350 Blue Hill Avenue, Mattapan, MA",
+        "zip": "02126",
+        "latitude": 42.277345,
+        "longitude": -71.093005,
+        "hours": "Monday and Wednesday: 10AM - 6PM\r\nTuesday and Thursday: 12PM - 8PM\r\nFriday and Saturday: 9AM - 5PM\r\nSunday: CLOSED",
+        "remarks": "Wheelchair-accessible stalls\r\nGender-specific bathrooms (three male stalls, five female stalls)\r\nFamily bathroom\r\nDon't need to use stairs to enter building, bathroom",
+        "dist": 5259.393329053346
+    },
+    {
+        "name": "BCYF Tobin",
+        "address": "1481 Tremont St, Boston, MA",
+        "zip": "02120",
+        "latitude": 42.332154,
+        "longitude": -71.098538,
+        "hours": "Weekdays: 6:30AM - 9PM\r\nSaturday: 9AM - 5PM\r\nSunday: CLOSED",
+        "remarks": "Wheelchair-accessible stalls\r\nGender-specific bathrooms (two male stalls, four female stalls)\r\nNo family bathrooms\r\nMain entrance has stairs (accessible entrance not always open)\r\nVisitors must sign in at front desk",
+        "dist": 5260.509491697386
+    },
+    {
+        "name": "Battery Wharf Boston Hotel",
+        "address": "3 Battery Wharf, Boston, MA",
+        "zip": "02109",
+        "latitude": 42.367342,
+        "longitude": -71.050388,
+        "hours": "24/7",
+        "remarks": "Wheelchair accessible stalls\r\nGender-specific bathrooms (one male stall and one female stall)\r\nNo family bathroom\r\nDon't need to use stairs to enter building or bathroom",
+        "dist": 5258.646262841488
+    },
+    {
+        "name": "BCYF Mirabella Pool",
+        "address": "475 Commercial Street, Boston, MA",
+        "zip": "02109",
+        "latitude": 42.367526,
+        "longitude": -71.053129,
+        "hours": "7AM - 8PM",
+        "remarks": "SEASONAL: ONLY OPEN DURING THE SUMMER, WEATHER PERMITTING\r\n\r\nWheelchair-accessible stalls\r\nGender-specific bathrooms (three male stalls, four female stalls)\r\nNo family bathrooms\r\nNo unisex bathrooms\r\nDon't need to use stairs to enter building, bathroom\r\nVisitors must sign in at front desk",
+        "dist": 5258.785861461685
+    },
+    {
+        "name": "BCYF Nazzaro",
+        "address": "30 N Bennet St, Boston, MA",
+        "zip": "02113",
+        "latitude": 42.365301,
+        "longitude": -71.054491,
+        "hours": "Weekdays: 6:30AM - 9PM\r\nSaturday: 9AM - 5PM\r\nSunday: CLOSED",
+        "remarks": "Wheelchair-accessible stalls\r\nGender-specific bathrooms (two male stalls, three female stalls)\r\nNo family bathrooms\r\nNo unisex adult bathrooms (children's bathroom is unisex)\r\nDon't need to use stairs to enter building, bathroom\r\nVisitors must sign in at front desk",
+        "dist": 5258.819615913533
+    },
+    {
+        "name": "Boston Fire Department Marine 1",
+        "address": "50 Battery St, Boston, MA",
+        "zip": "02109",
+        "latitude": 42.366702,
+        "longitude": -71.049326,
+        "hours": "24/7",
+        "remarks": "No wheelchair accessible stall\r\nGender-specific bathrooms (one male stall and one female stall)\r\nNo family bathroom\r\nDon't need to use stairs to enter building or bathroom",
+        "dist": 5258.583429737568
+    },
+    {
+        "name": "Boston Public Library - North End",
+        "address": "25 Parmenter St, Boston, MA",
+        "zip": "02113",
+        "latitude": 42.364013,
+        "longitude": -71.054998,
+        "hours": "Monday, Tuesday, and Thursday: 10AM - 6PM\r\nWednesday: 12PM - 8PM\r\nFriday: 9AM - 5PM\r\nSaturday: 9AM - 2PM\r\nSunday: CLOSED",
+        "remarks": "Wheelchair-accessible stalls\r\nGender-specific bathrooms (one male stall, one female stall)\r\nFamily bathroom\r\nUnisex bathroom (changing table in unisex bathroom)\r\nDon't need to use stairs to enter building, bathroom",
+        "dist": 5258.825115044715
+    },
+    {
+        "name": "Boston Yacht Haven Inn and Marina",
+        "address": "87 Commercial Wharf, Boston, MA",
+        "zip": "02110",
+        "latitude": 42.362416,
+        "longitude": -71.051481,
+        "hours": "8AM - 6PM",
+        "remarks": "Wheelchair accessible stalls\r\nGender-specific bathrooms (one male stall and one female stall)\r\nNo family bathrooms\r\nDon't need to use stairs to enter building or bathroom",
+        "dist": 5258.625059938576
+    },
+    {
+        "name": "Boston City Toilet",
+        "address": "35 Commercial Street, Boston, MA",
+        "zip": "02109",
+        "latitude": 42.366234,
+        "longitude": -71.05112,
+        "hours": "24/7",
+        "remarks": "Wheelchair-accessible, unisex stall\r\nNo family bathroom\r\nFare control: costs 25 cents per use\r\nDon't need to use stairs to enter building, bathroom",
+        "dist": 5258.665750580455
+    },
+    {
+        "name": "DCR Steriti Memorial Rink",
+        "address": "561 Commercial Street, Boston, MA",
+        "zip": "02109",
+        "latitude": 42.368377,
+        "longitude": -71.056964,
+        "hours": "Weekdays: 12PM - 10PM\r\nWeekends: 7AM - 10PM",
+        "remarks": "SEASONAL (NOVEMBER 17 - MARCH 17)\r\n\r\nWheelchair accessible stalls\r\nGender-specific stalls (two male stalls and two urinals, five female stalls)\r\nNo family bathroom\r\nDon't need to use stairs to enter building or bathroom",
+        "dist": 5258.990301947134
+    },
+    {
+        "name": "Joe's American Bar \u0026 Grill",
+        "address": "100 Atlantic Ave, Boston, MA",
+        "zip": "02110",
+        "latitude": 42.3621,
+        "longitude": -71.051048,
+        "hours": "Monday through Thursday: 11AM - 11PM\r\nFriday: 11AM - 12PM\r\nSaturday: 9AM - 12AM\r\nSunday: 9AM - 11PM",
+        "remarks": "Wheelchair accessible stall\r\nGender-specific bathroom (two male stalls and seven female stalls)\r\nNo family bathroom\r\nDon't need to use stairs to enter building or bathroom",
+        "dist": 5258.598593857108
+    },
+    {
+        "name": "Pilot House",
+        "address": "32 Atlantic Ave, Boston, MA",
+        "zip": "02110",
+        "latitude": 42.363396,
+        "longitude": -71.050794,
+        "hours": "24/7",
+        "remarks": "Wheelchair accessible stalls\r\nNo gender specific bathroom\r\nOne unisex stall and family bathroom; family stall is ada compliant\r\nSecurity on site; don't need to use stairs to enter building or bathroom",
+        "dist": 5258.605845689658
+    },
+    {
+        "name": "Sunshine Biscuit Building",
+        "address": "226 Causeway St, Boston, MA",
+        "zip": "02114",
+        "latitude": 42.366594,
+        "longitude": -71.059823,
+        "hours": "Weekdays: 8:30AM - 7:30PM\r\nWeekends: 10AM - 6PM",
+        "remarks": "Wheelchair accessible stalls\r\nGender-specific bathrooms (2 male stalls and one urinal, three female stalls)\r\nNo family bathroom \r\nDon't need to use stairs to enter building or bathroom\r\nRing bell or knock on door after hours; security always on call at front desk",
+        "dist": 5259.10555587993
+    },
+    {
+        "name": "BCYF Flaherty Pool",
+        "address": "160 Florence St, Roslindale, MA",
+        "zip": "02131",
+        "latitude": 42.288398,
+        "longitude": -71.122158,
+        "hours": "Weekdays: 5:30AM - 9PM\r\nSaturday: 7AM - 3PM\r\nSunday: CLOSED",
+        "remarks": "Wheelchair-accessible stalls\r\nGender specific bathrooms (two male stalls, four female stalls)\r\nOne unisex bathroom stall\r\nOne family bathroom\r\nAll people entering must talk to staff at front desk\r\nDon't need to use stairs to enter building, bathroom\r\nVisitors must sign in at front desk",
+        "dist": 5261.0194625371705
+    },
+    {
+        "name": "BCYF Menino",
+        "address": "125 Brookway Rd, Boston, MA",
+        "zip": "02131",
+        "latitude": 42.292374,
+        "longitude": -71.12018,
+        "hours": "Weekdays: 6:30 AM - 9PM\r\nSaturday: 9AM - 5PM\r\nSunday: CLOSED",
+        "remarks": "Wheelchair-accessible stalls\r\nGender specific bathrooms (three male stalls, three female stalls)\r\nOne unisex bathroom stall\r\nOne family bathroom (not wheelchair-accessible)\r\nDon't need to use stairs to enter building, bathroom\r\nVisitors must sign in at front desk",
+        "dist": 5260.981434949495
+    },
+    {
+        "name": "BCYF Roslindale",
+        "address": "6 Cummins Hwy, Boston, MA",
+        "zip": "02131",
+        "latitude": 42.286348,
+        "longitude": -71.127804,
+        "hours": "Weekdays: 6:30AM - 9PM\r\nSaturday: 9AM - 5PM\r\nSunday: CLOSED",
+        "remarks": "Wheelchair-accessible stalls\r\nGender specific bathrooms (one male stall, two female stalls)\r\nNo family bathrooms (child-size bathrooms are unisex)\r\nDon't need to use stairs to enter building, bathroom\r\nVisitors must sign in at front desk",
+        "dist": 5261.270273585165
+    },
+    {
+        "name": "Boston Public Library - Roslindale",
+        "address": "4246 Washington St, Roslindale, MA",
+        "zip": "02131",
+        "latitude": 42.285596,
+        "longitude": -71.128557,
+        "hours": "Monday through Wednesday: 10AM - 6PM\r\nThursday: 12PM - 8PM\r\nFriday: 9AM - 5PM\r\nSaturday: 9AM - 2PM\r\nSunday: CLOSED",
+        "remarks": "Wheelchair-accessible stalls\r\nGender specific bathrooms (one male stall, one female stall)\r\nNo family bathrooms (changing table in woman's bathroom)\r\nDon't need to use stairs to enter building, bathroom",
+        "dist": 5261.2964088119315
+    },
+    {
+        "name": "BCYF Shelburne",
+        "address": "2730 Washington St, Boston, MA",
+        "zip": "02119",
+        "latitude": 42.32274,
+        "longitude": -71.090345,
+        "hours": "Weekdays: 6:30AM - 9PM\r\nSaturday: 9AM - 5PM\r\nSunday: CLOSED",
+        "remarks": "Wheelchair-accessible stalls\r\nGender-specific bathrooms (two male stalls, four female stalls)\r\nNo family bathrooms\r\nDon't need to use stairs to enter building, bathroom\r\nVisitors must sign in at front desk",
+        "dist": 5259.956048376393
+    },
+    {
+        "name": "BCYF Vine Street",
+        "address": "339 Dudley St, Roxbury, MA",
+        "zip": "02119",
+        "latitude": 42.326785,
+        "longitude": -71.076712,
+        "hours": "Weekdays: 6:30AM - 9PM\r\nSaturday: 9AM - 5PM",
+        "remarks": "Wheelchair-accessible stalls\r\nGender-specific bathrooms (one male stall, one female stall)\r\nFamily bathroom\r\nDon't need to use stairs to enter building, bathroom\r\nVisitors must sign in at front desk",
+        "dist": 5259.3372843732695
+    },
+    {
+        "name": "Boston Fire Department District 7 Engine 14, Ladder 4, Safety Chief H-1",
+        "address": "174 Dudley St, Boston, MA",
+        "zip": "02119",
+        "latitude": 42.328861,
+        "longitude": -71.082348,
+        "hours": "24/7",
+        "remarks": "One unisex, wheelchair-accessible stall\r\nNo family bathrooms\r\nDon't need to use stairs to enter building, bathroom",
+        "dist": 5259.650566191414
+    },
+    {
+        "name": "Boston Fire Department District 9, Engine 42, and Rescue 2",
+        "address": "1870 Columbus Ave, Boston, MA",
+        "zip": "02119",
+        "latitude": 42.318397,
+        "longitude": -71.097776,
+        "hours": "24/7",
+        "remarks": "One unisex, wheelchair-accessible stall\r\nNo family bathrooms\r\nDon't need to use stairs to enter building, bathroom",
+        "dist": 5260.2606075230715
+    },
+    {
+        "name": "Boston Fire Department District 9, Engine 37, and Ladder 26",
+        "address": "560 Huntington Ave, Boston, MA",
+        "zip": "02115",
+        "latitude": 42.33719,
+        "longitude": -71.096088,
+        "hours": "24/7",
+        "remarks": "One unisex, wheelchair-accessible stall\r\nNo family bathrooms\r\nDon't need to use stairs to enter building, bathroom",
+        "dist": 5260.464354604365
+    },
+    {
+        "name": "Boston Police Headquarters",
+        "address": "1 Schroeder Plaza, Boston, MA",
+        "zip": "02120",
+        "latitude": 42.334104,
+        "longitude": -71.090867,
+        "hours": "24/7",
+        "remarks": "One unisex, wheelchair-accessible stall\r\nGender-specific bathrooms (one male stall, one female stall)\r\nDon't need to use stairs to enter building, bathroom",
+        "dist": 5260.156353811587
+    },
+    {
+        "name": "Boston Police Department District B-2",
+        "address": "2400 Washington Street, Roxbury, MA",
+        "zip": "02119",
+        "latitude": 42.328411,
+        "longitude": -71.085698,
+        "hours": "24/7",
+        "remarks": "One unisex, wheelchair-accessible stall\r\nDon't need to use stairs to enter building, bathroom\r\nVisitors must be buzzed in",
+        "dist": 5259.810945480215
+    },
+    {
+        "name": "Boston City Toilet",
+        "address": "140 Dudley St, Boston, MA",
+        "zip": "02119",
+        "latitude": 42.328785,
+        "longitude": -71.083908,
+        "hours": "24/7",
+        "remarks": "Wheelchair-accessible, unisex stall\r\nNo family bathroom\r\nFare control: costs 25 cents per use\r\nDon't need to use stairs to enter building, bathroom",
+        "dist": 5259.727298214002
+    },
+    {
+        "name": "Boston Public Library - Egleston Square",
+        "address": "2044 Columbus Ave, Boston, MA",
+        "zip": "02119",
+        "latitude": 42.314106,
+        "longitude": -71.095717,
+        "hours": "Monday, Tuesday, and Thursday: 10AM - 6PM\r\nWednesday: 12PM - 8PM\r\nFriday: 9AM - 5PM\r\nSaturday: 9AM - 2PM\r\nSunday: CLOSED",
+        "remarks": "Wheelchair-accessible stalls\r\nGender specific bathrooms (one male stall, one female stall)\r\nNo family bathrooms\r\nDon't need to use stairs to enter building, bathroom",
+        "dist": 5260.092011834473
+    },
+    {
+        "name": "75 on Liberty Wharf",
+        "address": "220 Northern Ave, Boston, MA",
+        "zip": "02210",
+        "latitude": 42.349131,
+        "longitude": -71.038888,
+        "hours": "11AM - 11PM",
+        "remarks": "Wheelchair accessible stalls\r\nNo gender-specific or family bathrooms \r\nDon't need to use stairs to enter building, bathroom\r\nRestaurant may close early if business is slow",
+        "dist": 5257.792285130199
+    },
+    {
+        "name": "Del Frisco's Double Eagle Steak House",
+        "address": "250 Northern Ave, Boston, MA",
+        "zip": "02210",
+        "latitude": 42.348751,
+        "longitude": -71.038122,
+        "hours": "Weekdays: 11:30AM - 11PM\r\nWeekends: 3PM - 11PM",
+        "remarks": "Wheelchair accessible stalls\r\nGender-specific bathrooms (two male stalls and two urinals, six female stalls)\r\nNo family bathrooms (changing table in women's room)\r\nDon't need to use stairs to enter building, bathroom; restrooms accessible by stairs or elevators",
+        "dist": 5257.748207910658
+    },
+    {
+        "name": "Fan Pier Boston",
+        "address": "1 Marina Park Drive, Boston, MA",
+        "zip": "02210",
+        "latitude": 42.352943,
+        "longitude": -71.045292,
+        "hours": "24/7",
+        "remarks": "One wheelchair accessible, unisex stall\r\nDon't need to use stairs to enter building, bathroom\r\nPress intercom button outside restroom door for access",
+        "dist": 5258.170536187784
+    },
+    {
+        "name": "Institute of Contemporary Art",
+        "address": "25 Harbor Shore Dr, Boston, MA",
+        "zip": "02210",
+        "latitude": 42.352865,
+        "longitude": -71.042963,
+        "hours": "Tuesday through Thursday: 10AM - 5PM\r\nFriday: 10AM - 9PM\r\nSaturday: 1AM - 5PM",
+        "remarks": "Wheelchair accessible stalls and a family bathroom\r\nGender-specific bathrooms (10 male stalls, 15 females stalls, four unisex stalls) \r\nDon't need to use stairs to enter building, bathroom; first-floor bathrooms open to publish, four-floor bathrooms for museum visitors",
+        "dist": 5258.05309922441
+    },
+    {
+        "name": "Legal Harborside",
+        "address": "270 Northern Ave, Boston, MA",
+        "zip": "02210",
+        "latitude": 42.348622,
+        "longitude": -71.037781,
+        "hours": "Weekdays: 11AM - 10PM\r\nWeekends: 11AM - 12AM",
+        "remarks": "Wheelchair accessible stalls\r\nGender-specific bathrooms (located on first, second, and third floor; changing station in first floor bathrooms)\r\nDon't need to use stairs to enter building, bathroom",
+        "dist": 5257.72920378493
+    },
+    {
+        "name": "Park Lane Seaport Apartments",
+        "address": "1 Park Lane, Boston, MA",
+        "zip": "02210",
+        "latitude": 42.348322,
+        "longitude": -71.03819,
+        "hours": "24/7",
+        "remarks": "Wheelchair accessible stalls\r\nGender-specific bathrooms (located on first, second, and third floor; changing station in first floor bathrooms)\r\nDon't need to use stairs to enter building, bathroom",
+        "dist": 5257.7450029019765
+    },
+    {
+        "name": "Seaport East",
+        "address": "2 Seaport Lane, Boston, MA",
+        "zip": "02210",
+        "latitude": 42.349124,
+        "longitude": -71.040708,
+        "hours": "Weekdays: 8AM - 6PM",
+        "remarks": "Wheelchair accessible stalls\r\nGender-specific stalls (six male stalls, eight female stalls); no family bathroom\r\nDon't need to use stairs to enter building, bathroom\r\nRestrooms are on second floor, you must check in with security",
+        "dist": 5257.883016003682
+    },
+    {
+        "name": "Seaport West",
+        "address": "155 Seaport Boulevard, Boston, MA",
+        "zip": "02210",
+        "latitude": 42.350042,
+        "longitude": -71.042693,
+        "hours": "Weekdays: 6AM - 6PM",
+        "remarks": "Wheelchair accessible stalls\r\nGender-specific stalls (three male stalls, five female stalls); no family bathroom\r\nDon't need to use stairs to enter building or bathroom\r\nBathrooms located on second floor via the parking garage elevators",
+        "dist": 5257.996208153726
+    },
+    {
+        "name": "Tony C's Seaport",
+        "address": "250 Northern Ave, Boston, MA",
+        "zip": "02210",
+        "latitude": 42.348751,
+        "longitude": -71.038122,
+        "hours": "11AM - 2AM",
+        "remarks": "Wheelchair accessible stalls\r\nGender-specific bathrooms (four urinals and two male stalls, five female stalls)\r\nNo family bathroom; changing tables in both bathrooms\r\nDon't need to use stairs to enter building, bathroom",
+        "dist": 5257.748207910658
+    },
+    {
+        "name": "88 Black Falcon Avenue",
+        "address": "88 Black Falcon Avenue, Boston, MA",
+        "zip": "02210",
+        "latitude": 42.343848,
+        "longitude": -71.02418,
+        "hours": "24/7",
+        "remarks": "Wheelchair accessible stalls\r\nGender-specific bathrooms (two male stalls and one urinal, three female stalls)\r\nNo family bathroom\r\nDon't need to use stairs to enter building or bathroom\r\nEnter through center lobby where security is located",
+        "dist": 5256.976883876478
+    },
+    {
+        "name": "BCYF Curley",
+        "address": "1663 Columbia Rd, Boston, MA",
+        "zip": "02127",
+        "latitude": 42.329221,
+        "longitude": -71.036767,
+        "hours": "Monday through Saturday: 6:30AM - 9PM\r\nSunday: 9AM - 5PM",
+        "remarks": "Wheelchair-accessible stalls\r\nGender-specific bathrooms (16 male stalls, 12 female stalls)\r\nFamily bathrooms (for women and children only)\r\nDon't need to use stairs to enter building, bathroom\r\nVisitors must sign in at front desk",
+        "dist": 5257.380192923863
+    },
+    {
+        "name": "Boston Fire Department District 6, Engine 39, Ladder 18, and C-11 Hospital Rep",
+        "address": "272 D St, Boston, MA",
+        "zip": "02127",
+        "latitude": 42.339621,
+        "longitude": -71.0505,
+        "hours": "24/7",
+        "remarks": "One unisex, wheelchair-accessible stall\r\nNo family bathrooms\r\nDon't need to use stairs to enter building, bathroom",
+        "dist": 5258.225687440052
+    },
+    {
+        "name": "Boston Police Department District C-6",
+        "address": "101 W Broadway, Boston, MA",
+        "zip": "02127",
+        "latitude": 42.341126,
+        "longitude": -71.054954,
+        "hours": "24/7",
+        "remarks": "Gender-specific bathrooms (one male stall, one female stall)\r\nNo family bathrooms\r\nVisitors must be buzzed in",
+        "dist": 5258.4711616211935
+    },
+    {
+        "name": "Boston Public Library - South Boston",
+        "address": "646 E Broadway, Boston, MA",
+        "zip": "02127",
+        "latitude": 42.33582,
+        "longitude": -71.038751,
+        "hours": "Monday and Thursday: 12PM - 8PM\r\nTuesday and Wednesday: 10AM - 6PM\r\nFriday and Saturday: 9AM - 5PM\r\nSunday: CLOSED",
+        "remarks": "One unisex, wheelchair-accessible stall\r\nFamily bathroom\r\nDon't need to use stairs to enter building, bathroom",
+        "dist": 5257.580723591895
+    },
+    {
+        "name": "Carson Beach",
+        "address": "165 William J Day Blvd, Boston, MA",
+        "zip": "02125",
+        "latitude": 42.329644,
+        "longitude": -71.045707,
+        "hours": "Dawn to Dusk",
+        "remarks": "SEASONAL (MID-MAY TO COLUMBUS DAY)\r\n\r\nWheelchair accessible stalls\r\nGender-specific bathrooms (four male stalls and six female stalls)\r\nNo family bathrooms\r\nDon't need to use stairs to enter building or bathroom",
+        "dist": 5257.833052665797
+    },
+    {
+        "name": "Castle Island",
+        "address": "2010 William J Day Blvd, Boston, MA",
+        "zip": "02127",
+        "latitude": 42.330248,
+        "longitude": -71.041534,
+        "hours": "Dawn to Dusk",
+        "remarks": "SEASONAL (MID-MARCH TO END OF NOVEMBER)\r\n\r\nWheelchair accessible stalls\r\nGender-specific bathrooms (three male stalls and six female stalls\r\nNo family bathrooms \r\nDon't need to use stairs to enter building or bathroom",
+        "dist": 5257.633988362493
+    },
+    {
+        "name": "Boston City Toilet",
+        "address": "12 Drydock Ave, Boston, MA",
+        "zip": "02210",
+        "latitude": 42.34474,
+        "longitude": -71.035068,
+        "hours": "24/7",
+        "remarks": "Wheelchair-accessible, unisex stall\r\nNo family bathroom\r\nFare Control: costs 25 cents per use\r\nDon't need to use stairs to enter building, bathroom",
+        "dist": 5257.534072642591
+    },
+    {
+        "name": "Boston Fire Department District 4 Engine 22, W-25, and Haz Mat",
+        "address": "700 Tremont St, Boston, MA",
+        "zip": "02118",
+        "latitude": 42.340522,
+        "longitude": -71.077539,
+        "hours": "24/7",
+        "remarks": "One unisex, wheelchair-accessible stall\r\nNo family bathrooms\r\nDon't need to use stairs to enter building, bathroom",
+        "dist": 5259.589374939422
+    },
+    {
+        "name": "Boston Police Department District D-4",
+        "address": "650 Harrison Ave, Boston, MA",
+        "zip": "02118",
+        "latitude": 42.339437,
+        "longitude": -71.069225,
+        "hours": "24/7",
+        "remarks": "One unisex, wheelchair-accessible stall\r\nNo family bathrooms\r\nDon't need to use stairs to enter building, bathroom\r\nGender specific bathrooms (one male stall, one female stall)",
+        "dist": 5259.157653966976
+    },
+    {
+        "name": "Boston Public Library - South End",
+        "address": "685 Tremont St, Boston, MA",
+        "zip": "02118",
+        "latitude": 42.341399,
+        "longitude": -71.076962,
+        "hours": "Monday, Wednesday and Thursday: 10AM - 6PM\r\nTuesday: 12PM - 8PM\r\nFriday: 9AM - 5PM\r\nSaturday: 9AM - 2PM\r\nSunday: CLOSED",
+        "remarks": "Wheelchair-accessible stalls\r\nGender specific bathrooms (one male stall, one female stall)\r\nNo family bathroom\r\nDon't need to use stairs to enter building, bathroom",
+        "dist": 5259.574028693339
+    },
+    {
+        "name": "BCYF Draper Pool",
+        "address": "5275 Washington St, West Roxbury, MA",
+        "zip": "02132",
+        "latitude": 42.260183,
+        "longitude": -71.159801,
+        "hours": "Weekdays: 6AM - 9PM\r\nSaturday: 9AM - 4PM\r\nSunday: CLOSED",
+        "remarks": "Wheelchair-accessible stalls\r\nGender specific bathrooms (two male stalls, three female stalls)\r\nUnisex bathroom\r\nFamily bathroom\r\nDon't need to use stairs to enter building, bathroom\r\nVisitors must sign in at front desk",
+        "dist": 5262.470193557568
+    },
+    {
+        "name": "BCYF Roche",
+        "address": "1714 Centre St, West Roxbury, MA",
+        "zip": "02132",
+        "latitude": 42.286885,
+        "longitude": -71.14931,
+        "hours": "Weekdays: 6:30AM - 9PM",
+        "remarks": "Wheelchair-accessible stalls\r\nGender specific bathrooms (two male stalls, two female stalls)\r\nNo family bathrooms\r\nDon't need to use stairs to enter building, bathroom\r\nVisitors must sign in at front desk",
+        "dist": 5262.353299638895
+    },
+    {
+        "name": "Boston Fire Department District 12, Engine 55",
+        "address": "5115 Washington St, Boston, MA",
+        "zip": "02132",
+        "latitude": 42.263987,
+        "longitude": -71.154805,
+        "hours": "24/7",
+        "remarks": "One unisex, wheelchair-accessible stall\r\nNo family bathrooms\r\nDon't need to use stairs to enter building, bathroom",
+        "dist": 5262.278429547701
+    },
+    {
+        "name": "Boston Police Department District E-5",
+        "address": "1708 Centre St, West Roxbury, MA",
+        "zip": "02132",
+        "latitude": 42.286783,
+        "longitude": -71.148425,
+        "hours": "24/7",
+        "remarks": "Gender specific bathrooms (one male stall, one female stall)\r\nNo family bathrooms",
+        "dist": 5262.307510516032
+    },
+    {
+        "name": "Boston Public Library - West Roxbury",
+        "address": "1961 Centre St, West Roxbury, MA",
+        "zip": "02132",
+        "latitude": 42.283389,
+        "longitude": -71.157425,
+        "hours": "Monday and Thursday: 12PM-8PM\r\nTuesday and Wednesday: 10AM - 6PM\r\nFriday and Saturday: 9AM - 5PM\r\nSunday: CLOSED",
+        "remarks": "Wheelchair-accessible stalls\r\nGender specific bathrooms (two male stalls, three female stalls)\r\nFamily bathroom (also a changing table in women's bathroom)\r\nDon't need to use stairs to enter building, bathroom",
+        "dist": 5262.705520184939
+    },
+    {
+        "name": "Back Bay Station (MBTA)",
+        "address": "131 Dartmouth St, Boston, MA",
+        "zip": "02116",
+        "latitude": 42.34671,
+        "longitude": -71.075396,
+        "hours": "24/7",
+        "remarks": "Outside fare gates Layout: multiple stalls, men/women\r\nCleanliness Rating: 3/3\r\nBy far the best bathroom on the MBTA. Located straight ahead as you walk toward the staircases to Tracks 1, 2, and 3 in the Commuter Rail station. These bathrooms are incredibly spacious with lots of capacity, and the sinks function as water, soap, and dryer dispensers all at once. Note that these are open from 6 AM to 10 PM, with an hour-long closed period from 1 to 2 PM.\r\nSource: www.milesintransit.com/2019/09/01/the-unofficial-mbta-bathroom-map/",
+        "dist": 5259.577371877061
+    },
+    {
+        "name": "South Station Station (MBTA)",
+        "address": "700 Atlantic Ave, Boston, MA",
+        "zip": "02205",
+        "latitude": 42.351546,
+        "longitude": -71.055153,
+        "hours": "24/7",
+        "remarks": "Outside fare gates\r\nLayout: multiple stalls, men/women\r\nCleanliness Rating: 3/3\r\nThe bathrooms are located in the Commuter Rail station; once you get into the building, take a right for men and a left for women. Both are clean, albeit busy.\r\nSource: www.milesintransit.com/2019/09/01/the-unofficial-mbta-bathroom-map/",
+        "dist": 5258.641223844961
+    },
+    {
+        "name": "North Station (MBTA)",
+        "address": "90 Causeway St, Boston, MA",
+        "zip": "02114",
+        "latitude": 42.365727,
+        "longitude": -71.061671,
+        "hours": "24/7",
+        "remarks": "Outside fare gates\r\nLayout: multiple stalls, men/women\r\nCleanliness Rating: 1/3 for men, 2/3 for women\r\nTo get to these bathrooms, head to the far left front portion of the Commuter Rail station. Walk down the hallway, and the bathrooms will be on the right. The men's room is dingy, with gross stalls and toilet paper everywhere; its only redeeming quality was a neat basketball-wrapped dryer. The women's room was cleaner, with much less on the floor, but still very unappealing.\r\nSource: www.milesintransit.com/2019/09/01/the-unofficial-mbta-bathroom-map/",
+        "dist": 5259.184446674681
+    },
+    {
+        "name": "Harvard Station (MBTA)",
+        "address": "1400 Massachusetts Avenue, Cambridge, MA",
+        "zip": "02138",
+        "latitude": 42.374133,
+        "longitude": -71.119001,
+        "hours": "24/7",
+        "remarks": "Outside fare gates\r\nLayout: single stall, all genders\r\nCleanliness Rating: 2/3\r\nBathroom is located to the left of the main entrance stairs in the mezzanine. Inside, it's fairly clean and not too smelly. Although the bathroom locks, the \"Occupied\" light above its door doesn't light up. The door-open button for disabled people works, but if one locked the door and is trying to get out, they have to first unlock the door, then back up to the button, which is further into the bathroom. It's an inconvenient process.\r\nSource: www.milesintransit.com/2019/09/01/the-unofficial-mbta-bathroom-map/",
+        "dist": 5262.174258128687
+    },
+    {
+        "name": "Sullivan Station (MBTA)",
+        "address": "1 Cambridge St, Charlestown, MA",
+        "zip": "02129",
+        "latitude": 42.382025,
+        "longitude": -71.078245,
+        "hours": "24/7",
+        "remarks": "Fare Control (inside fare gates)\r\nLayout: multiple stalls, men/women\r\nCleanliness Rating: 1/3\r\nThe bathrooms are located to the left after you enter the faregates. These could get a 1 entirely on the basis of their smell - in particular, the men's room door was open, wafting its odor across the whole mezzanine. The women's room was just as bad. Combine it with incredibly depressing aesthetics and missing amenities (the women's room had no paper towels, while the men's room lacked paper towels, soap, and even the mirror), and these are some awful bathrooms.\r\nSource: www.milesintransit.com/2019/09/01/the-unofficial-mbta-bathroom-map/",
+        "dist": 5260.2617862794705
+    },
+    {
+        "name": "Porter Station (MBTA)",
+        "address": "1899 Massachusetts Ave, Cambridge, MA",
+        "zip": "02140",
+        "latitude": 42.388065,
+        "longitude": -71.119202,
+        "hours": "24/7",
+        "remarks": "Fare Control (inside fare gates)\r\nLayout: multiple stalls, men/women\r\nCleanliness Rating: 2/3 for men, 1/3 for women\r\nBathrooms are located in the hallway to the elevators in the mezzanine after passing through the faregates. The men's room lacks soap and paper towels, but it was relatively clean and it didn't smell. The women's room, although it didn't smell either, is plastered with graffiti and had toilet paper and trash on the floor.\r\n\r\nSource: www.milesintransit.com/2019/09/01/the-unofficial-mbta-bathroom-map/",
+        "dist": 5262.397775860229
+    },
+    {
+        "name": "Assembly Station (MBTA)",
+        "address": "499 Foley St, Somerville, MA",
+        "zip": "02145",
+        "latitude": 42.39285,
+        "longitude": -71.081498,
+        "hours": "24/7",
+        "remarks": "Outside fare gates\r\nLayout: single stall, all genders (?)\r\nCleanliness Rating: 3/3\r\nThe bathrooms are located straight ahead as you exit the station at the Foley Street entrance. According to the Transit Ambassador, the \"men's\" room is unlocked, while the \"women's\" room is closed to the public. The implication seems to be that any member of the public can use the men's room, while the women's room is for employees only (and indeed, one of the male Transit Ambassadors did go in there to use it). Regardless, the \"men's\" room was surprisingly clean, and aside from a bit of graffiti on the wall and ceiling, was rather pleasant to use.\r\nSource: www.milesintransit.com/2019/09/01/the-unofficial-mbta-bathroom-map/",
+        "dist": 5260.590315820026
+    },
+    {
+        "name": "Davis Station (MBTA)",
+        "address": "17 College Ave, Somerville, MA",
+        "zip": "02144",
+        "latitude": 42.396933,
+        "longitude": -71.121902,
+        "hours": "24/7",
+        "remarks": "Fare Control (inside fare gates)\r\nLayout: multiple stalls, men/women\r\nCleanliness Rating: 1/3 for men, 2/3 for women\r\nBathrooms are located straight ahead after you enter the faregates. The men's room had an excruciating smell that was enough to call it a 1 on the spot, and the grim aesthetic and lack of soap didn't help. The women's room is also dour, looks-wise, and it didn't have soap either, but there was no smell and the room itself was relatively clean.\r\nSource: www.milesintransit.com/2019/09/01/the-unofficial-mbta-bathroom-map/",
+        "dist": 5262.668376828767
+    },
+    {
+        "name": "Alewife Station (MBTA)",
+        "address": "35 Cambridgepark Dr, Cambridge, MA",
+        "zip": "02140",
+        "latitude": 42.394727,
+        "longitude": -71.143116,
+        "hours": "24/7",
+        "remarks": "Outside fare gates\r\nLayout: multiple stalls, men/women\r\nCleanliness Rating: 1/3\r\nBathrooms are located in the hallway from the faregates to the busway; you'll see them on the right. The men's room is smelly and full of graffiti and trash. The women's room is the same, but also had an unflushed toilet with a lot of stuff in it.\r\nSource: www.milesintransit.com/2019/09/01/the-unofficial-mbta-bathroom-map/",
+        "dist": 5263.692854195214
+    },
+    {
+        "name": "Wellington Station (MBTA)",
+        "address": "97 Revere Beach Pkwy, Medford, MA",
+        "zip": "02155",
+        "latitude": 42.404436,
+        "longitude": -71.077315,
+        "hours": "24/7",
+        "remarks": "Fare Control (inside fare gates)\r\nLayout: Single stall, all genders\r\nCleanliness Rating: 1/3\r\nBathroom is located to the left as you approach the faregates to exit. There is just a single stall here, and there were three people waiting to use the bathroom. Once inside, it is absolutely disgusting, from the looks to the smell.\r\nSource: www.milesintransit.com/2019/09/01/the-unofficial-mbta-bathroom-map/",
+        "dist": 5260.5596706038505
+    },
+    {
+        "name": "Oak Grove Station (MBTA)",
+        "address": "264 Washington St, Malden, MA",
+        "zip": "02148",
+        "latitude": 42.436117,
+        "longitude": -71.071854,
+        "hours": "24/7",
+        "remarks": "Fare Control (inside fare gates)\r\nLayout: Single stall, all genders\r\nCleanliness Rating: 2/3\r\nBathroom is located to the left as you're heading toward the stairs down to the platform. It had a slightly weird (not necessarily bad) smell and no soap, but was perfectly serviceable otherwise.\r\nSource: www.milesintransit.com/2019/09/01/the-unofficial-mbta-bathroom-map/",
+        "dist": 5260.774409224832
+    },
+    {
+        "name": "Fall River Public Library",
+        "address": "104 N Main St, Fall River, MA",
+        "zip": "02720",
+        "latitude": 41.703398,
+        "longitude": -71.155233,
+        "hours": "Monday through Thursday: 8AM - 8PM\r\nFriday: 9AM - 3PM",
+        "remarks": "",
+        "dist": 5253.790061162228
+    },
+    {
+        "name": "Fall River City Hall",
+        "address": "1 Government Center, Fall River, MA",
+        "zip": "02722",
+        "latitude": 41.700948,
+        "longitude": -71.154502,
+        "hours": "Weekdays: 9AM - 5PM\r\n\r\nWill be extended on Wednesday to 7PM beginning 10/01/2022",
+        "remarks": "",
+        "dist": 5253.716175126372
+    },
+    {
+        "name": "Sawyer Free Library",
+        "address": "2 Dale Ave, Gloucester, MA",
+        "zip": "01930",
+        "latitude": 42.613711,
+        "longitude": -70.663226,
+        "hours": "Monday-Wednesday: 8AM - 6PM\r\nThursday: 10AM - 7PM\r\nFriday and Sunday: 10AM - 5PM",
+        "remarks": "",
+        "dist": 5243.216014017932
+    },
+    {
+        "name": "Crosby Park",
+        "address": "34 Winter St, Arlington, MA",
+        "zip": "02474",
+        "latitude": 42.407123,
+        "longitude": -71.141179,
+        "hours": "TBD",
+        "remarks": "The bathroom itself is closer to Oxford St. The port-a-potty is well maintained, and there is also a drinking fountain nearby (next to the playground and tennis courts).\r\n\r\nSeasonal porta-potty",
+        "dist": 5263.786013746544
+    },
+    {
+        "name": "Magnolia Playground",
+        "address": "74 Magnolia St, Arlington, MA",
+        "zip": "02474",
+        "latitude": 42.401683,
+        "longitude": -71.141218,
+        "hours": "7AM-9PM",
+        "remarks": "One bathroom is located right by Herbert Rd. But there are 3 more port-a-potties further into the park, by Thorndike Field, right on the bike path, by the soccer fields and dog park.\r\n\r\nSeasonal porta-potty",
+        "dist": 5263.704663425135
+    },
+    {
+        "name": "Hatch Memorial Shell Bathroom",
+        "address": "47 David G Mugar Way, Boston, MA",
+        "zip": "02108",
+        "latitude": 42.357299,
+        "longitude": -71.073701,
+        "hours": "General Hours:  8AM - 6PM",
+        "remarks": "Seasonal park restrooms (May-October)",
+        "dist": 5259.6553379713
+    },
+    {
+        "name": "Dartmouth Comfort Station",
+        "address": "232 Back St, Boston, MA",
+        "zip": "02116",
+        "latitude": 42.355708,
+        "longitude": -71.073657,
+        "hours": "General Hours: 8AM - 6PM",
+        "remarks": "Seasonal park restrooms (May-October)",
+        "dist": 5259.628712548418
+    },
+    {
+        "name": "Assembly Row",
+        "address": "355 Artisan Way, Somerville, MA",
+        "zip": "02145",
+        "latitude": 42.395132,
+        "longitude": -71.079374,
+        "hours": "TBD",
+        "remarks": "There is a fully public, year-round indoor restroom in Assembly Row, inside the AVA Parking garage off Artisan Way. It's shown in yellow in this map:\r\n\r\nhttps://assemblyrow.com/wp-content/uploads/2018/08/AssemblyRowDirectory_WebNov.pdf",
+        "dist": 5260.519422900505
+    },
+    {
+        "name": "Rowes Wharf",
+        "address": "60 Rowes Wharf, Boston, MA",
+        "zip": "02110",
+        "latitude": 42.355918,
+        "longitude": -71.050029,
+        "hours": "TBD",
+        "remarks": "There is a public restroom on Rowes Wharf harbor walk in between the boat/ ferry sales office and the entrance to the hotel.",
+        "dist": 5258.45269370463
+    },
+    {
+        "name": "Lowell Playground",
+        "address": "22 Bennett St, Waltham, MA",
+        "zip": "02453",
+        "latitude": 42.372412,
+        "longitude": -71.220675,
+        "hours": "24/7",
+        "remarks": "Seasonal",
+        "dist": 5267.222457335659
+    },
+    {
+        "name": "Prospect Hill",
+        "address": "314 Totten Pond Rd, Waltham, MA",
+        "zip": "02451",
+        "latitude": 42.397046,
+        "longitude": -71.250914,
+        "hours": "TBD",
+        "remarks": "one at the base and one at the top",
+        "dist": 5269.106755101821
+    },
+    {
+        "name": "Burlington Mall",
+        "address": "75 Middlesex Turnpike, Burlington, MA",
+        "zip": "01803",
+        "latitude": 42.47086,
+        "longitude": -71.210484,
+        "hours": "Weekdays: 10AM - 8PM\r\nSaturday: 10AM - 9PM\r\nSunday: 12PM - 6PM",
+        "remarks": "4 restrooms: all wheelchair accessible\r\nFamily restroom on upper level",
+        "dist": 5268.215916342416
+    },
+    {
+        "name": "Burlington Town Hall",
+        "address": "29 Center St, Burlington, MA",
+        "zip": "01803",
+        "latitude": 42.50619,
+        "longitude": -71.193859,
+        "hours": "Monday, Tuesday, Thursday: 8:30 AM - 4:30 PM\r\nWednesday: 8:30 AM - 7:00 PM\r\nFriday: 8:30 AM - 1:00 PM",
+        "remarks": "",
+        "dist": 5267.927699210798
+    },
+    {
+        "name": "Burlington Public Library",
+        "address": "22 Sears St, Burlington, MA",
+        "zip": "01803",
+        "latitude": 42.505977,
+        "longitude": -71.192287,
+        "hours": "Monday - Thursday: 10AM - 9PM\r\nFriday: 10AM - 6PM\r\nSaturday: 10AM - 2PM\r\nSunday: CLOSED",
+        "remarks": "",
+        "dist": 5267.846153495569
+    },
+    {
+        "name": "Woburn Public Library",
+        "address": "45 Pleasant St, Woburn, MA",
+        "zip": "01801",
+        "latitude": 42.479219,
+        "longitude": -71.154425,
+        "hours": "Monday - Thursday: 9AM - 9PM\r\nFriday - Saturday: 9AM - 5:30PM\r\nSunday: CLOSED",
+        "remarks": "",
+        "dist": 5265.550600824571
+    },
+    {
+        "name": "Woburn City Hall",
+        "address": "10 Common St, Woburn, MA",
+        "zip": "01801",
+        "latitude": 42.479121,
+        "longitude": -71.152551,
+        "hours": "Monday - Wednesday: 9AM - 4:30PM\r\nThursday: 9AM - 7PM\r\nFriday: 9AM - 1PM\r\nWeekends: CLOSED",
+        "remarks": "",
+        "dist": 5265.455739877807
+    },
+    {
+        "name": "Lexington Town Office Building",
+        "address": "1625 Massachusetts Ave, Lexington, MA",
+        "zip": "02420",
+        "latitude": 42.447007,
+        "longitude": -71.224537,
+        "hours": "Monday, Wednesday, Thursday: 8:30AM - 4:30PM\r\nTuesday: 8:30AM - 7PM\r\nFriday: 8:30AM - 1PM\r\nWeekends: CLOSED",
+        "remarks": "",
+        "dist": 5268.552308316385
+    },
+    {
+        "name": "Cary Memorial Library",
+        "address": "1874 Massachusetts Ave, Lexington, MA",
+        "zip": "02420",
+        "latitude": 42.448519,
+        "longitude": -71.229578,
+        "hours": "Monday - Thursday: 9AM - 9PM\r\nFriday - Saturday: 9AM - 5PM\r\nSunday: 1PM - 5PM",
+        "remarks": "Closed on Sundays in the summer (mid June - Labor day)",
+        "dist": 5268.826688200864
+    },
+    {
+        "name": "Lincoln Field",
+        "address": "100 Lincoln St, Lexington, MA",
+        "zip": "02421",
+        "latitude": 42.443674,
+        "longitude": -71.243002,
+        "hours": "24/7",
+        "remarks": "Seasonal portapotty",
+        "dist": 5269.422122476691
+    },
+    {
+        "name": "Center Recreation Complex",
+        "address": "90 Worthen Rd, Lexington, MA",
+        "zip": "02421",
+        "latitude": 42.450053,
+        "longitude": -71.237151,
+        "hours": "5AM - 10PM",
+        "remarks": "Seasonal portapotty",
+        "dist": 5269.227626060807
+    },
+    {
+        "name": "Natick Mall",
+        "address": "1245 Worcester St, Natick, MA",
+        "zip": "01760",
+        "latitude": 42.301833,
+        "longitude": -71.385758,
+        "hours": "Monday - Thursday: 11AM - 7PM\r\nFriday - Saturday: 10AM - 9PM\r\nSunday: 11AM - 6PM",
+        "remarks": "",
+        "dist": 5274.400009494388
+    },
+    {
+        "name": "Framingham Public Library",
+        "address": "49 Lexington St, Framingham, MA",
+        "zip": "01702",
+        "latitude": 42.281934,
+        "longitude": -71.416741,
+        "hours": "Monday - Thursday: 9AM - 9PM\r\nFriday - Saturday: 9AM - 5PM\r\nSunday: CLOSED",
+        "remarks": "",
+        "dist": 5275.649755851615
+    },
+    {
+        "name": "Marlborough City Hall",
+        "address": "140 Main St, Marlborough, MA",
+        "zip": "01752",
+        "latitude": 42.346653,
+        "longitude": -71.547786,
+        "hours": "Monday: 8:30AM - 7PM\r\nTuesday - Friday: 8:30AM - 5PM\r\nWeekends: CLOSED",
+        "remarks": "",
+        "dist": 5283.173148172655
+    },
+    {
+        "name": "Marlborough Public Library",
+        "address": "255 Main St, Marlborough, MA",
+        "zip": "01752",
+        "latitude": 42.347254,
+        "longitude": -71.552272,
+        "hours": "Tuesday-Thursday: 9AM - 7:45PM\r\nFriday - Saturday: 9AM - 5PM\r\nSunday - Monday: CLOSED",
+        "remarks": "",
+        "dist": 5283.4063655675
+    },
+    {
+        "name": "Wildwood Park",
+        "address": "114 Bedford St, Burlington, MA",
+        "zip": "01803",
+        "latitude": 42.505087,
+        "longitude": -71.22123,
+        "hours": "6AM-9PM",
+        "remarks": "Seasonal portapotty: April 1 - November 14\r\n\r\nHandicap Unit\r\nBy storage bin on left of park",
+        "dist": 5269.274014886177
+    },
+    {
+        "name": "Marvin Field",
+        "address": "115 S Bedford St, Burlington, MA",
+        "zip": "01803",
+        "latitude": 42.481703,
+        "longitude": -71.191336,
+        "hours": "6AM - 9PM",
+        "remarks": "Seasonal portapotty: April 1 - November 14\r\n\r\nHandicap Unit\r\nInside access gate under pine tree",
+        "dist": 5267.427523913103
+    },
+    {
+        "name": "Rotary Field",
+        "address": "135 South Bedford Street, Burlington, MA",
+        "zip": "01803",
+        "latitude": 42.480543,
+        "longitude": -71.189851,
+        "hours": "TBD",
+        "remarks": "Seasonal portapotty: April 1 - November 14\r\n\r\nHandicap Unit\r\nBy stone wall, across from 3rd base",
+        "dist": 5267.33579985304
+    },
+    {
+        "name": "Simonds Park \u2013 Lower Field",
+        "address": "10 Bedford St, Burlington, MA",
+        "zip": "01803",
+        "latitude": 42.506842,
+        "longitude": -71.197561,
+        "hours": "24/7",
+        "remarks": "Seasonal portapotty: April 1 - October 7\r\n\r\nHandicap Unit\r\nBehind stockade fence panel in parking lot",
+        "dist": 5268.122035476637
+    },
+    {
+        "name": "TRW Playground",
+        "address": "26 Burlington Mall Road, Burlington, MA",
+        "zip": "01803",
+        "latitude": 42.488956,
+        "longitude": -71.200985,
+        "hours": "6AM-9PM",
+        "remarks": "Seasonal portapotty: April 1 - October 7\r\n\r\nHandicap Unit\r\nLower parking lot by access gate",
+        "dist": 5268.01911530626
+    },
+    {
+        "name": "Veteran's Park",
+        "address": "110 Wilmington Rd, Burlington, MA",
+        "zip": "01803",
+        "latitude": 42.534088,
+        "longitude": -71.20282,
+        "hours": "24/7",
+        "remarks": "Seasonal portapotty: April 1 - October 7\r\n\r\nHandicap Unit",
+        "dist": 5268.8006090303015
+    },
+    {
+        "name": "Regan Park",
+        "address": "88 Sumpter Rd, Burlington, MA",
+        "zip": "01803",
+        "latitude": 42.517899,
+        "longitude": -71.216539,
+        "hours": "7AM - 8PM",
+        "remarks": "Seasonal portapotty: April 1 - October 7\r\n\r\nHandicap Unit",
+        "dist": 5269.236127326607
+    },
+    {
+        "name": "Mary Cummings Park",
+        "address": "25 Blanchard Rd, Burlington, MA",
+        "zip": "01803",
+        "latitude": 42.480063,
+        "longitude": -71.196028,
+        "hours": "5AM - 9PM",
+        "remarks": "Seasonal portapotty: April 1 - October 7\r\n\r\nHandicap Unit",
+        "dist": 5267.636216488104
+    },
+    {
+        "name": "Burlington Recreation Department",
+        "address": "61 Center Street, Burlington, MA",
+        "zip": "01803",
+        "latitude": 42.508232,
+        "longitude": -71.176793,
+        "hours": "Weekdays: 8:30AM - 4:30PM\r\nWeekends: CLOSED",
+        "remarks": "Seasonal portapotty: April 1 \u2013 October 28\r\n\r\nHandicap Unit",
+        "dist": 5267.109077216476
+    },
+    {
+        "name": "Bedford Town Clerk",
+        "address": "10 Mudge Way, Bedford, MA",
+        "zip": "01730",
+        "latitude": 42.491684,
+        "longitude": -71.281744,
+        "hours": "Monday: 8AM \u2013 7PM\r\nTuesday - Thursday: 8AM \u2013 4PM\r\nFriday: 8AM \u2013 1PM\r\nWeekends: CLOSED",
+        "remarks": "",
+        "dist": 5272.08423730004
+    },
+    {
+        "name": "Bedford Free Public Library",
+        "address": "7 Mudge Way, Bedford, MA",
+        "zip": "01730",
+        "latitude": 42.492314,
+        "longitude": -71.284188,
+        "hours": "Monday - Thursday: 9AM \u2013 9PM\r\nFriday: 9AM \u2013 6PM\r\nSaturday: 9AM \u2013 5PM",
+        "remarks": "",
+        "dist": 5272.215598268252
+    },
+    {
+        "name": "Depot Park",
+        "address": "110 South Rd, Bedford, MA",
+        "zip": "01730",
+        "latitude": 42.485956,
+        "longitude": -71.277122,
+        "hours": "TBD",
+        "remarks": "Public restrooms available behind freight house.\r\n\r\nAt the Bedford end of the Minuteman Commuter Bikeway\r\n\r\nPublic parking available for day use available adjacent and behind The Bikeway Source",
+        "dist": 5271.766755824538
+    },
+    {
+        "name": "New Bedford City Hall",
+        "address": "133 William St, New Bedford, MA",
+        "zip": "02740",
+        "latitude": 41.635452,
+        "longitude": -70.927508,
+        "hours": "Weekdays: 8AM - 4PM\r\nWeekends: CLOSED",
+        "remarks": "",
+        "dist": 5241.26309716972
+    },
+    {
+        "name": "New Bedford Free Public Library",
+        "address": "613 Pleasant St, New Bedford, MA",
+        "zip": "02740",
+        "latitude": 41.635013,
+        "longitude": -70.927474,
+        "hours": "Monday - Thursday: 9AM - 9PM\r\nFriday, Saturday: 9AM - 5PM\r\nSunday: CLOSED",
+        "remarks": "",
+        "dist": 5241.254677364002
+    },
+    {
+        "name": "New Bedford Free Public Library Francis J. Lawler Branch",
+        "address": "745 Rockdale Ave, New Bedford, MA",
+        "zip": "02740",
+        "latitude": 41.633359,
+        "longitude": -70.949108,
+        "hours": "Monday, Wednesday, Friday, Saturday: 9AM - 5PM\r\nTuesday, Thursday: 12PM - 8PM\r\nSunday: CLOSED",
+        "remarks": "",
+        "dist": 5242.321810717556
+    },
+    {
+        "name": "Memorial Hall Library",
+        "address": "2 North Main St, Andover, MA",
+        "zip": "01810",
+        "latitude": 42.65693,
+        "longitude": -71.141005,
+        "hours": "Monday - Thursday: 9AM - 9PM\r\nFriday, Saturday: 9AM - 5PM\r\nSunday: 1PM - 5PM",
+        "remarks": "",
+        "dist": 5267.6113820402015
+    },
+    {
+        "name": "Stevens Memorial Library",
+        "address": "345 Main St, North Andover, MA",
+        "zip": "01845",
+        "latitude": 42.696183,
+        "longitude": -71.126252,
+        "hours": "Monday - Thursday: 10AM - 9PM\r\nFriday: 10AM - 6PM\r\nSaturday: 10AM - 5PM\r\nSunday: 1PM - 5PM",
+        "remarks": "",
+        "dist": 5267.483213542747
+    },
+    {
+        "name": "North Andover Town Hall",
+        "address": "120 Main St, North Andover, MA",
+        "zip": "01845",
+        "latitude": 42.703105,
+        "longitude": -71.130872,
+        "hours": "Monday, Wednesday, Thursday: 8AM - 4:30PM\r\nTuesday: 8AM - 6PM\r\nFriday: 8AM - 12PM\r\nWeekends: CLOSED",
+        "remarks": "",
+        "dist": 5267.819139614826
+    },
+    {
+        "name": "Andover Town Offices",
+        "address": "36 Bartlet St, Andover, MA",
+        "zip": "01810",
+        "latitude": 42.65622,
+        "longitude": -71.139836,
+        "hours": "Weekdays: 8:30 AM - 4:30 PM\r\nWeekends: CLOSED",
+        "remarks": "",
+        "dist": 5267.542398805902
+    },
+    {
+        "name": "Edith M Fox Library",
+        "address": "175 Massachusetts Ave, Arlington, MA",
+        "zip": "02474",
+        "latitude": 42.405449,
+        "longitude": -71.141703,
+        "hours": "Sunday, Monday, Saturday: CLOSED\r\nTuesday, Thursday, Friday: 9AM \u2013 5PM\r\nWednesday: 12PM \u2013 8PM",
+        "remarks": "",
+        "dist": 5263.786517351129
+    },
+    {
+        "name": "Adams Field Playground",
+        "address": "739 Massachusetts Ave, Lexington, MA",
+        "zip": "02420",
+        "latitude": 42.429826,
+        "longitude": -71.206099,
+        "hours": "TBD",
+        "remarks": "Seasonal: Fall and Spring\r\n\r\nbehind the Waldorf School",
+        "dist": 5267.370801161254
+    },
+    {
+        "name": "Bridge Elementary Field",
+        "address": "55 Middleby Rd, Lexington, MA",
+        "zip": "02421",
+        "latitude": 42.438101,
+        "longitude": -71.245554,
+        "hours": "Monday - Wednesday, Thursday: 8:45AM \u2013 3:15PM\r\nThursday: 8:45AM \u2013 12:15PM",
+        "remarks": "Seasonal: Fall and Spring",
+        "dist": 5269.46446608495
+    },
+    {
+        "name": "Public Safety Center",
+        "address": "32 N Main Street, Andover, MA",
+        "zip": "01810",
+        "latitude": 42.658135,
+        "longitude": -71.142521,
+        "hours": "TBD",
+        "remarks": "",
+        "dist": 5267.705212732258
+    },
+    {
+        "name": "Andover Old Town Hall",
+        "address": "20 Main Street, Andover, MA",
+        "zip": "01810",
+        "latitude": 42.656156,
+        "longitude": -71.139991,
+        "hours": "TBD",
+        "remarks": "",
+        "dist": 5267.549112650892
+    },
+    {
+        "name": "Ballardvale Fire Station",
+        "address": "161 Andover St, Andover, MA",
+        "zip": "01810",
+        "latitude": 42.629153,
+        "longitude": -71.161497,
+        "hours": "24/7",
+        "remarks": "",
+        "dist": 5268.202468359024
+    },
+    {
+        "name": "Andover Recreation Park / Pomps Pond",
+        "address": "147 Abbot St, Andover, MA",
+        "zip": "01810",
+        "latitude": 42.639668,
+        "longitude": -71.146787,
+        "hours": "10AM - 10PM",
+        "remarks": "1 Seasonal restroom\r\n1 Fare controlled seasonal restroom (residents only with pass)",
+        "dist": 5267.633136006956
+    },
+    {
+        "name": "Needham Free Public Library",
+        "address": "1139 Highland Avenue Needham, MA",
+        "zip": "02494",
+        "latitude": 42.287921,
+        "longitude": -71.235577,
+        "hours": "Monday-Thursday: 9 AM-9 PM\r\nFriday: 9 AM- 5:30 PM\r\nSaturday: 9 AM- 5 PM\r\nSunday: 1-5 PM (in July \u0026 August)",
+        "remarks": "",
+        "dist": 5266.681108523104
+    },
+    {
+        "name": "Needham Town Hall",
+        "address": "1471 Highland Ave, Needham, MA",
+        "zip": "02492",
+        "latitude": 42.28109,
+        "longitude": -71.236461,
+        "hours": "Monday, Wednesday, Thursday: 8AM\u20135PM\r\nTuesday: 8AM\u20136:30PM\r\nFriday: 8AM\u201312PM\r\nWeekends: CLOSED",
+        "remarks": "",
+        "dist": 5266.621483732091
+    },
+    {
+        "name": "Watertown Free Public Library",
+        "address": "123 Main St, Watertown, MA",
+        "zip": "02472",
+        "latitude": 42.366968,
+        "longitude": -71.186665,
+        "hours": "Monday - Thursday: 9AM - 9PM\r\nFriday: 9AM - 7PM\r\nSaturday: 9AM - 5PM\r\nSunday: 1PM - 5PM",
+        "remarks": "",
+        "dist": 5265.441754215306
+    },
+    {
+        "name": "Watertown Town Hall",
+        "address": "149 Main St, Watertown, MA",
+        "zip": "02472",
+        "latitude": 42.367861,
+        "longitude": -71.18744,
+        "hours": "Monday, Wednesday - Friday: 8:30AM - 5PM\r\nTuesday: 8:30AM - 7PM\r\nWeekends: CLOSED",
+        "remarks": "",
+        "dist": 5265.494069346255
+    },
+    {
+        "name": "Portland Loo",
+        "address": "222 Jacobs Street, Cambridge, MA",
+        "zip": "02141",
+        "latitude": 42.372651,
+        "longitude": -71.074724,
+        "hours": "24/7",
+        "remarks": "",
+        "dist": 5259.942144739897
+    },
+    {
+        "name": "Mount Auburn Hospital",
+        "address": "330 Mt Auburn St, Cambridge, MA",
+        "zip": "02138",
+        "latitude": 42.374103,
+        "longitude": -71.134176,
+        "hours": "24/7",
+        "remarks": "",
+        "dist": 5262.931071149019
+    },
+    {
+        "name": "Bemis Playground",
+        "address": "76 Bridge Street, Watertown, MA",
+        "zip": "02472",
+        "latitude": 42.365917,
+        "longitude": -71.204532,
+        "hours": "TBD",
+        "remarks": "",
+        "dist": 5266.317620567123
+    },
+    {
+        "name": "Logan Airport",
+        "address": "1 Harborside Drive, Boston, MA",
+        "zip": "02128",
+        "latitude": 42.363177,
+        "longitude": -71.01364,
+        "hours": "24/7",
+        "remarks": "Wheelchair accessible and family bathrooms available in all terminals",
+        "dist": 5256.748552602645
+    },
+    {
+        "name": "Cambridge Visitor Information Booth",
+        "address": "0 Harvard Square, Cambridge, MA",
+        "zip": "02138",
+        "latitude": 42.373573,
+        "longitude": -71.118968,
+        "hours": "TBD",
+        "remarks": "There are 3 seasonal porta-potties opposite",
+        "dist": 5262.164031240782
+    },
+    {
+        "name": "Cambridgeside Mall",
+        "address": "100 Cambridgeside Place, Cambridge, MA",
+        "zip": "02141",
+        "latitude": 42.368783,
+        "longitude": -71.075986,
+        "hours": "Monday \u2014 Thursday: 11 AM - 7 PM\r\nFriday: 11 AM - 8 PM\r\nSaturday: 11 AM - 6 PM\r\nSunday: 12 PM - 6 PM",
+        "remarks": "Bathroom near the food court",
+        "dist": 5259.945713944476
+    },
+    {
+        "name": "Sullivan Playground",
+        "address": "286 Arlington Street, Watertown, MA",
+        "zip": "02472",
+        "latitude": 42.372495,
+        "longitude": -71.157297,
+        "hours": "TBD",
+        "remarks": "Seasonal porta-potties available",
+        "dist": 5264.0603476262295
+    },
+    {
+        "name": "Saltonstall Park",
+        "address": "16 Whites Ave, Watertown, MA",
+        "zip": "02472",
+        "latitude": 42.368947,
+        "longitude": -71.18865,
+        "hours": "TBD",
+        "remarks": "Seasonal porta-potty available",
+        "dist": 5265.5710425571015
+    },
+    {
+        "name": "Casey Park",
+        "address": "124 Watertown St, Watertown, MA",
+        "zip": "02472",
+        "latitude": 42.362708,
+        "longitude": -71.191004,
+        "hours": "6AM - 9PM",
+        "remarks": "Seasonal portapotty available",
+        "dist": 5265.593343997945
+    },
+    {
+        "name": "Concord Free Public Library",
+        "address": "129 Main St, Concord, MA",
+        "zip": "01742",
+        "latitude": 42.458819,
+        "longitude": -71.353442,
+        "hours": "Monday: 10 AM - 8PM\r\nTuesday - Thursday: 9 AM - 8 PM\r\nFriday, Saturday: 9 AM - 5 PM\r\nSunday: 1 PM - 5 PM (but closed June-August)",
+        "remarks": "New Year's Day, Martin Luther King Day, President's Day, Patriot's Day, Easter, Memorial Day, Juneteenth, July 4th, Labor Day, Columbus Day, Veterans Day, Thanksgiving Day and the day after, and Christmas Day.",
+        "dist": 5275.158989647643
+    },
+    {
+        "name": "Concord Library Fowler Branch",
+        "address": "1322 Main St, Concord, MA",
+        "zip": "01742",
+        "latitude": 42.455019,
+        "longitude": -71.395504,
+        "hours": "Monday - Thursday: 10 AM - 6 PM\r\nFriday, Saturday: 10 AM - 5 PM\r\nSaturday: 10 AM - 5 PM (but closed July and August)\r\nSunday: Closed",
+        "remarks": "Closed on New Year's Day, Martin Luther King Day, President's Day, Patriot's Day, Easter, Memorial Day, Juneteenth, July 4th, Labor Day, Columbus Day, Veterans Day, Thanksgiving Day and the day after, and Christmas Day.",
+        "dist": 5277.1990407062485
+    },
+    {
+        "name": "Concord Town Hall",
+        "address": "22 Monument Square, Concord, MA",
+        "zip": "01742",
+        "latitude": 42.461146,
+        "longitude": -71.348623,
+        "hours": "Monday - Thursday: 8:30 AM - 4:30 PM\r\nFriday: 8:30 AM - 12:30 PM\r\nWeekends: Closed",
+        "remarks": "",
+        "dist": 5274.953960807418
+    },
+    {
+        "name": "DeFazio Complex",
+        "address": "380 Dedham Avenue, Needham, MA",
+        "zip": "02492",
+        "latitude": 42.27317,
+        "longitude": -71.223103,
+        "hours": "24/7",
+        "remarks": "Seasonal",
+        "dist": 5265.833209376875
+    },
+    {
+        "name": "Mill\u2019s Complex",
+        "address": "96 Gould Street, Needham, MA",
+        "zip": "02492",
+        "latitude": 42.308366,
+        "longitude": -71.231974,
+        "hours": "24/7",
+        "remarks": "Seasonal",
+        "dist": 5266.811869534404
+    },
+    {
+        "name": "Claxton Complex",
+        "address": "1380 Central Avenue, Needham, MA",
+        "zip": "02492",
+        "latitude": 42.27641,
+        "longitude": -71.255235,
+        "hours": "24/7",
+        "remarks": "Seasonal",
+        "dist": 5267.489091056987
+    },
+    {
+        "name": "Memorial Park",
+        "address": "92 Rosemary Street, Needham, MA",
+        "zip": "02492",
+        "latitude": 42.287234,
+        "longitude": -71.235016,
+        "hours": "limited hours depending on field usage",
+        "remarks": "outdoor bathroom",
+        "dist": 5266.642621676768
+    },
+    {
+        "name": "Newman Fields",
+        "address": "1155 Central Avenue, Needham, MA",
+        "zip": "02492",
+        "latitude": 42.281024,
+        "longitude": -71.253626,
+        "hours": "TBD",
+        "remarks": "Seasonal porta-potty",
+        "dist": 5267.47868574378
+    },
+    {
+        "name": "Greene\u2019s Playground",
+        "address": "20 Pickering Street, Needham, MA",
+        "zip": "02492",
+        "latitude": 42.280741,
+        "longitude": -71.234768,
+        "hours": "TBD",
+        "remarks": "Seasonal porta-potty",
+        "dist": 5266.5315363280315
+    },
+    {
+        "name": "Thomas Crane Public Library (Main)",
+        "address": "40 Washington Street, Quincy, MA",
+        "zip": "02169",
+        "latitude": 42.251511,
+        "longitude": -71.000825,
+        "hours": "Monday - Thursday: 9 AM \u2013 9 PM\r\nFriday - Saturday: 9 AM - 5 PM \r\nSunday: 1 PM - 5 PM",
+        "remarks": "Wheelchair accessible\r\nFree Parking",
+        "dist": 5254.389292312325
+    },
+    {
+        "name": "Thomas Crane Public Library (Adams Shore)",
+        "address": "519 Sea Street, Quincy, MA",
+        "zip": "02169",
+        "latitude": 42.260634,
+        "longitude": -70.979058,
+        "hours": "Monday: 1 PM - 9 PM\r\nTuesday: 9 AM - 5 PM\r\nWednesday, Thursday: 1 PM - 5 PM\r\nFriday, Saturday, Sunday: Closed",
+        "remarks": "Wheelchair accessible\r\nFree Parking",
+        "dist": 5253.441789308242
+    },
+    {
+        "name": "Wonderland Station (MBTA)",
+        "address": "1300 North Shore Rd, Revere, MA",
+        "zip": "02151",
+        "latitude": 42.41437,
+        "longitude": -70.992104,
+        "hours": "24/7",
+        "remarks": "Fare Control (inside fare gates)\r\nLayout: single stall, men/women\r\nCleanliness Rating: 2/3\r\nBathrooms are located on the platform, to the left after you enter the faregates. Both the men's and women's rooms were a little smelly, but aside from a little bit of liquid residue in the men's toilet, the bathrooms were otherwise clean.\r\nSource: www.milesintransit.com/2019/09/01/the-unofficial-mbta-bathroom-map/",
+        "dist": 5256.464062615242
+    },
+    {
+        "name": "Revere City Hall",
+        "address": "281 Broadway, Revere, MA",
+        "zip": "02151",
+        "latitude": 42.407884,
+        "longitude": -71.013208,
+        "hours": "Monday - Thursday: 8:15 AM - 5 PM\r\nFriday: 8:15 AM - 12:15 PM\r\nWeekends: Closed",
+        "remarks": "",
+        "dist": 5257.416101469417
+    },
+    {
+        "name": "Revere Public Library",
+        "address": "179 Beach St, Revere, MA",
+        "zip": "02151",
+        "latitude": 42.408026,
+        "longitude": -71.009169,
+        "hours": "Monday - Thursday: 8 AM - 8 PM\r\nFriday - Saturday: 9 AM - 5 PM\r\nSunday: Closed",
+        "remarks": "",
+        "dist": 5257.2169156306845
+    },
+    {
+        "name": "Thomas Crane Public Library (North Quincy)",
+        "address": "381 Hancock Street, Quincy, MA",
+        "zip": "02171",
+        "latitude": 42.273986,
+        "longitude": -71.026386,
+        "hours": "Monday, Wednesday, Saturday: 9 AM - 5 PM\r\nTuesday: 1 PM - 9 PM\r\nThursday: 1 PM - 5 PM\r\nSunday: Closed",
+        "remarks": "Wheelchair accessible\r\nFree Parking",
+        "dist": 5256.012458588272
+    },
+    {
+        "name": "Thomas Crane Public Library (Wollaston)",
+        "address": "41 Beale Street, Quincy, MA",
+        "zip": "02171",
+        "latitude": 42.266747,
+        "longitude": -71.017811,
+        "hours": "Monday, Tuesday: 1 PM - 5 PM\r\nWednesday: 1 PM - 9 PM\r\nThursday: 9 AM - 5 PM",
+        "remarks": "Free parking",
+        "dist": 5255.472636620435
+    },
+    {
+        "name": "Milton Town Hall",
+        "address": "525 Canton Ave, Milton, MA",
+        "zip": "02186",
+        "latitude": 42.25411,
+        "longitude": -71.079731,
+        "hours": "Monday - Thursday: 8 AM - 5 PM\r\nFriday: 8 AM - 1:30 PM\r\nWeekends: Closed",
+        "remarks": "",
+        "dist": 5258.373872163528
+    },
+    {
+        "name": "Milton Public Library",
+        "address": "476 Canton Ave, Milton, MA",
+        "zip": "02186",
+        "latitude": 42.254218,
+        "longitude": -71.077718,
+        "hours": "Monday - Wednesday: 9 AM - 9 PM\r\nThursday: 1 PM - 9 PM\r\nFriday, Saturday: 9 AM - 5 PM\r\nSunday: 1 PM - 5PM",
+        "remarks": "",
+        "dist": 5258.274884057775
+    },
+    {
+        "name": "Blue Hills Trailside Museum",
+        "address": "1904 Canton Ave, Milton, MA",
+        "zip": "02186",
+        "latitude": 42.218453,
+        "longitude": -71.118727,
+        "hours": "Wednesday - Sunday: 9 AM - 4 PM\r\nMonday, Tuesday: Closed",
+        "remarks": "",
+        "dist": 5259.778712292681
+    },
+    {
+        "name": "Belmont Public Library",
+        "address": "336 Concord Avenue, Belmont, MA",
+        "zip": "02478",
+        "latitude": 42.394576,
+        "longitude": -71.17238,
+        "hours": "Monday - Wednesday: 9 AM - 9 PM\r\nThursday: 11 AM - 9 PM\r\nFriday, Saturday: 9 AM - 5 PM\r\nSunday: Closed",
+        "remarks": "",
+        "dist": 5265.150520042755
+    },
+    {
+        "name": "Belmont Town Hall",
+        "address": "455 Concord Ave, Belmont, MA",
+        "zip": "02478",
+        "latitude": 42.396636,
+        "longitude": -71.177268,
+        "hours": "Monday: 8 AM - 7 PM\r\nTuesday - Thursday: 8 AM - 4 PM\r\nFriday: 8 AM - 12 PM\r\nWeekends: Closed",
+        "remarks": "",
+        "dist": 5265.425868114469
+    },
+    {
+        "name": "Central Station (MBTA)",
+        "address": "624 Massachusetts Ave, Cambridge, MA",
+        "zip": "02139",
+        "latitude": 42.365094,
+        "longitude": -71.103616,
+        "hours": "24/7",
+        "remarks": "Fare control (inside fare gates)\r\nSource: https://www.bostonmagazine.com/news/2021/07/23/mbta-restroom-guide/",
+        "dist": 5261.267941438152
+    },
+    {
+        "name": "Kendall/MIT Station (MBTA)",
+        "address": "300 Main St, Cambridge, MA",
+        "zip": "02142",
+        "latitude": 42.362403,
+        "longitude": -71.08572,
+        "hours": "24/7",
+        "remarks": "Fare control (inside fare gates)\r\nSource: https://www.bostonmagazine.com/news/2021/07/23/mbta-restroom-guide/",
+        "dist": 5260.333531364252
+    },
+    {
+        "name": "Quincy Center Station (MBTA)",
+        "address": "1295 Hancock Street, Quincy, MA",
+        "zip": "02169",
+        "latitude": 42.25095,
+        "longitude": -71.003242,
+        "hours": "24/7",
+        "remarks": "Fare control (inside fare gates)\r\nSource: https://www.bostonmagazine.com/news/2021/07/23/mbta-restroom-guide/",
+        "dist": 5254.501482467913
+    },
+    {
+        "name": "Malden Station (MBTA)",
+        "address": "260 Pleasant St, Malden, MA",
+        "zip": "02148",
+        "latitude": 42.427004,
+        "longitude": -71.076998,
+        "hours": "24/7",
+        "remarks": "Fare control (inside fare gates)\r\nSource: https://www.bostonmagazine.com/news/2021/07/23/mbta-restroom-guide/",
+        "dist": 5260.890705333944
+    },
+    {
+        "name": "Winchester Public Library",
+        "address": "80 Washington St, Winchester, MA",
+        "zip": "01890",
+        "latitude": 42.452275,
+        "longitude": -71.134132,
+        "hours": "Monday - Thursday: 9:30 AM - 9 PM\r\nFriday, Saturday: 9:30 AM - 5 PM\r\nSunday: 1 PM - 5 PM",
+        "remarks": "",
+        "dist": 5264.126479826257
+    },
+    {
+        "name": "Winchester Town Hall",
+        "address": "71 Mt Vernon St, Winchester, MA",
+        "zip": "01890",
+        "latitude": 42.452781,
+        "longitude": -71.134626,
+        "hours": "Monday: 8 AM - 7 PM\r\nTuesday - Thursday: 8 AM - 4 PM\r\nFriday: 8 AM - 12 PM\r\nWeekends: Closed",
+        "remarks": "",
+        "dist": 5264.158857274178
+    },
+    {
+        "name": "Framingham City Hall",
+        "address": "150 Concord St, Framingham, MA",
+        "zip": "01702",
+        "latitude": 42.279766,
+        "longitude": -71.416998,
+        "hours": "Monday, Wednesday, Thursday: 8:30 AM - 5 PM\r\nTuesday: 8:30 AM - 7 PM\r\nFriday: 8:30 AM - 2 PM",
+        "remarks": "",
+        "dist": 5275.629992268119
+    },
+    {
+        "name": "Morse Institute Library",
+        "address": "14 E Central St, Natick, MA",
+        "zip": "01760",
+        "latitude": 42.284611,
+        "longitude": -71.345821,
+        "hours": "Monday - Thursday: 9 AM - 9 PM\r\nFriday: 9 AM - 6 PM\r\nSaturday: 9 AM - 5 PM\r\nSunday: 1 PM - 5 PM",
+        "remarks": "",
+        "dist": 5272.143084285311
+    },
+    {
+        "name": "Bacon Free Library",
+        "address": "58 Eliot St, Natick, MA",
+        "zip": "01760",
+        "latitude": 42.261832,
+        "longitude": -71.329091,
+        "hours": "Monday, Wednesday - Friday: 9:30 AM - 5:30 PM\r\nTuesday: 9:30 AM - 7:00 PM\r\nSaturday: 9:30 AM \u2013 1:30 PM\r\nSunday: Closed",
+        "remarks": "",
+        "dist": 5270.962110734471
+    },
+    {
+        "name": "Natick Town Hall",
+        "address": "13 E Central St, Natick, MA",
+        "zip": "01760",
+        "latitude": 42.283717,
+        "longitude": -71.345872,
+        "hours": "Monday - Wednesday: 8 AM - 5 PM\r\nThursday: 8 AM - 7 PM\r\nFriday: 8 AM - 12:30 PM",
+        "remarks": "",
+        "dist": 5272.132129876793
+    },
+    {
+        "name": "Malden Public Library",
+        "address": "36 Salem Street, Malden, MA",
+        "zip": "02148",
+        "latitude": 42.427886,
+        "longitude": -71.066087,
+        "hours": "Monday - Thursday: 9 AM - 9 PM\r\nFriday, Saturday: 9 AM - 6 PM\r\nSunday: Closed",
+        "remarks": "The library shall be closed on the following dates:\r\n\r\nJanuary 2nd (New Years Day observed)\r\nJanuary 16th (Martin Luther King, Jr. Day)\r\nFebruary 20th (Presidents\u2019 Day)\r\nApril 17th (Patriots\u2019 Day)\r\nMay 29th (Memorial Day)\r\nJune 19th (Juneteenth)\r\nJuly 4th (Independence Day)\r\nSeptember 4th (Labor Day)\r\nOctober 9th (Columbus Day)\r\nNovember 11th (Veterans\u2019 Day)\r\nNovember 23rd (Thanksgiving)\r\nDecember 22nd (Christmas Eve observed)\r\nDecember 25th (Christmas Day observed)",
+        "dist": 5260.360353742465
+    },
+    {
+        "name": "Malden City Hall",
+        "address": "215 Pleasant Street, Malden, MA",
+        "zip": "02148",
+        "latitude": 42.427348,
+        "longitude": -71.072732,
+        "hours": "Monday, Wednesday, Thursday: 8 AM - 5 PM\r\nTuesday: 8 AM - 7 PM\r\nFriday - Sunday: Closed",
+        "remarks": "",
+        "dist": 5260.683330660489
+    },
+    {
+        "name": "Medford City Hall",
+        "address": "85 George P Hassett Drive, Medford, MA",
+        "zip": "02155",
+        "latitude": 42.418077,
+        "longitude": -71.105786,
+        "hours": "Monday, Tuesday, Thursday: 8:30 AM - 4:30 PM\r\nWednesday: 8:30 AM - 7:30 PM\r\nFriday: 8:30 AM - 12:30 PM\r\nWeekends: Closed",
+        "remarks": "",
+        "dist": 5262.188881455357
+    },
+    {
+        "name": "Charlotte and William Bloomberg Medford Public Library",
+        "address": "111 High St, Medford, MA",
+        "zip": "02155",
+        "latitude": 42.419728,
+        "longitude": -71.113547,
+        "hours": "Monday - Thursday: 9 AM - 5 PM\r\nFriday: 9 AM - 6 PM\r\nSaturday: 9 AM - 5 PM\r\nSunday: Closed",
+        "remarks": "",
+        "dist": 5262.60119551924
+    },
+    {
+        "name": "Winthrop City Hall",
+        "address": "31 Hermon St, Winthrop, MA",
+        "zip": "02152",
+        "latitude": 42.377819,
+        "longitude": -70.984924,
+        "hours": "Monday, Wednesday: 8 AM - 4:30 PM\r\nTuesday, Thursday: 8 AM - 7 PM\r\nFriday - Saturday: Closed",
+        "remarks": "",
+        "dist": 5255.541777772697
+    },
+    {
+        "name": "Winthrop Public Library and Museum",
+        "address": "257 Winthrop St, Winthrop, MA",
+        "zip": "02152",
+        "latitude": 42.377622,
+        "longitude": -70.983495,
+        "hours": "Monday: 10 AM - 6 PM\r\nTuesday - Thursday: 10 AM - 8 PM\r\nFriday, Saturday: 10 AM - 5 PM\r\nSunday: Closed",
+        "remarks": "",
+        "dist": 5255.467459293119
+    },
+    {
+        "name": "Chelsea Public Library",
+        "address": "569 Broadway, Chelsea, MA",
+        "zip": "02150",
+        "latitude": 42.393559,
+        "longitude": -71.03206,
+        "hours": "Monday - Thursday: 9 AM - 8 PM\r\nFriday, Saturday: 9 AM - 5 PM\r\nSunday: Closed",
+        "remarks": "",
+        "dist": 5258.135415275241
+    },
+    {
+        "name": "Chelsea City Hall",
+        "address": "500 Broadway, Chelsea, MA",
+        "zip": "02150",
+        "latitude": 42.393523,
+        "longitude": -71.033512,
+        "hours": "Monday, Wednesday, Thursday: 8 AM - 4 PM\r\nTuesday: 8 AM - 7 PM\r\nFriday: 8 AM - 12 PM\r\nWeekends: Closed",
+        "remarks": "",
+        "dist": 5258.207276495515
+    },
+    {
+        "name": "Parlin Memorial Library",
+        "address": "410 Broadway, Everett, MA",
+        "zip": "02149",
+        "latitude": 42.40563,
+        "longitude": -71.05693,
+        "hours": "Monday - Thursday: 9 AM - 9 PM\r\nFriday: 9 AM - 5 PM\r\nSaturday: 10 AM - 2 PM\r\nSunday: Closed",
+        "remarks": "",
+        "dist": 5259.561463089042
+    },
+    {
+        "name": "Everett City Hall",
+        "address": "484 Broadway, Everett, MA",
+        "zip": "02149",
+        "latitude": 42.408364,
+        "longitude": -71.054694,
+        "hours": "Monday, Thursday: 8 AM - 7:30 PM\r\nTuesday, Wednesday: 8 AM - 5 PM\r\nFriday - Sunday: Closed",
+        "remarks": "",
+        "dist": 5259.49202519228
+    },
+    {
+        "name": "Lynn City Hall",
+        "address": "3 City Hall Square, Lynn, MA",
+        "zip": "01901",
+        "latitude": 42.464811,
+        "longitude": -70.951246,
+        "hours": "Monday, Wednesday, Thursday: 8:30 AM - 4 PM\r\nTuesday: 8:30 AM - 8 PM\r\nFriday: 8:30 AM - 12:30 PM\r\nWeekends: Closed",
+        "remarks": "",
+        "dist": 5255.208314750304
+    },
+    {
+        "name": "Lynn Public Library",
+        "address": "5 N Common St, Lynn, MA",
+        "zip": "01902",
+        "latitude": 42.464369,
+        "longitude": -70.9524,
+        "hours": "Monday - Thursday: 9 AM - 9 PM\r\nFriday, Saturday: 9 AM - 5 PM\r\nSunday: Closed",
+        "remarks": "",
+        "dist": 5255.258940267343
+    },
+    {
+        "name": "Nahant Public Library",
+        "address": "15 Pleasant St, Nahant, MA",
+        "zip": "01908",
+        "latitude": 42.424177,
+        "longitude": -70.912918,
+        "hours": "Tuesday: 10 AM - 7 PM\r\nWednesday, Friday: 10 AM - 5 PM\r\nThursday: 10 AM - 8 PM\r\nSaturday: 12 PM - 4 PM\r\nSunday, Monday: Closed",
+        "remarks": "",
+        "dist": 5252.669196121783
+    },
+    {
+        "name": "Nahant Town Hall",
+        "address": "334 Nahant Rd, Nahant, MA",
+        "zip": "01908",
+        "latitude": 42.42433,
+        "longitude": -70.91357,
+        "hours": "Monday - Thursday: 7:30 AM - 4 PM\r\nFriday: 7:30 AM - 12:30 PM\r\nWeekends: Closed",
+        "remarks": "",
+        "dist": 5252.704058206039
+    },
+    {
+        "name": "Swampscott Public Library",
+        "address": "61 Burrill St, Swampscott, MA",
+        "zip": "01907",
+        "latitude": 42.469516,
+        "longitude": -70.91913,
+        "hours": "Monday - Wednesday: 9 AM - 8:30 PM\r\nThursday: 1:30 PM - 8:30 PM\r\nFriday, Saturday: 9 AM - 1:30 PM\r\nSunday: Closed",
+        "remarks": "",
+        "dist": 5253.681968625089
+    },
+    {
+        "name": "Swampscott Town Hall",
+        "address": "22 Monument Ave, Swampscott, MA",
+        "zip": "01907",
+        "latitude": 42.469613,
+        "longitude": -70.91831,
+        "hours": "Monday, Wednesday, Thursday: 8 AM - 5 PM\r\nWednesday: 8 AM - 7 PM\r\nFriday - Sunday: Closed",
+        "remarks": "",
+        "dist": 5253.642643701681
+    },
+    {
+        "name": "Marblehead Town Hall",
+        "address": "188 Washington St, Marblehead, MA",
+        "zip": "01945",
+        "latitude": 42.502569,
+        "longitude": -70.852416,
+        "hours": "Monday, Tuesday, Thursday: 8 AM to 5 PM\r\nWednesday: 8 AM to 6 PM\r\nFriday: 8 AM to 12:30 PM",
+        "remarks": "",
+        "dist": 5250.875296551331
+    },
+    {
+        "name": "Abbot Public Library",
+        "address": "3 Brook Rd, Marblehead, MA",
+        "zip": "01945",
+        "latitude": 42.484539,
+        "longitude": -70.879285,
+        "hours": "Monday, Wednesday: 9:30 AM - 8 PM\r\nTuesday: 9:30 AM - 6 PM\r\nThursday: 12 PM - 6 PM\r\nFriday, Saturday: 9:30 AM - 5 PM",
+        "remarks": "",
+        "dist": 5251.93173064603
+    },
+    {
+        "name": "Salem Library",
+        "address": "370 Essex St, Salem, MA",
+        "zip": "01970",
+        "latitude": 42.520271,
+        "longitude": -70.903203,
+        "hours": "Monday - Thursday: 9 AM - 9 PM\r\nFriday, Saturday: 9 AM - 5 PM\r\nSunday: 1 PM - 5 PM",
+        "remarks": "",
+        "dist": 5253.677543746061
+    },
+    {
+        "name": "Salem City Hall",
+        "address": "93 Washington St, Salem, MA",
+        "zip": "01970",
+        "latitude": 42.521848,
+        "longitude": -70.895408,
+        "hours": "Monday - Wednesday: 8 AM - 4 PM\r\nThursday: 8 AM - 7 PM\r\nFriday: 8 AM - 12 PM\r\nWeekends: Closed",
+        "remarks": "",
+        "dist": 5253.314288129574
+    },
+    {
+        "name": "South Harbor Garage",
+        "address": "245 Derby Street, Salem, MA",
+        "zip": "01970",
+        "latitude": 42.52063,
+        "longitude": -70.889742,
+        "hours": "9 AM - 8 PM",
+        "remarks": "",
+        "dist": 5253.0134849778215
+    },
+    {
+        "name": "Artists Row",
+        "address": "24 New Derby Street, Salem, MA",
+        "zip": "01970",
+        "latitude": 42.519849,
+        "longitude": -70.894606,
+        "hours": "8 AM - 9 PM",
+        "remarks": "",
+        "dist": 5253.24330341809
+    },
+    {
+        "name": "Salem Maritime National Historic Site / Central Wharf",
+        "address": "160 Derby Street, Salem, MA",
+        "zip": "01970",
+        "latitude": 42.519612,
+        "longitude": -70.885988,
+        "hours": "9 AM - 4 PM",
+        "remarks": "Seasonal (open only through October 31)",
+        "dist": 5252.810901442084
+    },
+    {
+        "name": "Salem Regional Visitor Center / National Park Service",
+        "address": "2 New Liberty Street, Salem, MA",
+        "zip": "01970",
+        "latitude": 42.522601,
+        "longitude": -70.891986,
+        "hours": "Wednesday - Sunday: 10 AM - 4 PM\r\nMonday, Tuesday: Closed",
+        "remarks": "There is also a seasonal portapotty in October",
+        "dist": 5253.155772826537
+    },
+    {
+        "name": "Salem Common",
+        "address": "82 Washington Square E, Salem, MA",
+        "zip": "01970",
+        "latitude": 42.524243,
+        "longitude": -70.887769,
+        "hours": "24/7",
+        "remarks": "Seasonal portapotty (only October)",
+        "dist": 5252.971549716201
+    },
+    {
+        "name": "Front Street Parking Lot",
+        "address": "3 Front St Salem, MA",
+        "zip": "01970",
+        "latitude": 42.520527,
+        "longitude": -70.893739,
+        "hours": "24/7",
+        "remarks": "Seasonal portapotty (only October)",
+        "dist": 5253.210717585279
+    },
+    {
+        "name": "Beverly Public Library (Farms)",
+        "address": "24 Vine Street, Beverly, MA",
+        "zip": "01915",
+        "latitude": 42.562296,
+        "longitude": -70.812372,
+        "hours": "Monday, Wednesday: 10 AM - 6 PM\r\nTuesday, Thursday: 10 AM - 9 PM\r\nFriday, Saturday: 10 AM - 5 PM\r\nSunday: Closed",
+        "remarks": "",
+        "dist": 5249.816226349803
+    },
+    {
+        "name": "Beverly City Hall",
+        "address": "191 Cabot St, Beverly, MA",
+        "zip": "01915",
+        "latitude": 42.547764,
+        "longitude": -70.878526,
+        "hours": "Monday - Wednesday: 8:30 AM - 4:30 PM\r\nThursday: 8:30 AM - 7:30 PM\r\nFriday: 8:30 AM - 1 PM\r\nWeekends: Closed",
+        "remarks": "",
+        "dist": 5252.878012140725
+    },
+    {
+        "name": "Manchester-by-the-Sea Town Hall",
+        "address": "10 Central St, Manchester-by-the-Sea, MA",
+        "zip": "01944",
+        "latitude": 42.574873,
+        "longitude": -70.772305,
+        "hours": "Monday - Wednesday: 8:30 AM - 5 PM\r\nThursday: 8:30 AM - 6:30 PM\r\nFriday - Sunday: Closed",
+        "remarks": "",
+        "dist": 5248.022105886658
+    },
+    {
+        "name": "Manchester-by-the-Sea Public Library",
+        "address": "15 Union St, Manchester-by-the-Sea, MA",
+        "zip": "01944",
+        "latitude": 42.574989,
+        "longitude": -70.771334,
+        "hours": "Monday, Wednesday, Friday: 10 AM - 5 PM\r\nTuesday, Thursday: 10 AM - 7 PM\r\nSaturday: 10 AM - 4 PM\r\nSunday: 1 PM - 4 PM",
+        "remarks": "",
+        "dist": 5247.975681690107
+    },
+    {
+        "name": "Beverly Public Library (Main)",
+        "address": "32 Essex Street, Beverly, MA",
+        "zip": "01915",
+        "latitude": 42.55096,
+        "longitude": -70.87615,
+        "hours": "Monday - Thursday: 9 AM - 9 PM\r\nFriday, Saturday: 9 AM - 5 PM\r\nSunday: 1 PM - 5 PM",
+        "remarks": "",
+        "dist": 5252.809655717348
+    },
+    {
+        "name": "Voke Park",
+        "address": "540 Washington Ave, Chelsea, MA",
+        "zip": "02150",
+        "latitude": 42.409164,
+        "longitude": -71.030408,
+        "hours": "TBD",
+        "remarks": "Seasonal restrooms are open when permit holders are scheduled to use the parks or when city wide activities happen in these locations.",
+        "dist": 5258.293402653987
+    },
+    {
+        "name": "Highland Park",
+        "address": "30 Willow St, Chelsea, MA",
+        "zip": "02150",
+        "latitude": 42.387634,
+        "longitude": -71.027391,
+        "hours": "",
+        "remarks": "Seasonal restrooms are open when permit holders are scheduled to use the parks or when city wide activities happen in these locations.",
+        "dist": 5257.811295652293
+    },
+    {
+        "name": "Yirrell Beach",
+        "address": "843 Shirley Street, Winthrop, MA",
+        "zip": "02152",
+        "latitude": 42.363929,
+        "longitude": -70.970178,
+        "hours": "",
+        "remarks": "Seasonal (May through September)",
+        "dist": 5254.591730968045
+    },
+    {
+        "name": "Great Brook Farm State Park",
+        "address": "165 North Rd, Carlisle, MA",
+        "zip": "01741",
+        "latitude": 42.554943,
+        "longitude": -71.349909,
+        "hours": "7:30 AM - 6:30 PM",
+        "remarks": "",
+        "dist": 5276.440572237165
+    },
+    {
+        "name": "Ashland Town Hall",
+        "address": "101 Main St, Ashland, MA",
+        "zip": "01721",
+        "latitude": 42.261137,
+        "longitude": -71.466165,
+        "hours": "Monday, Tuesday, Thursday: 8 AM - 3:30 PM\r\nWednesday: 8 AM - 7 PM\r\nFriday - Saturday: Closed",
+        "remarks": "",
+        "dist": 5277.810149102572
+    },
+    {
+        "name": "Ashland Public Library",
+        "address": "66 Front Street Ashland, MA",
+        "zip": "01721",
+        "latitude": 42.26079,
+        "longitude": -71.463201,
+        "hours": "Monday - Thursday: 10 AM - 8 PM\r\nFriday: 10 AM - 5 PM\r\nSaturday: 9 AM - 4 PM\r\nSunday: Closed",
+        "remarks": "",
+        "dist": 5277.656611340303
+    },
+    {
+        "name": "Hopkinton Public Library",
+        "address": "13 Main St, Hopkinton, MA",
+        "zip": "01748",
+        "latitude": 42.228642,
+        "longitude": -71.519568,
+        "hours": "Monday - Thursday: 9 AM - 8 PM\r\nFriday, Saturday: 9 AM - 5 PM\r\nSunday: Closed",
+        "remarks": "",
+        "dist": 5279.997099500195
+    },
+    {
+        "name": "Hopkinton Town Hall",
+        "address": "18 Main St, Hopkinton, MA",
+        "zip": "01748",
+        "latitude": 42.229044,
+        "longitude": -71.520295,
+        "hours": "Monday, Wednesday, Thursday: 8 AM - 4:30 PM\r\nTuesday: 8 AM - 7 PM\r\nFriday: 8 AM - 2 PM\r\nWeekends: Closed",
+        "remarks": "",
+        "dist": 5280.03951499195
+    },
+    {
+        "name": "Saugus Town Hall",
+        "address": "298 Central St, Saugus, MA",
+        "zip": "01906",
+        "latitude": 42.465292,
+        "longitude": -71.009138,
+        "hours": "Monday: 8:30 AM - 7 PM\r\nTuesday - Thursday: 8:15 AM - 5 PM\r\nFriday: 8:15 AM - 12:30 PM\r\nWeekends: Closed",
+        "remarks": "",
+        "dist": 5258.099087716595
+    },
+    {
+        "name": "Saugus Public Library",
+        "address": "295 Central Street, Saugus, MA",
+        "zip": "01906",
+        "latitude": 42.465326,
+        "longitude": -71.010181,
+        "hours": "Monday - Thursday: 9 AM - 8 PM\r\nFriday: 9 AM - 2 PM\r\nWeekends: Closed",
+        "remarks": "",
+        "dist": 5258.1515638715755
+    },
+    {
+        "name": "Hull Town Hall",
+        "address": "253 Atlantic Ave, Hull, MA",
+        "zip": "02045",
+        "latitude": 42.265252,
+        "longitude": -70.846022,
+        "hours": "Monday - Thursday: 7:45 AM - 5 PM\r\nFriday - Sunday: Closed",
+        "remarks": "",
+        "dist": 5246.866001012819
+    },
+    {
+        "name": "Hull Public Library",
+        "address": "9 Main St, Hull, MA",
+        "zip": "02045",
+        "latitude": 42.302155,
+        "longitude": -70.906576,
+        "hours": "Monday, Thursday: 10 AM - 7 PM\r\nTuesday, Wednesday: 10 AM - 5 PM\r\nFriday, Saturday: 10 AM - 2 PM\r\nSunday: Closed",
+        "remarks": "",
+        "dist": 5250.462213452429
+    },
+    {
+        "name": "Thayer Public Library",
+        "address": "798 Washington St, Braintree, MA",
+        "zip": "02184",
+        "latitude": 42.205662,
+        "longitude": -71.004267,
+        "hours": "Monday - Thursday: 9 AM - 8 PM\r\nFriday: 9 AM - 5 PM\r\nWeekends: Closed",
+        "remarks": "",
+        "dist": 5253.856359892934
+    },
+    {
+        "name": "Braintree Town Hall",
+        "address": "1 John F Kennedy Memorial Dr, Braintree, MA",
+        "zip": "02184",
+        "latitude": 42.206028,
+        "longitude": -71.005358,
+        "hours": "Monday, Wednesday, Thursday: 8:30 AM - 4:30 PM\r\nTuesday: 8:30 AM - 7 PM\r\nFriday: 8:30 AM - 1 PM\r\nWeekends: Closed",
+        "remarks": "",
+        "dist": 5253.916563888476
+    },
+    {
+        "name": "Randolph Town Hall",
+        "address": "41 South Main St, Randolph, MA",
+        "zip": "02368",
+        "latitude": 42.161336,
+        "longitude": -71.042935,
+        "hours": "Weekdays: 8:30 AM - 4:30 PM\r\nWeekends: Closed",
+        "remarks": "",
+        "dist": 5255.111325017367
+    },
+    {
+        "name": "Turner Free Library",
+        "address": "2 North Main St, Randolph, MA",
+        "zip": "02368",
+        "latitude": 42.163069,
+        "longitude": -71.041606,
+        "hours": "Monday - Wednesday: 9 AM - 8 PM\r\nThursday - Saturday: 9 AM - 5 PM\r\nSunday: Closed",
+        "remarks": "",
+        "dist": 5255.071343459278
+    },
+    {
+        "name": "Attleboro Public Library",
+        "address": "74 N Main St, Attleboro, MA",
+        "zip": "02703",
+        "latitude": 41.94609,
+        "longitude": -71.28681,
+        "hours": "Monday, Wednesday: 8:30 AM - 8:30 PM\r\nTuesday, Friday, Saturday: 8:30 AM - 4:30 PM\r\nSunday: Closed",
+        "remarks": "",
+        "dist": 5264.0779818256415
+    },
+    {
+        "name": "Attleboro City Hall",
+        "address": "77 Park St, Attleboro, MA",
+        "zip": "02703",
+        "latitude": 41.943752,
+        "longitude": -71.28073,
+        "hours": "Weekdays: 8:30 AM - 4:30 PM\r\nWeekends: Closed",
+        "remarks": "",
+        "dist": 5263.73704335073
+    },
+    {
+        "name": "North Attleboro Town Hall",
+        "address": "43 S Washington St, North Attleborough, MA",
+        "zip": "02760",
+        "latitude": 41.980896,
+        "longitude": -71.334052,
+        "hours": "Monday: 8 AM - 6 PM\r\nTuesday - Thursday: 8 AM - 4 PM\r\nFriday: 8 AM - 12 PM\r\nWeekends: Closed",
+        "remarks": "",
+        "dist": 5266.976575925723
+    },
+    {
+        "name": "Berkley Town Hall",
+        "address": "1 North Main St, Berkley, MA",
+        "zip": "02779",
+        "latitude": 41.845544,
+        "longitude": -71.082419,
+        "hours": "Monday, Tuesday, Thursday: 9:30 AM - 2:30 PM\r\nWednesday: 6 PM - 8 PM\r\nFriday - Sunday: Closed",
+        "remarks": "",
+        "dist": 5252.273650390678
+    },
+    {
+        "name": "Berkley Public Library",
+        "address": "2 North Main St, Berkley, MA",
+        "zip": "02779",
+        "latitude": 41.846968,
+        "longitude": -71.082412,
+        "hours": "Tuesday: 9 AM - 5 PM\r\nWednesday, Thursday: 1 PM - 8 PM\r\nFriday: 9 AM - 12 PM\r\nSaturday: 9 AM - 2 PM\r\nSunday, Monday: Closed",
+        "remarks": "",
+        "dist": 5252.2949447664305
+    },
+    {
+        "name": "Dighton Town Hall and Public Library",
+        "address": "979 Somerset Ave, Dighton, MA",
+        "zip": "02715",
+        "latitude": 41.839378,
+        "longitude": -71.118052,
+        "hours": "Town Hall:\r\nMonday, Tuesday, Thursday: 7:30 AM - 4:30 PM\r\nWednesday: 7:30 AM - 5:30 PM\r\nFriday - Sunday: Closed\r\n\r\nLibrary:\r\nMonday: 12 PM - 8 PM\r\nTuesday - Thursday: 10 AM - 6 PM\r\nSaturday: 10 AM - 3 PM\r\nFriday, Sunday: Closed",
+        "remarks": "",
+        "dist": 5253.973893704347
+    },
+    {
+        "name": "Easton Town Hall",
+        "address": "136 Elm St, Easton, MA",
+        "zip": "02356",
+        "latitude": 42.074882,
+        "longitude": -71.095898,
+        "hours": "Monday: 8:30 AM - 7:30 PM\r\nTuesday - Thursday: 8:30 AM - 4:30 PM\r\nFriday: 8:30 AM - 12:30 PM\r\nWeekends: Closed",
+        "remarks": "",
+        "dist": 5256.44334592459
+    },
+    {
+        "name": "Ames Free Library",
+        "address": "53 Main Street, Easton, MA",
+        "zip": "02356",
+        "latitude": 42.067233,
+        "longitude": -71.105294,
+        "hours": "Monday - Thursday: 9 AM - 8 PM\r\nFriday: 9 AM - 5 PM\r\nSaturday: 10 AM - 5 PM\r\nSunday: Closed",
+        "remarks": "",
+        "dist": 5256.797927836717
+    },
+    {
+        "name": "Freetown Town Hall",
+        "address": "3 North Main St, Freetown, MA",
+        "zip": "02702",
+        "latitude": 41.795466,
+        "longitude": -71.068084,
+        "hours": "Monday - Thursday: 8 AM - 4 PM\r\nFriday: 8 AM - 12 PM\r\nWeekends: Closed",
+        "remarks": "",
+        "dist": 5250.790588902387
+    },
+    {
+        "name": "Guilford H. Hathaway Library",
+        "address": "6 North Main Street, Freetown, MA",
+        "zip": "02702",
+        "latitude": 41.795764,
+        "longitude": -71.067716,
+        "hours": "Monday, Friday: 12 PM - 5 PM\r\nWednesday: 10 AM - 7 PM\r\nTuesday, Thursday, Weekends: Closed",
+        "remarks": "",
+        "dist": 5250.776579225701
+    },
+    {
+        "name": "James White Memorial Library",
+        "address": "5 Washburn Road, Freetown, MA",
+        "zip": "02717",
+        "latitude": 41.774436,
+        "longitude": -70.959394,
+        "hours": "Tuesday, Thursday: 10 AM - 7 PM\r\nFriday: 10 AM - 3 PM\r\nSaturday: 12 PM - 3 PM\r\nSunday, Monday, Wednesday: Closed",
+        "remarks": "",
+        "dist": 5244.994403928644
+    },
+    {
+        "name": "Mansfield Town Hall",
+        "address": "6 Park Row, Mansfield, MA",
+        "zip": "02048",
+        "latitude": 42.023469,
+        "longitude": -71.215594,
+        "hours": "Monday, Tuesday, Thursday: 8 AM - 4 PM\r\nWednesday: 8 AM - 8 PM\r\nFriday: 8 AM - 12 PM\r\nWeekends: Closed",
+        "remarks": "",
+        "dist": 5261.6681376769475
+    },
+    {
+        "name": "Mansfield Public Library",
+        "address": "255 Hope St, Mansfield, MA",
+        "zip": "02048",
+        "latitude": 42.033906,
+        "longitude": -71.20979,
+        "hours": "Monday - Thursday: 10 AM - 8 PM\r\nFriday: 10 AM - 5 PM\r\nSaturday: 10 AM - 4 PM\r\nSunday: Closed",
+        "remarks": "",
+        "dist": 5261.534823769378
+    },
+    {
+        "name": "Norton Public Library",
+        "address": "68 East Main Street, Norton, MA",
+        "zip": "02766",
+        "latitude": 41.970563,
+        "longitude": -71.18126,
+        "hours": "Monday, Tuesday, Thursday: 9:30 AM - 7:30 PM\r\nWednesday, Friday: 9:30 AM - 2:30 PM\r\nWeekends: Closed",
+        "remarks": "",
+        "dist": 5259.142188581641
+    },
+    {
+        "name": "Norton Town Hall",
+        "address": "70 East Main St, Norton, MA",
+        "zip": "02766",
+        "latitude": 41.9711,
+        "longitude": -71.179863,
+        "hours": "Monday - Wednesday: 8:30 AM - 4:30 PM\r\nThursday: 8:30 AM - 7:30 PM\r\nFriday: 8:30 AM - 12:30 PM\r\nWeekends: Closed",
+        "remarks": "",
+        "dist": 5259.080131230157
+    },
+    {
+        "name": "Raynham Town Hall",
+        "address": "558 S Main St, Raynham, MA",
+        "zip": "02767",
+        "latitude": 41.9182,
+        "longitude": -71.057138,
+        "hours": "Monday, Wednesday, Thursday: 8:30 AM - 4:30 PM\r\nTuesday: 8:30 AM - 4:30 PM, 6 PM - 8 PM\r\nFriday: 8:30 AM - 12:30 PM\r\nWeekends: Closed",
+        "remarks": "",
+        "dist": 5252.107841310365
+    },
+    {
+        "name": "Raynham Public Library",
+        "address": "760 S Main St, Raynham, MA",
+        "zip": "02767",
+        "latitude": 41.92276,
+        "longitude": -71.053049,
+        "hours": "Monday - Wednesday: 10 AM - 8 PM\r\nThursday, Friday: 10 AM - 5 PM\r\nSaturday: 10 AM - 4 PM\r\nSunday: Closed",
+        "remarks": "",
+        "dist": 5251.971799007654
+    },
+    {
+        "name": "Blanding Library",
+        "address": "124 Bay State Rd, Rehoboth, MA",
+        "zip": "02769",
+        "latitude": 41.841332,
+        "longitude": -71.249567,
+        "hours": "Monday - Thursday: 10 AM - 8 PM\r\nFriday, Saturday: 10 AM - 4 PM\r\nSunday: Closed",
+        "remarks": "",
+        "dist": 5260.626073660812
+    },
+    {
+        "name": "Rehoboth Town Office Building",
+        "address": "340 Anawan St, Rehoboth, MA",
+        "zip": "02769",
+        "latitude": 41.861212,
+        "longitude": -71.238371,
+        "hours": "",
+        "remarks": "",
+        "dist": 5260.361849481861
+    },
+    {
+        "name": "Seekonk Town Hall",
+        "address": "100 Peck St, Seekonk, MA",
+        "zip": "02771",
+        "latitude": 41.830131,
+        "longitude": -71.325268,
+        "hours": "Monday, Tuesday, Thursday: 8:30 AM - 4:30 PM\r\nWednesday: 8:30 AM - 7 PM\r\nFriday: 8:30 AM - 12 PM\r\nWeekends: Closed",
+        "remarks": "",
+        "dist": 5264.271171816975
+    },
+    {
+        "name": "Seekonk Public Library",
+        "address": "410 Newman Ave, Seekonk, MA",
+        "zip": "02771",
+        "latitude": 41.853308,
+        "longitude": -71.329439,
+        "hours": "Monday - Thursday: 9 AM - 8 PM\r\nFriday, Saturday: 9 AM - 5 PM\r\nSunday: Closed",
+        "remarks": "",
+        "dist": 5264.828858721243
+    },
+    {
+        "name": "Taunton Public Library",
+        "address": "12 Pleasant St, Taunton, MA",
+        "zip": "02780",
+        "latitude": 41.903679,
+        "longitude": -71.094842,
+        "hours": "Monday - Thursday: 8 AM - 8 PM\r\nFriday: 8 AM - 5 PM\r\nWeekends: Closed",
+        "remarks": "",
+        "dist": 5253.7826145984045
+    },
+    {
+        "name": "Taunton City Hall",
+        "address": "15 Summer St, Taunton, MA",
+        "zip": "02780",
+        "latitude": 41.901184,
+        "longitude": -71.089655,
+        "hours": "Monday, Wednesday, Thursday: 8 AM - 4 PM\r\nTuesday: 8 AM - 7 PM\r\nFriday: 8 AM - 12 PM\r\nWeekends: Closed",
+        "remarks": "",
+        "dist": 5253.483802249276
+    },
+    {
+        "name": "Abington Public Library",
+        "address": "600 Gliniewicz Way, Abington, MA",
+        "zip": "02351",
+        "latitude": 42.11776,
+        "longitude": -70.957528,
+        "hours": "Monday - Thursday: 10 AM - 8:15 PM\r\nFriday: 12:30 PM - 4:45 PM\r\nWeekends: Closed",
+        "remarks": "",
+        "dist": 5250.16496443005
+    },
+    {
+        "name": "Abington Town Hall",
+        "address": "500 Gliniewicz Way, Abington, MA",
+        "zip": "02351",
+        "latitude": 42.117763,
+        "longitude": -70.957659,
+        "hours": "Monday - Thursday: 8:30 AM - 4:30 PM\r\nFriday: 8:30 AM - 12:30 PM\r\nWeekends: Closed",
+        "remarks": "",
+        "dist": 5250.171572813355
+    },
+    {
+        "name": "Cambridge Water Department",
+        "address": "250 Fresh Pond Pkwy, Cambridge, MA",
+        "zip": "02138",
+        "latitude": 42.383784,
+        "longitude": -71.147561,
+        "hours": "TBD",
+        "remarks": "Seasonal portapotties, along with seasonally accessible bathrooms inside the building",
+        "dist": 5263.7471559599
+    },
+    {
+        "name": "Dedham Town Hall",
+        "address": "450 Washington St, Dedham, MA",
+        "zip": "02026",
+        "latitude": 42.245678,
+        "longitude": -71.174957,
+        "hours": "Monday, Tuesday, Thursday, Friday: 8:30 AM - 4:30 PM\r\nWednesday: 8:30 AM - 7 PM\r\nWeekends: Closed",
+        "remarks": "",
+        "dist": 5263.006991384973
+    },
+    {
+        "name": "Dedham Public Library - Main Branch",
+        "address": "43 Church Street, Dedham, MA",
+        "zip": "02026",
+        "latitude": 42.247822,
+        "longitude": -71.176152,
+        "hours": "Monday - Thursday: 9 AM - 8 PM\r\nFriday, Saturday: 9 AM - 5 PM\r\nSunday: Closed",
+        "remarks": "",
+        "dist": 5263.099431378118
+    },
+    {
+        "name": "Dedham Public Library - Endicott Branch",
+        "address": "257 Mt Vernon St, Dedham, MA",
+        "zip": "02026",
+        "latitude": 42.240012,
+        "longitude": -71.160946,
+        "hours": "Monday, Wednesday, Friday: 9 AM - 5 PM\r\nTuesday, Thursday: 12 PM - 8 PM\r\nSunday: 10 AM - 2 PM\r\nSaturday: Closed",
+        "remarks": "",
+        "dist": 5262.219813139109
+    },
+    {
+        "name": "Boston Common",
+        "address": "1 Charles St, Boston, MA",
+        "zip": "02111",
+        "latitude": 42.356089,
+        "longitude": -71.069159,
+        "hours": "9 AM - 7 PM",
+        "remarks": "Public Restrooms installed and paid for by Friends of the Public Garden are now open on Boston Common near Charles St. entrance. The restrooms are located near the Charles/Beacon entrance to the Common. The seasonal restrooms are ADA-compliant, cleaned several times daily, and monitored by on-site security.",
+        "dist": 5259.410067742104
+    },
+    {
+        "name": "Scagnoli-Nihill Athletic Complex",
+        "address": "10 Williams St, Jamaica Plain, MA",
+        "zip": "02130",
+        "latitude": 42.307019,
+        "longitude": -71.108383,
+        "hours": "TBD",
+        "remarks": "seasonal bathrooms (porta-potties)",
+        "dist": 5260.616152204466
+    },
+    {
+        "name": "Pagel Playground",
+        "address": "365 Hyde Park Ave, Boston, MA",
+        "zip": "02131",
+        "latitude": 42.287546,
+        "longitude": -71.118628,
+        "hours": "TBD",
+        "remarks": "seasonal bathrooms (port-a-potties)",
+        "dist": 5260.830022094347
+    },
+    {
+        "name": "Lawndale Terrace Garden Park",
+        "address": "2 Lawndale Terrace, Boston, MA",
+        "zip": "02130",
+        "latitude": 42.31415,
+        "longitude": -71.106112,
+        "hours": "TBD",
+        "remarks": "seasonal bathrooms (port-a-potties)",
+        "dist": 5260.611909069632
+    },
+    {
+        "name": "Lexington Centre",
+        "address": "1875 Massachusetts Ave, Lexington, MA",
+        "zip": "02420",
+        "latitude": 42.449126,
+        "longitude": -71.228997,
+        "hours": "9 AM - 4 PM",
+        "remarks": "",
+        "dist": 5268.8069797133585
+    },
+    {
+        "name": "Lawrence City Hall",
+        "address": "200 Common St, Lawrence, MA",
+        "zip": "01840",
+        "latitude": 42.708218,
+        "longitude": -71.159971,
+        "hours": "Monday, Wednesday, Thursday: 8:30 AM - 4:30 PM\r\nTuesday: 8:30 AM - 7 PM\r\nFriday: 8:30 AM - 1:30 PM\r\nWeekends: Closed",
+        "remarks": "",
+        "dist": 5269.34192293847
+    },
+    {
+        "name": "Lawrence Public Library",
+        "address": "51 Lawrence St, Lawrence, MA",
+        "zip": "01841",
+        "latitude": 42.710721,
+        "longitude": -71.162215,
+        "hours": "9 AM - 5 PM",
+        "remarks": "",
+        "dist": 5269.491781588663
+    }
+]

@@ -1,7 +1,7 @@
 # main.py
 from fastapi import FastAPI, Depends, HTTPException, status
 from fastapi.security import OAuth2PasswordBearer, OAuth2PasswordRequestForm
-from app.api.endpoints import users, health
+from app.api.endpoints import users, bathrooms, health
 from app.utils import verify_password, create_access_token
 from app.models.user import user_model
 from datetime import timedelta
@@ -29,6 +29,8 @@ app.add_middleware(
 
 # Include the users router
 app.include_router(users.router, prefix="/users", tags=["users"])
+
+app.include_router(bathrooms.router, prefix="/bathrooms", tags=["bathrooms"])
 
 app.include_router(health.router, prefix="", tags=["Health"])
 

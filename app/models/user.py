@@ -4,7 +4,7 @@ from app.schemas.user import UserInDB
 from app.database.mongodb import db
 from typing import List, Tuple
 
-class User:
+class UserModel:
     def __init__(self):
         self.collection = db["users"]
 
@@ -34,4 +34,4 @@ class User:
         return await self.collection.insert_one(form_data)
 
 
-user_model = User()
+user_model = UserModel()
