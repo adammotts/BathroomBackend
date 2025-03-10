@@ -2,7 +2,7 @@
 from pydantic_settings import BaseSettings
 
 class Settings(BaseSettings):
-    PROJECT_NAME: str = "FastAPI Boilerplate"
+    PROJECT_NAME: str = "Bathroom"
     API_V1_STR: str = "/api/v1"
     MONGODB_URL: str
     DATABASE_NAME: str = "bathroom_db"
