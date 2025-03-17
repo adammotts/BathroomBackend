@@ -1,8 +1,7 @@
 from datetime import datetime
-from bson import ObjectId
 from typing import List, Optional
 from fastapi import UploadFile, HTTPException
-from app.schemas.bathroom import Bathroom
+from app.schemas.bathroom import Bathroom, CreateBathroomRequest
 from app.schemas.user import User
 from app.database.mongodb import db
 import json
@@ -22,12 +21,10 @@ class BathroomModel:
             new_bathrooms = []
 
             for bathroom in data:
-                bathroom_id = str(ObjectId())
                 now = datetime.now()
 
                 new_bathroom = Bathroom(
                     **bathroom,
-                    id=bathroom_id,
                     created_at=now,
                     updated_at=now
                 )
@@ -43,6 +40,13 @@ class BathroomModel:
             raise HTTPException(status_code=400, detail="Invalid JSON file format.")
         except ValueError as e:
             raise HTTPException(status_code=400, detail=str(e))
+        
+    async def create_bathroom(self, bathroom: CreateBathroomRequest) -> Bathroom:
+        bathroom_data = bathroom.model_dump()
+
+        await self.collection.insert_one(bathroom_data)
+
+        return Bathroom(**bathroom_data)
 
     async def get_all_bathrooms(self) -> List[Bathroom]:
         bathrooms_list = await self.collection.find().to_list(length=None)
