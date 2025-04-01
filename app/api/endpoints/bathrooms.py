@@ -1,14 +1,9 @@
-from fastapi import APIRouter, HTTPException, status, Depends, Body, UploadFile, File
-from typing import List, Optional
-from datetime import datetime
-from pydantic import EmailStr
-from bson import ObjectId
-from app.schemas.bathroom import Bathroom, CreateBathroomRequest
+from fastapi import APIRouter, HTTPException, Depends, Body, UploadFile, File
+from typing import List
+from app.schemas.bathroom import Bathroom, CreateBathroomRequest, GetWithinAreaRequest
 from app.schemas.user import User
 from app.models.bathroom import bathroom_model
-from app.models.user import user_model
 from app.api.endpoints.users import get_current_user
-from app.database.mongodb import db
 
 router = APIRouter()
 
@@ -18,7 +13,14 @@ async def populate_bathrooms(file: UploadFile = File(...)):
 
 @router.post("/new", response_model=Bathroom)
 async def create_bathroom(bathroom: CreateBathroomRequest = Body(...), current_user: User = Depends(get_current_user)):
+    if not current_user:
+        raise HTTPException("Must be signed in")
+
     return await bathroom_model.create_bathroom(bathroom)
+
+@router.get("/area", response_model=List[Bathroom])
+async def get_within_area(bounding_box: GetWithinAreaRequest = Body(...)):
+    return await bathroom_model.get_within_area(bounding_box)
 
 @router.get("/all", response_model=List[Bathroom])
 async def get_bathrooms():

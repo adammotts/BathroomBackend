@@ -18,3 +18,9 @@ class Bathroom(BaseModel):
 
 class CreateBathroomRequest(Bathroom):
     pass
+
+class GetWithinAreaRequest(BaseModel):
+    top_left_latitude: float
+    top_left_longitude: float
+    bottom_right_latitude: float
+    bottom_right_longitude: float

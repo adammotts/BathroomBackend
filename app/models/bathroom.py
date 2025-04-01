@@ -1,8 +1,7 @@
 from datetime import datetime
-from typing import List, Optional
+from typing import List
 from fastapi import UploadFile, HTTPException
-from app.schemas.bathroom import Bathroom, CreateBathroomRequest
-from app.schemas.user import User
+from app.schemas.bathroom import Bathroom, CreateBathroomRequest, GetWithinAreaRequest
 from app.database.mongodb import db
 import json
 
@@ -47,6 +46,21 @@ class BathroomModel:
         await self.collection.insert_one(bathroom_data)
 
         return Bathroom(**bathroom_data)
+    
+    async def get_within_area(self, bounding_box: GetWithinAreaRequest) -> List[Bathroom]:
+        query = {
+            "latitude": {
+                "$gte": bounding_box.bottom_right_latitude,
+                "$lte": bounding_box.top_left_latitude
+            },
+            "longitude": {
+                "$gte": bounding_box.top_left_longitude,
+                "$lte": bounding_box.bottom_right_longitude
+            }
+        }
+
+        bathrooms_list = await self.collection.find(query).to_list(length=None)
+        return [Bathroom(**bathroom) for bathroom in bathrooms_list]
 
     async def get_all_bathrooms(self) -> List[Bathroom]:
         bathrooms_list = await self.collection.find().to_list(length=None)
