@@ -1,4 +1,4 @@
-from fastapi import APIRouter, HTTPException, Depends, Body, UploadFile, File
+from fastapi import APIRouter, HTTPException, Depends, Body, UploadFile, File, Query
 from typing import List
 from app.schemas.bathroom import Bathroom, CreateBathroomRequest, GetWithinAreaRequest
 from app.schemas.user import User
@@ -19,8 +19,20 @@ async def create_bathroom(bathroom: CreateBathroomRequest = Body(...), current_u
     return await bathroom_model.create_bathroom(bathroom)
 
 @router.get("/area", response_model=List[Bathroom])
-async def get_within_area(bounding_box: GetWithinAreaRequest = Body(...)):
-    return await bathroom_model.get_within_area(bounding_box)
+async def get_within_area(
+    top_left_latitude: float = Query(...),
+    top_left_longitude: float = Query(...),
+    bottom_right_latitude: float = Query(...),
+    bottom_right_longitude: float = Query(...)
+):
+    return await bathroom_model.get_within_area(
+        GetWithinAreaRequest(
+            top_left_latitude=top_left_latitude,
+            top_left_longitude=top_left_longitude,
+            bottom_right_latitude=bottom_right_latitude,
+            bottom_right_longitude=bottom_right_longitude
+        )
+    )
 
 @router.get("/all", response_model=List[Bathroom])
 async def get_bathrooms():

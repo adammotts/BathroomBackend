@@ -24,3 +24,6 @@ class GetWithinAreaRequest(BaseModel):
     top_left_longitude: float
     bottom_right_latitude: float
     bottom_right_longitude: float
+
+    class Config:
+        from_attributes = True
