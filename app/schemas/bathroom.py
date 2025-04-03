@@ -10,6 +10,7 @@ class Bathroom(BaseModel):
     longitude: float
     hours: str
     remarks: str
+    approved: bool = False
     created_at: datetime = datetime.now()
     updated_at: datetime = datetime.now()
 

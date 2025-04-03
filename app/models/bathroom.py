@@ -24,6 +24,7 @@ class BathroomModel:
 
                 new_bathroom = Bathroom(
                     **bathroom,
+                    approved=True,
                     created_at=now,
                     updated_at=now
                 )
@@ -63,7 +64,7 @@ class BathroomModel:
         return [Bathroom(**bathroom) for bathroom in bathrooms_list]
 
     async def get_all_bathrooms(self) -> List[Bathroom]:
-        bathrooms_list = await self.collection.find().to_list(length=None)
+        bathrooms_list = await self.collection.find({"approved": True}).to_list(length=None)
 
         return [Bathroom(**bathroom) for bathroom in bathrooms_list]
     
