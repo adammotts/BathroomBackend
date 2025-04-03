@@ -3,6 +3,7 @@ from pydantic import BaseModel
 from datetime import datetime
 
 class Bathroom(BaseModel):
+    id: str
     name: str
     address: str
     zip: str
@@ -18,7 +19,13 @@ class Bathroom(BaseModel):
         from_attributes = True
 
 class CreateBathroomRequest(Bathroom):
-    pass
+    name: str
+    address: str
+    zip: str
+    latitude: float
+    longitude: float
+    hours: str
+    remarks: str
 
 class GetWithinAreaRequest(BaseModel):
     top_left_latitude: float

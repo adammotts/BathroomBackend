@@ -3,7 +3,6 @@ from typing import List
 from app.schemas.bathroom import Bathroom, CreateBathroomRequest, GetWithinAreaRequest
 from app.schemas.user import User
 from app.models.bathroom import bathroom_model
-from app.api.endpoints.users import get_current_user
 
 router = APIRouter()
 
@@ -12,11 +11,12 @@ async def populate_bathrooms(file: UploadFile = File(...)):
     return await bathroom_model.create_from_json(file)
 
 @router.post("/new", response_model=Bathroom)
-async def create_bathroom(bathroom: CreateBathroomRequest = Body(...), current_user: User = Depends(get_current_user)):
-    if not current_user:
-        raise HTTPException("Must be signed in")
-
+async def create_bathroom(bathroom: CreateBathroomRequest = Body(...)):
     return await bathroom_model.create_bathroom(bathroom)
+
+@router.patch("/approve", response_model=Bathroom)
+async def approve_bathroom(bathroom_id: str):
+    return await bathroom_model.approve_bathroom(bathroom_id)
 
 @router.get("/area", response_model=List[Bathroom])
 async def get_within_area(

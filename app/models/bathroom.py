@@ -1,13 +1,15 @@
 from datetime import datetime
 from typing import List
 from fastapi import UploadFile, HTTPException
+from bson import ObjectId
+from motor.motor_asyncio import AsyncIOMotorCollection
 from app.schemas.bathroom import Bathroom, CreateBathroomRequest, GetWithinAreaRequest
 from app.database.mongodb import db
 import json
 
 class BathroomModel:
     def __init__(self):
-        self.collection = db["bathrooms"]
+        self.collection: AsyncIOMotorCollection = db["bathrooms"]
 
     async def create_from_json(self, file: UploadFile) -> List[Bathroom]:
         try:
@@ -24,6 +26,7 @@ class BathroomModel:
 
                 new_bathroom = Bathroom(
                     **bathroom,
+                    id=str(ObjectId()),
                     approved=True,
                     created_at=now,
                     updated_at=now
@@ -47,6 +50,18 @@ class BathroomModel:
         await self.collection.insert_one(bathroom_data)
 
         return Bathroom(**bathroom_data)
+    
+    async def approve_bathroom(self, bathroom_id: str) -> Bathroom:
+        result = await self.collection.find_one_and_update(
+            {"id": bathroom_id},
+            {"$set": {"approved": True}},
+            return_document=True
+        )
+
+        if result is None:
+            raise ValueError("Bathroom not found")
+
+        return Bathroom(**result)
     
     async def get_within_area(self, bounding_box: GetWithinAreaRequest) -> List[Bathroom]:
         query = {
