@@ -47,7 +47,7 @@ class BathroomModel:
     async def create_bathroom(self, bathroom: CreateBathroomRequest) -> Bathroom:
         bathroom_data = bathroom.model_dump()
 
-        await self.collection.insert_one(bathroom_data)
+        await self.collection.insert_one({ **bathroom_data, "approved": True })
 
         return Bathroom(**bathroom_data)
     
